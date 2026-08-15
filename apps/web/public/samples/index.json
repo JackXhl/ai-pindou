@@ -20,16 +20,6 @@
     "totalColors": 2
   },
   {
-    "id": "mushroom-29",
-    "title": "像素小蘑菇",
-    "tag": "可爱",
-    "featured": true,
-    "cols": 29,
-    "rows": 29,
-    "totalBeads": 841,
-    "totalColors": 4
-  },
-  {
     "id": "star-29",
     "title": "五角星",
     "tag": "入门",
@@ -38,6 +28,66 @@
     "rows": 29,
     "totalBeads": 841,
     "totalColors": 2
+  },
+  {
+    "id": "moon-29",
+    "title": "弯月",
+    "tag": "入门",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 2
+  },
+  {
+    "id": "cloud-29",
+    "title": "云朵",
+    "tag": "入门",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 2
+  },
+  {
+    "id": "arrow-29",
+    "title": "箭头",
+    "tag": "入门",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 2
+  },
+  {
+    "id": "check-29",
+    "title": "对勾",
+    "tag": "入门",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 2
+  },
+  {
+    "id": "diamond-29",
+    "title": "钻石",
+    "tag": "入门",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 3
+  },
+  {
+    "id": "mushroom-29",
+    "title": "像素小蘑菇",
+    "tag": "可爱",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 4
   },
   {
     "id": "cherry-29",
@@ -70,6 +120,326 @@
     "totalColors": 4
   },
   {
+    "id": "fish-29",
+    "title": "小鱼",
+    "tag": "可爱",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 3
+  },
+  {
+    "id": "bird-29",
+    "title": "小鸟",
+    "tag": "可爱",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 4
+  },
+  {
+    "id": "bunny-29",
+    "title": "小兔子",
+    "tag": "可爱",
+    "featured": true,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 5
+  },
+  {
+    "id": "cupcake-29",
+    "title": "纸杯蛋糕",
+    "tag": "可爱",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 5
+  },
+  {
+    "id": "apple-29",
+    "title": "苹果",
+    "tag": "可爱",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 5
+  },
+  {
+    "id": "paw-29",
+    "title": "爪印",
+    "tag": "可爱",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 2
+  },
+  {
+    "id": "sunrise-29",
+    "title": "日出",
+    "tag": "风景",
+    "featured": true,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 6
+  },
+  {
+    "id": "hills-29",
+    "title": "山丘",
+    "tag": "风景",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 3
+  },
+  {
+    "id": "waves-29",
+    "title": "海浪",
+    "tag": "风景",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 3
+  },
+  {
+    "id": "night-sky-29",
+    "title": "夜空",
+    "tag": "风景",
+    "featured": true,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 3
+  },
+  {
+    "id": "tree-line-29",
+    "title": "树林",
+    "tag": "风景",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 4
+  },
+  {
+    "id": "island-29",
+    "title": "小岛",
+    "tag": "风景",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 5
+  },
+  {
+    "id": "rain-29",
+    "title": "雨天",
+    "tag": "风景",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 3
+  },
+  {
+    "id": "aurora-52",
+    "title": "极光",
+    "tag": "风景",
+    "featured": false,
+    "cols": 58,
+    "rows": 29,
+    "totalBeads": 1682,
+    "totalColors": 20
+  },
+  {
+    "id": "vase-29",
+    "title": "花瓶",
+    "tag": "静物",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 3
+  },
+  {
+    "id": "mug-29",
+    "title": "马克杯",
+    "tag": "静物",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 3
+  },
+  {
+    "id": "book-29",
+    "title": "书本",
+    "tag": "静物",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 5
+  },
+  {
+    "id": "plant-29",
+    "title": "盆栽",
+    "tag": "静物",
+    "featured": true,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 3
+  },
+  {
+    "id": "lamp-29",
+    "title": "台灯",
+    "tag": "静物",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 3
+  },
+  {
+    "id": "bottle-29",
+    "title": "瓶子",
+    "tag": "静物",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 4
+  },
+  {
+    "id": "face-round-29",
+    "title": "圆脸",
+    "tag": "人像感",
+    "featured": true,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 4
+  },
+  {
+    "id": "face-side-29",
+    "title": "侧脸",
+    "tag": "人像感",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 3
+  },
+  {
+    "id": "bust-simple-29",
+    "title": "半身像",
+    "tag": "人像感",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 3
+  },
+  {
+    "id": "hat-figure-29",
+    "title": "戴帽人",
+    "tag": "人像感",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 4
+  },
+  {
+    "id": "duo-faces-29",
+    "title": "双人像",
+    "tag": "人像感",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 4
+  },
+  {
+    "id": "mask-geo-29",
+    "title": "几何面具",
+    "tag": "人像感",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 4
+  },
+  {
+    "id": "lantern-29",
+    "title": "灯笼",
+    "tag": "节日",
+    "featured": true,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 5
+  },
+  {
+    "id": "snowflake-29",
+    "title": "雪花",
+    "tag": "节日",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 2
+  },
+  {
+    "id": "gift-29",
+    "title": "礼物",
+    "tag": "节日",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 3
+  },
+  {
+    "id": "firework-29",
+    "title": "烟花",
+    "tag": "节日",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 6
+  },
+  {
+    "id": "envelope-29",
+    "title": "信封",
+    "tag": "节日",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 3
+  },
+  {
+    "id": "candle-29",
+    "title": "蜡烛",
+    "tag": "节日",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 4
+  },
+  {
     "id": "rainbow-58",
     "title": "彩虹条",
     "tag": "几何",
@@ -78,5 +448,35 @@
     "rows": 29,
     "totalBeads": 1682,
     "totalColors": 24
+  },
+  {
+    "id": "mosaic-29",
+    "title": "马赛克",
+    "tag": "几何",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 6
+  },
+  {
+    "id": "pop-blocks-29",
+    "title": "色块",
+    "tag": "几何",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 5
+  },
+  {
+    "id": "spiral-29",
+    "title": "螺旋",
+    "tag": "几何",
+    "featured": false,
+    "cols": 29,
+    "rows": 29,
+    "totalBeads": 841,
+    "totalColors": 2
   }
 ]
