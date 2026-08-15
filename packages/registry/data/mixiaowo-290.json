@@ -1,0 +1,4369 @@
+{
+  "id": "mixiaowo-290",
+  "brand": "咪小窝",
+  "version": "咪小窝 290 色卡",
+  "colors": [
+    {
+      "code": "77",
+      "name": "77",
+      "hex": "#FAF5CD",
+      "lab": [
+        96.0124,
+        -4.7145,
+        19.8987
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "2",
+      "name": "2",
+      "hex": "#FCFED6",
+      "lab": [
+        98.6047,
+        -7.1731,
+        18.9485
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "28",
+      "name": "28",
+      "hex": "#FCFF92",
+      "lab": [
+        97.7497,
+        -16.0718,
+        51.5595
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "3",
+      "name": "3",
+      "hex": "#F7EC5C",
+      "lab": [
+        91.9267,
+        -13.0506,
+        68.7808
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "79",
+      "name": "79",
+      "hex": "#F0D83A",
+      "lab": [
+        85.9792,
+        -7.6709,
+        75.1452
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "29",
+      "name": "29",
+      "hex": "#FDA951",
+      "lab": [
+        75.9818,
+        23.1547,
+        56.58
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "4",
+      "name": "4",
+      "hex": "#FA8C4F",
+      "lab": [
+        69.2197,
+        36.8869,
+        49.9761
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "98",
+      "name": "98",
+      "hex": "#FDD94D",
+      "lab": [
+        87.5082,
+        -1.9132,
+        70.3013
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "97",
+      "name": "97",
+      "hex": "#F99C5F",
+      "lab": [
+        72.7256,
+        29.1698,
+        45.9846
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "96",
+      "name": "96",
+      "hex": "#F47E36",
+      "lab": [
+        65.2998,
+        40.5316,
+        57.3173
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "109",
+      "name": "109",
+      "hex": "#FEDB99",
+      "lab": [
+        88.9399,
+        3.374,
+        36.9418
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "110",
+      "name": "110",
+      "hex": "#FDA276",
+      "lab": [
+        74.8478,
+        29.3251,
+        36.7995
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "116",
+      "name": "116",
+      "hex": "#FEC667",
+      "lab": [
+        83.1482,
+        9.7811,
+        54.416
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "135",
+      "name": "135",
+      "hex": "#F85842",
+      "lab": [
+        59.2836,
+        59.9008,
+        45.4937
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "150",
+      "name": "150",
+      "hex": "#FBF65E",
+      "lab": [
+        94.8363,
+        -16.1933,
+        71.1517
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "216",
+      "name": "216",
+      "hex": "#FEFF97",
+      "lab": [
+        97.9642,
+        -14.8122,
+        49.4779
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "213",
+      "name": "213",
+      "hex": "#FDE173",
+      "lab": [
+        89.8473,
+        -3.5673,
+        56.5882
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "208",
+      "name": "208",
+      "hex": "#FCBF80",
+      "lab": [
+        81.5764,
+        14.6116,
+        40.1423
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "218",
+      "name": "218",
+      "hex": "#FD7E77",
+      "lab": [
+        67.3834,
+        47.691,
+        26.5537
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "242",
+      "name": "242",
+      "hex": "#F9D66E",
+      "lab": [
+        86.683,
+        0.0095,
+        55.1221
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "261",
+      "name": "261",
+      "hex": "#FAE393",
+      "lab": [
+        90.4922,
+        -2.8841,
+        41.8986
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "255",
+      "name": "255",
+      "hex": "#EDF878",
+      "lab": [
+        94.5243,
+        -20.8493,
+        59.4492
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "259",
+      "name": "259",
+      "hex": "#E1C9BD",
+      "lab": [
+        82.6235,
+        6.4761,
+        9.0624
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "273",
+      "name": "273",
+      "hex": "#F3F6A9",
+      "lab": [
+        95.0901,
+        -12.567,
+        36.8024
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "274",
+      "name": "274",
+      "hex": "#FFD785",
+      "lab": [
+        87.7553,
+        3.8315,
+        45.4714
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "275",
+      "name": "275",
+      "hex": "#FEC832",
+      "lab": [
+        83.2389,
+        6.1273,
+        75.6629
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "168",
+      "name": "168",
+      "hex": "#BBC6B6",
+      "lab": [
+        78.6538,
+        -6.7191,
+        6.72
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "172",
+      "name": "172",
+      "hex": "#909994",
+      "lab": [
+        62.3805,
+        -4.218,
+        1.5078
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "166",
+      "name": "166",
+      "hex": "#697E80",
+      "lab": [
+        51.2475,
+        -7.1465,
+        -3.6369
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "167",
+      "name": "167",
+      "hex": "#E0D4BC",
+      "lab": [
+        85.2844,
+        0.2102,
+        13.3659
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "159",
+      "name": "159",
+      "hex": "#D0CBAE",
+      "lab": [
+        81.3896,
+        -3.1065,
+        15.1075
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "169",
+      "name": "169",
+      "hex": "#B0AA86",
+      "lab": [
+        69.2563,
+        -3.7807,
+        19.3796
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "171",
+      "name": "171",
+      "hex": "#B0A796",
+      "lab": [
+        68.802,
+        0.3045,
+        9.9565
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "162",
+      "name": "162",
+      "hex": "#AE8082",
+      "lab": [
+        58.0847,
+        18.0658,
+        5.913
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "170",
+      "name": "170",
+      "hex": "#A88764",
+      "lab": [
+        58.5782,
+        7.6863,
+        23.5839
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "164",
+      "name": "164",
+      "hex": "#C6B2BB",
+      "lab": [
+        74.4673,
+        8.718,
+        -1.9615
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "161",
+      "name": "161",
+      "hex": "#9D7693",
+      "lab": [
+        54.2727,
+        20.2087,
+        -9.7558
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "173",
+      "name": "173",
+      "hex": "#644B51",
+      "lab": [
+        34.673,
+        11.6264,
+        0.5556
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "160",
+      "name": "160",
+      "hex": "#C79266",
+      "lab": [
+        64.6931,
+        14.724,
+        31.1016
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "165",
+      "name": "165",
+      "hex": "#C37463",
+      "lab": [
+        57.0721,
+        29.2267,
+        22.7067
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "163",
+      "name": "163",
+      "hex": "#747D7A",
+      "lab": [
+        51.5935,
+        -3.9632,
+        0.4817
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "51",
+      "name": "51",
+      "hex": "#FCFDFF",
+      "lab": [
+        99.2864,
+        0.0236,
+        -1.0692
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "62",
+      "name": "62",
+      "hex": "#F9F9F9",
+      "lab": [
+        97.9256,
+        0,
+        0
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "69",
+      "name": "69",
+      "hex": "#ABABAB",
+      "lab": [
+        69.9821,
+        0,
+        0
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "66",
+      "name": "66",
+      "hex": "#B6DBAF",
+      "lab": [
+        83.8105,
+        -20.3398,
+        17.6981
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "64",
+      "name": "64",
+      "hex": "#FEA2A3",
+      "lab": [
+        75.7987,
+        34.201,
+        13.8174
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "63",
+      "name": "63",
+      "hex": "#EB903F",
+      "lab": [
+        68.0001,
+        28.0182,
+        55.6453
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "65",
+      "name": "65",
+      "hex": "#63CEA2",
+      "lab": [
+        75.7001,
+        -41.2459,
+        12.5928
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "68",
+      "name": "68",
+      "hex": "#E79273",
+      "lab": [
+        68.5978,
+        28.8575,
+        29.8241
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "67",
+      "name": "67",
+      "hex": "#ECDB59",
+      "lab": [
+        86.6127,
+        -9.2967,
+        64.072
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "178",
+      "name": "178",
+      "hex": "#DBD9DA",
+      "lab": [
+        86.873,
+        0.8587,
+        -0.2507
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "187",
+      "name": "187",
+      "hex": "#DBC7EA",
+      "lab": [
+        82.8324,
+        13.349,
+        -14.7357
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "185",
+      "name": "185",
+      "hex": "#F1E9D4",
+      "lab": [
+        92.4569,
+        -0.7788,
+        11.1704
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "190",
+      "name": "190",
+      "hex": "#E9EDEE",
+      "lab": [
+        93.4786,
+        -1.1501,
+        -0.949
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "176",
+      "name": "176",
+      "hex": "#ADCBF1",
+      "lab": [
+        80.7082,
+        -1.5519,
+        -22.0075
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "183",
+      "name": "183",
+      "hex": "#337BAD",
+      "lab": [
+        49.3565,
+        -5.7,
+        -33.0624
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "184",
+      "name": "184",
+      "hex": "#668575",
+      "lab": [
+        52.8219,
+        -14.5084,
+        5.0499
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "182",
+      "name": "182",
+      "hex": "#FDC24E",
+      "lab": [
+        81.8494,
+        9.9438,
+        64.1219
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "179",
+      "name": "179",
+      "hex": "#FDA42E",
+      "lab": [
+        74.5949,
+        24.3381,
+        69.3349
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "177",
+      "name": "177",
+      "hex": "#FEBDA7",
+      "lab": [
+        81.9792,
+        20.5458,
+        20.2816
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "186",
+      "name": "186",
+      "hex": "#FFDEE9",
+      "lab": [
+        91.4093,
+        13.1474,
+        -1.1608
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "180",
+      "name": "180",
+      "hex": "#FCBFD1",
+      "lab": [
+        83.2122,
+        24.5057,
+        -0.4691
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "188",
+      "name": "188",
+      "hex": "#E8BEC2",
+      "lab": [
+        80.6719,
+        15.6088,
+        3.656
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "189",
+      "name": "189",
+      "hex": "#DFAAA4",
+      "lab": [
+        74.2666,
+        18.5643,
+        10.6277
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "181",
+      "name": "181",
+      "hex": "#A3656A",
+      "lab": [
+        49.6609,
+        25.641,
+        7.7657
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "52",
+      "name": "52",
+      "hex": "#D40E1F",
+      "lab": [
+        44.822,
+        68.7743,
+        47.0716
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "24",
+      "name": "24",
+      "hex": "#F13484",
+      "lab": [
+        54.8951,
+        74.2614,
+        1.3574
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "22",
+      "name": "22",
+      "hex": "#FB852B",
+      "lab": [
+        67.6241,
+        39.4084,
+        64.2256
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "21",
+      "name": "21",
+      "hex": "#F8ED33",
+      "lab": [
+        92.0277,
+        -14.9732,
+        82.8352
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "23",
+      "name": "23",
+      "hex": "#32C958",
+      "lab": [
+        71.6588,
+        -61.9786,
+        44.9466
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "55",
+      "name": "55",
+      "hex": "#1EBA93",
+      "lab": [
+        67.6486,
+        -47.3687,
+        9.0631
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "37",
+      "name": "37",
+      "hex": "#1D779C",
+      "lab": [
+        46.7817,
+        -12.3248,
+        -27.1962
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "54",
+      "name": "54",
+      "hex": "#1960C8",
+      "lab": [
+        42.3698,
+        18.6391,
+        -59.8894
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "56",
+      "name": "56",
+      "hex": "#945AB1",
+      "lab": [
+        47.9856,
+        39.3642,
+        -37.0624
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "53",
+      "name": "53",
+      "hex": "#F8DA54",
+      "lab": [
+        87.3598,
+        -4.13,
+        67.2415
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "151",
+      "name": "151",
+      "hex": "#FCECF7",
+      "lab": [
+        94.9088,
+        7.2795,
+        -3.358
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "157",
+      "name": "157",
+      "hex": "#D8D4D3",
+      "lab": [
+        85.1946,
+        1.1891,
+        0.9776
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "152",
+      "name": "152",
+      "hex": "#56534E",
+      "lab": [
+        35.4298,
+        0.2012,
+        3.3601
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "231",
+      "name": "231",
+      "hex": "#A3E7DC",
+      "lab": [
+        87.0472,
+        -23.5254,
+        -1.4739
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "224",
+      "name": "224",
+      "hex": "#78CEE7",
+      "lab": [
+        78.4043,
+        -19.437,
+        -20.4149
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "225",
+      "name": "225",
+      "hex": "#3FCDCE",
+      "lab": [
+        75.5579,
+        -36.2067,
+        -11.4252
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "233",
+      "name": "233",
+      "hex": "#4E8379",
+      "lab": [
+        50.9573,
+        -20.1719,
+        -0.1512
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "222",
+      "name": "222",
+      "hex": "#7DCA9C",
+      "lab": [
+        75.4508,
+        -33.8456,
+        15.6025
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "227",
+      "name": "227",
+      "hex": "#C8E664",
+      "lab": [
+        86.8953,
+        -28.3352,
+        58.8865
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "230",
+      "name": "230",
+      "hex": "#E3CCBA",
+      "lab": [
+        83.4757,
+        5.1699,
+        11.8971
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "221",
+      "name": "221",
+      "hex": "#A17140",
+      "lab": [
+        51.5638,
+        13.5687,
+        34.3979
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "226",
+      "name": "226",
+      "hex": "#6B372C",
+      "lab": [
+        29.5153,
+        21.8791,
+        17.1874
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "219",
+      "name": "219",
+      "hex": "#F6BB6F",
+      "lab": [
+        79.7758,
+        12.8466,
+        46.3468
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "228",
+      "name": "228",
+      "hex": "#F3C6C0",
+      "lab": [
+        83.5743,
+        15.0594,
+        9.0378
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "220",
+      "name": "220",
+      "hex": "#C76A62",
+      "lab": [
+        55.4159,
+        36.0277,
+        21.1649
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "229",
+      "name": "229",
+      "hex": "#D093BC",
+      "lab": [
+        67.9543,
+        29.3296,
+        -12.0681
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "232",
+      "name": "232",
+      "hex": "#E58EAE",
+      "lab": [
+        68.7971,
+        37.1167,
+        -2.7317
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "223",
+      "name": "223",
+      "hex": "#9F85CF",
+      "lab": [
+        60.4722,
+        25.125,
+        -34.5975
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "59",
+      "name": "59",
+      "hex": "#FF6FB7",
+      "lab": [
+        66.5605,
+        61.9857,
+        -10.7394
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "60",
+      "name": "60",
+      "hex": "#FDB583",
+      "lab": [
+        79.3705,
+        20.5183,
+        35.7888
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "57",
+      "name": "57",
+      "hex": "#D8FCA4",
+      "lab": [
+        94.6956,
+        -25.97,
+        38.4188
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "58",
+      "name": "58",
+      "hex": "#91DAFB",
+      "lab": [
+        83.5075,
+        -14.4003,
+        -23.2156
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "61",
+      "name": "61",
+      "hex": "#E987EA",
+      "lab": [
+        69.8911,
+        51.7183,
+        -34.3558
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "UNKNOWN-01",
+      "name": "UNKNOWN-01",
+      "hex": "#F7D4E8",
+      "lab": [
+        88.2991,
+        15.4624,
+        -5.2846
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug"
+      ],
+      "unidentified": true,
+      "group": "紫"
+    },
+    {
+      "code": "UNKNOWN-02",
+      "name": "UNKNOWN-02",
+      "hex": "#F1FA7D",
+      "lab": [
+        95.3937,
+        -19.8299,
+        58.2824
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug"
+      ],
+      "unidentified": true,
+      "group": "黄"
+    },
+    {
+      "code": "UNKNOWN-03",
+      "name": "UNKNOWN-03",
+      "hex": "#5EE88C",
+      "lab": [
+        82.9042,
+        -57.3128,
+        33.8392
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug"
+      ],
+      "unidentified": true,
+      "group": "绿"
+    },
+    {
+      "code": "UNKNOWN-04",
+      "name": "UNKNOWN-04",
+      "hex": "#F8F5FE",
+      "lab": [
+        96.9905,
+        2.593,
+        -3.9567
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug"
+      ],
+      "unidentified": true,
+      "group": "灰白黑"
+    },
+    {
+      "code": "ZG1",
+      "name": "ZG1",
+      "hex": "#DAABB3",
+      "lab": [
+        74.3736,
+        18.381,
+        2.502
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "ZG2",
+      "name": "ZG2",
+      "hex": "#D6AA87",
+      "lab": [
+        72.7582,
+        11.3479,
+        24.1814
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "ZG3",
+      "name": "ZG3",
+      "hex": "#C1BD8D",
+      "lab": [
+        75.858,
+        -6.248,
+        24.8406
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "ZG4",
+      "name": "ZG4",
+      "hex": "#96B69F",
+      "lab": [
+        71.1748,
+        -15.4628,
+        8.1287
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "ZG5",
+      "name": "ZG5",
+      "hex": "#849DC6",
+      "lab": [
+        64.238,
+        1.1199,
+        -23.9052
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "ZG6",
+      "name": "ZG6",
+      "hex": "#94BFE2",
+      "lab": [
+        75.4801,
+        -5.8678,
+        -22.0332
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "ZG7",
+      "name": "ZG7",
+      "hex": "#E2A9D2",
+      "lab": [
+        75.5755,
+        27.3785,
+        -12.5986
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "ZG8",
+      "name": "ZG8",
+      "hex": "#AB91C0",
+      "lab": [
+        63.9293,
+        18.6843,
+        -20.7487
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "48",
+      "name": "48",
+      "hex": "#DFF139",
+      "lab": [
+        91.1868,
+        -26.9233,
+        79.7082
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "33",
+      "name": "33",
+      "hex": "#64F343",
+      "lab": [
+        85.611,
+        -68.6132,
+        69.0762
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "26",
+      "name": "26",
+      "hex": "#9FF685",
+      "lab": [
+        89.3806,
+        -46.6402,
+        46.0784
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "78",
+      "name": "78",
+      "hex": "#5FDF34",
+      "lab": [
+        79.3017,
+        -63.9453,
+        67.6842
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "39",
+      "name": "39",
+      "hex": "#39E158",
+      "lab": [
+        79.2833,
+        -68.8709,
+        53.8543
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "11",
+      "name": "11",
+      "hex": "#64E0A4",
+      "lab": [
+        81.125,
+        -48.3436,
+        19.1357
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "44",
+      "name": "44",
+      "hex": "#3EAE7C",
+      "lab": [
+        63.9574,
+        -43.5346,
+        16.5564
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "10",
+      "name": "10",
+      "hex": "#1D9B54",
+      "lab": [
+        56.4289,
+        -49.2273,
+        28.0501
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "84",
+      "name": "84",
+      "hex": "#2A5037",
+      "lab": [
+        30.6526,
+        -20.0357,
+        10.6202
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "100",
+      "name": "100",
+      "hex": "#9AD1BA",
+      "lab": [
+        79.6219,
+        -22.5029,
+        5.6941
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "99",
+      "name": "99",
+      "hex": "#627032",
+      "lab": [
+        44.8228,
+        -15.5361,
+        32.3116
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "111",
+      "name": "111",
+      "hex": "#1A6E3D",
+      "lab": [
+        40.7476,
+        -36.5908,
+        20.4318
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "119",
+      "name": "119",
+      "hex": "#C8E87D",
+      "lab": [
+        87.7144,
+        -26.9378,
+        48.3534
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "117",
+      "name": "117",
+      "hex": "#ACE84C",
+      "lab": [
+        85.5063,
+        -41.6512,
+        66.7204
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "122",
+      "name": "122",
+      "hex": "#305335",
+      "lab": [
+        31.9695,
+        -19.9875,
+        13.7047
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "133",
+      "name": "133",
+      "hex": "#C0ED9C",
+      "lab": [
+        89.0047,
+        -28.4545,
+        34.6429
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "141",
+      "name": "141",
+      "hex": "#9EB33E",
+      "lab": [
+        69.3678,
+        -23.4555,
+        55.1465
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "147",
+      "name": "147",
+      "hex": "#E6ED4F",
+      "lab": [
+        90.7605,
+        -21.176,
+        72.2017
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "174",
+      "name": "174",
+      "hex": "#26B78E",
+      "lab": [
+        66.6947,
+        -46.6243,
+        10.4596
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "175",
+      "name": "175",
+      "hex": "#CAEDCF",
+      "lab": [
+        90.6102,
+        -16.9841,
+        10.7611
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "194",
+      "name": "194",
+      "hex": "#176268",
+      "lab": [
+        37.6915,
+        -19.6861,
+        -9.8601
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "193",
+      "name": "193",
+      "hex": "#0A4241",
+      "lab": [
+        24.7721,
+        -17.2529,
+        -4.4268
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "192",
+      "name": "192",
+      "hex": "#343B1A",
+      "lab": [
+        23.4473,
+        -9.1441,
+        19.3404
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "207",
+      "name": "207",
+      "hex": "#E8FAA6",
+      "lab": [
+        95.2789,
+        -18.9573,
+        38.3955
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "240",
+      "name": "240",
+      "hex": "#4E846D",
+      "lab": [
+        50.9499,
+        -23.5642,
+        6.8357
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "248",
+      "name": "248",
+      "hex": "#907C35",
+      "lab": [
+        52.5118,
+        -1.1579,
+        40.6671
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "262",
+      "name": "262",
+      "hex": "#D0E0AF",
+      "lab": [
+        86.9067,
+        -13.6823,
+        22.263
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "254",
+      "name": "254",
+      "hex": "#9EE5BB",
+      "lab": [
+        85.4499,
+        -30.7543,
+        13.514
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "253",
+      "name": "253",
+      "hex": "#C6DF5F",
+      "lab": [
+        84.7959,
+        -26.202,
+        58.6708
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "270",
+      "name": "270",
+      "hex": "#E3FBB1",
+      "lab": [
+        95.3709,
+        -19.842,
+        32.9656
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "271",
+      "name": "271",
+      "hex": "#B2E694",
+      "lab": [
+        86.1041,
+        -31.1625,
+        34.6954
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "272",
+      "name": "272",
+      "hex": "#92AD60",
+      "lab": [
+        67.1587,
+        -22.1886,
+        36.4218
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "绿"
+    },
+    {
+      "code": "76",
+      "name": "76",
+      "hex": "#F0FEE4",
+      "lab": [
+        98.0375,
+        -9.1051,
+        10.869
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "30",
+      "name": "30",
+      "hex": "#ABF8FE",
+      "lab": [
+        92.9901,
+        -22.0566,
+        -10.405
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "75",
+      "name": "75",
+      "hex": "#9EE0F8",
+      "lab": [
+        85.6826,
+        -14.9363,
+        -18.2776
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "82",
+      "name": "82",
+      "hex": "#44CDFB",
+      "lab": [
+        77.1921,
+        -22.0021,
+        -33.121
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "34",
+      "name": "34",
+      "hex": "#06ABE3",
+      "lab": [
+        65.5197,
+        -16.727,
+        -38.292
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "25",
+      "name": "25",
+      "hex": "#54A7E9",
+      "lab": [
+        66.0606,
+        -5.2327,
+        -40.6355
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "9",
+      "name": "9",
+      "hex": "#3977CC",
+      "lab": [
+        50.0029,
+        8.7751,
+        -49.86
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "71",
+      "name": "71",
+      "hex": "#0F52BD",
+      "lab": [
+        37.4967,
+        22.9744,
+        -61.418
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "42",
+      "name": "42",
+      "hex": "#3349C3",
+      "lab": [
+        36.7575,
+        34.0824,
+        -66.0864
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "130",
+      "name": "130",
+      "hex": "#3DBBE3",
+      "lab": [
+        70.9225,
+        -21.2879,
+        -29.8575
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "113",
+      "name": "113",
+      "hex": "#2ADED3",
+      "lab": [
+        80.4225,
+        -44.6148,
+        -6.9047
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "120",
+      "name": "120",
+      "hex": "#1E334E",
+      "lab": [
+        20.8027,
+        1.0145,
+        -19.1089
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "142",
+      "name": "142",
+      "hex": "#CDE7FE",
+      "lab": [
+        90.4526,
+        -3.8201,
+        -13.9856
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "136",
+      "name": "136",
+      "hex": "#D6FDFC",
+      "lab": [
+        96.6454,
+        -12.6247,
+        -3.6998
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "132",
+      "name": "132",
+      "hex": "#21C5C4",
+      "lab": [
+        72.3869,
+        -38.4682,
+        -10.7922
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "149",
+      "name": "149",
+      "hex": "#1858A2",
+      "lab": [
+        37.4464,
+        8.6656,
+        -45.5247
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "156",
+      "name": "156",
+      "hex": "#02D1F3",
+      "lab": [
+        77.3284,
+        -30.7447,
+        -28.6947
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "196",
+      "name": "196",
+      "hex": "#213244",
+      "lab": [
+        20.1306,
+        -1.1142,
+        -13.4003
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "202",
+      "name": "202",
+      "hex": "#18869D",
+      "lab": [
+        51.4698,
+        -20.707,
+        -20.5459
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "197",
+      "name": "197",
+      "hex": "#1A70A9",
+      "lab": [
+        45.18,
+        -3.6134,
+        -37.3439
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "212",
+      "name": "212",
+      "hex": "#BEDDFC",
+      "lab": [
+        86.8427,
+        -3.5469,
+        -18.4557
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "239",
+      "name": "239",
+      "hex": "#6BB1BB",
+      "lab": [
+        68.1352,
+        -19.3987,
+        -12.0165
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "263",
+      "name": "263",
+      "hex": "#C8E2F9",
+      "lab": [
+        88.6903,
+        -3.8185,
+        -14.038
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "252",
+      "name": "252",
+      "hex": "#7EC5F9",
+      "lab": [
+        76.8025,
+        -8.4077,
+        -32.4917
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "256",
+      "name": "256",
+      "hex": "#A9E8E0",
+      "lab": [
+        87.7405,
+        -21.4348,
+        -2.5215
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "250",
+      "name": "250",
+      "hex": "#42ADD1",
+      "lab": [
+        66.2483,
+        -19.0984,
+        -27.1777
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "264",
+      "name": "264",
+      "hex": "#D0DEF9",
+      "lab": [
+        88.2043,
+        0.712,
+        -14.7105
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "265",
+      "name": "265",
+      "hex": "#BDCEE8",
+      "lab": [
+        82.2638,
+        -0.3821,
+        -14.7529
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "266",
+      "name": "266",
+      "hex": "#364A89",
+      "lab": [
+        32.8914,
+        12.7158,
+        -37.6152
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "46",
+      "name": "46",
+      "hex": "#ACB7EF",
+      "lab": [
+        75.3693,
+        8.5054,
+        -29.0927
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "36",
+      "name": "36",
+      "hex": "#868DD3",
+      "lab": [
+        60.6225,
+        14.3143,
+        -36.7586
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "8",
+      "name": "8",
+      "hex": "#3653AF",
+      "lab": [
+        37.9583,
+        20.6675,
+        -52.3727
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "80",
+      "name": "80",
+      "hex": "#162C7E",
+      "lab": [
+        21.8637,
+        24.0935,
+        -48.6767
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "32",
+      "name": "32",
+      "hex": "#B34EC6",
+      "lab": [
+        50.8171,
+        58.0341,
+        -44.5071
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "27",
+      "name": "27",
+      "hex": "#B37BDC",
+      "lab": [
+        60.7087,
+        39.5954,
+        -41.3749
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "7",
+      "name": "7",
+      "hex": "#8758A9",
+      "lab": [
+        45.6277,
+        34.9049,
+        -36.1873
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "89",
+      "name": "89",
+      "hex": "#E3D2FE",
+      "lab": [
+        86.7904,
+        14.0173,
+        -19.3294
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "90",
+      "name": "90",
+      "hex": "#D6BAF5",
+      "lab": [
+        79.6177,
+        20.9469,
+        -25.5287
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "91",
+      "name": "91",
+      "hex": "#301A49",
+      "lab": [
+        14.6696,
+        22.0535,
+        -25.3339
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "104",
+      "name": "104",
+      "hex": "#BCBAE2",
+      "lab": [
+        76.8601,
+        8.7381,
+        -19.686
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "105",
+      "name": "105",
+      "hex": "#DC99CE",
+      "lab": [
+        71.1845,
+        33.2651,
+        -17.071
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "106",
+      "name": "106",
+      "hex": "#B5038F",
+      "lab": [
+        41.0163,
+        70.4775,
+        -27.3573
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "107",
+      "name": "107",
+      "hex": "#882893",
+      "lab": [
+        35.7121,
+        54.2008,
+        -38.711
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "108",
+      "name": "108",
+      "hex": "#2F1E8E",
+      "lab": [
+        21.8913,
+        41.3278,
+        -58.6149
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "126",
+      "name": "126",
+      "hex": "#E2E4F0",
+      "lab": [
+        90.7555,
+        1.541,
+        -6.0544
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "128",
+      "name": "128",
+      "hex": "#C7D3F9",
+      "lab": [
+        84.776,
+        3.7335,
+        -19.9333
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "125",
+      "name": "125",
+      "hex": "#9A64B8",
+      "lab": [
+        51.2045,
+        37.1067,
+        -36.0205
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "153",
+      "name": "153",
+      "hex": "#D8C2D9",
+      "lab": [
+        80.8459,
+        11.796,
+        -8.6248
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "155",
+      "name": "155",
+      "hex": "#9C34AD",
+      "lab": [
+        42.0653,
+        58.9318,
+        -44.0332
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "158",
+      "name": "158",
+      "hex": "#940595",
+      "lab": [
+        35.1543,
+        64.9899,
+        -40.706
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "198",
+      "name": "198",
+      "hex": "#383995",
+      "lab": [
+        29.2511,
+        28.6974,
+        -50.8448
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "217",
+      "name": "217",
+      "hex": "#EADBF8",
+      "lab": [
+        89.3616,
+        10.3514,
+        -12.2529
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "244",
+      "name": "244",
+      "hex": "#768AE1",
+      "lab": [
+        59.4004,
+        15.982,
+        -46.5755
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "234",
+      "name": "234",
+      "hex": "#4950C2",
+      "lab": [
+        39.6605,
+        32.3752,
+        -60.7163
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "青蓝"
+    },
+    {
+      "code": "258",
+      "name": "258",
+      "hex": "#D6C6EB",
+      "lab": [
+        82.2078,
+        12.4526,
+        -16.2495
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "18",
+      "name": "18",
+      "hex": "#F6D4CB",
+      "lab": [
+        87.4819,
+        10.4436,
+        8.8303
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "38",
+      "name": "38",
+      "hex": "#FCC1DD",
+      "lab": [
+        83.9963,
+        25.335,
+        -5.7405
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "74",
+      "name": "74",
+      "hex": "#F6BDE8",
+      "lab": [
+        82.8157,
+        27.249,
+        -13.4444
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "6",
+      "name": "6",
+      "hex": "#E9639E",
+      "lab": [
+        60.5341,
+        57.6027,
+        -5.7687
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "40",
+      "name": "40",
+      "hex": "#F1559F",
+      "lab": [
+        59.6223,
+        65.992,
+        -7.5676
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "20",
+      "name": "20",
+      "hex": "#EC4072",
+      "lab": [
+        54.7828,
+        67.9223,
+        11.8208
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "41",
+      "name": "41",
+      "hex": "#C63674",
+      "lab": [
+        46.8543,
+        60.8247,
+        -1.6566
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "103",
+      "name": "103",
+      "hex": "#FDDBE9",
+      "lab": [
+        90.5194,
+        14.0219,
+        -2.485
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "95",
+      "name": "95",
+      "hex": "#E575C7",
+      "lab": [
+        64.5698,
+        53.5901,
+        -23.1281
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "94",
+      "name": "94",
+      "hex": "#D33997",
+      "lab": [
+        50.7027,
+        67.127,
+        -16.7878
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "131",
+      "name": "131",
+      "hex": "#F7DAD4",
+      "lab": [
+        89.2392,
+        9.061,
+        6.6252
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "112",
+      "name": "112",
+      "hex": "#F893BF",
+      "lab": [
+        72.6209,
+        43.4492,
+        -6.296
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "124",
+      "name": "124",
+      "hex": "#B5026A",
+      "lab": [
+        39.4298,
+        66.5824,
+        -6.792
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "140",
+      "name": "140",
+      "hex": "#FAD4BF",
+      "lab": [
+        87.57,
+        10.1554,
+        15.327
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "139",
+      "name": "139",
+      "hex": "#F5C9CA",
+      "lab": [
+        84.7163,
+        15.6923,
+        5.3729
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "206",
+      "name": "206",
+      "hex": "#FBF4EC",
+      "lab": [
+        96.52,
+        0.978,
+        4.6769
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "205",
+      "name": "205",
+      "hex": "#F7E3EC",
+      "lab": [
+        92.029,
+        8.3343,
+        -1.9016
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "210",
+      "name": "210",
+      "hex": "#FBC8DB",
+      "lab": [
+        85.471,
+        20.9863,
+        -2.5131
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "215",
+      "name": "215",
+      "hex": "#F6BBD1",
+      "lab": [
+        81.6965,
+        24.513,
+        -2.7595
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "241",
+      "name": "241",
+      "hex": "#D7C6CE",
+      "lab": [
+        81.4519,
+        7.3304,
+        -1.8355
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "238",
+      "name": "238",
+      "hex": "#C09DA4",
+      "lab": [
+        68.0221,
+        14.0721,
+        1.249
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "237",
+      "name": "237",
+      "hex": "#B58B9F",
+      "lab": [
+        62.3329,
+        19.1859,
+        -4.4055
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "235",
+      "name": "235",
+      "hex": "#937D8A",
+      "lab": [
+        54.768,
+        10.7898,
+        -3.8856
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "267",
+      "name": "267",
+      "hex": "#DEBEE5",
+      "lab": [
+        80.7469,
+        18.1955,
+        -15.1644
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "紫"
+    },
+    {
+      "code": "35",
+      "name": "35",
+      "hex": "#FF9280",
+      "lab": [
+        71.8132,
+        39.2059,
+        27.5251
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "31",
+      "name": "31",
+      "hex": "#F73D4B",
+      "lab": [
+        55.7114,
+        69.6132,
+        36.3876
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "72",
+      "name": "72",
+      "hex": "#EF4D3E",
+      "lab": [
+        56.0999,
+        61.1647,
+        43.6925
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "73",
+      "name": "73",
+      "hex": "#F92B40",
+      "lab": [
+        54.2853,
+        74.4105,
+        41.0932
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "5",
+      "name": "5",
+      "hex": "#E30328",
+      "lab": [
+        47.6941,
+        73.6479,
+        46.1506
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "16",
+      "name": "16",
+      "hex": "#913635",
+      "lab": [
+        35.8238,
+        38.3974,
+        20.8739
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "47",
+      "name": "47",
+      "hex": "#911932",
+      "lab": [
+        31.6865,
+        49.4124,
+        17.4703
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "92",
+      "name": "92",
+      "hex": "#BB0126",
+      "lab": [
+        39.122,
+        63.9885,
+        35.9605
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "93",
+      "name": "93",
+      "hex": "#E0677A",
+      "lab": [
+        58.9347,
+        48.8881,
+        12.6398
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "115",
+      "name": "115",
+      "hex": "#874628",
+      "lab": [
+        37.2726,
+        25.0923,
+        30.0337
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "129",
+      "name": "129",
+      "hex": "#592323",
+      "lab": [
+        21.755,
+        24.9173,
+        12.407
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "134",
+      "name": "134",
+      "hex": "#F8516D",
+      "lab": [
+        58.9294,
+        65.0398,
+        20.8056
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "148",
+      "name": "148",
+      "hex": "#F45C45",
+      "lab": [
+        59.2721,
+        57.0351,
+        43.703
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "154",
+      "name": "154",
+      "hex": "#FCADB2",
+      "lab": [
+        78.3455,
+        29.5796,
+        9.2224
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "191",
+      "name": "191",
+      "hex": "#D50527",
+      "lab": [
+        44.8096,
+        70.0456,
+        42.9153
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "211",
+      "name": "211",
+      "hex": "#F8C0A9",
+      "lab": [
+        82.122,
+        16.952,
+        19.3214
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "245",
+      "name": "245",
+      "hex": "#E89B7D",
+      "lab": [
+        70.9281,
+        25.42,
+        27.4802
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "246",
+      "name": "246",
+      "hex": "#D07E4A",
+      "lab": [
+        60.6308,
+        27.0912,
+        41.2482
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "243",
+      "name": "243",
+      "hex": "#BE454A",
+      "lab": [
+        46.5799,
+        48.9079,
+        23.3945
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "260",
+      "name": "260",
+      "hex": "#C69495",
+      "lab": [
+        66.026,
+        18.9481,
+        6.8343
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "251",
+      "name": "251",
+      "hex": "#F2B8C6",
+      "lab": [
+        80.3134,
+        22.9913,
+        1.098
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "257",
+      "name": "257",
+      "hex": "#F7C3D0",
+      "lab": [
+        83.632,
+        20.4842,
+        0.6209
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "249",
+      "name": "249",
+      "hex": "#EC806D",
+      "lab": [
+        65.2631,
+        39.6417,
+        28.8841
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "268",
+      "name": "268",
+      "hex": "#E09DAF",
+      "lab": [
+        71.5951,
+        27.4995,
+        0.7397
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "269",
+      "name": "269",
+      "hex": "#E84854",
+      "lab": [
+        54.4866,
+        61.9183,
+        29.0699
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "81",
+      "name": "81",
+      "hex": "#FFE4D3",
+      "lab": [
+        92.3324,
+        6.5884,
+        11.6675
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "49",
+      "name": "49",
+      "hex": "#FCC6AC",
+      "lab": [
+        83.9999,
+        15.6899,
+        20.3924
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "85",
+      "name": "85",
+      "hex": "#F1C4A5",
+      "lab": [
+        82.325,
+        11.6936,
+        21.6215
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "19",
+      "name": "19",
+      "hex": "#DCB387",
+      "lab": [
+        75.5803,
+        8.9114,
+        28.0729
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "43",
+      "name": "43",
+      "hex": "#E7B34E",
+      "lab": [
+        75.9357,
+        8.5687,
+        57.1864
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "50",
+      "name": "50",
+      "hex": "#E3A014",
+      "lab": [
+        70.5435,
+        14.8648,
+        71.6947
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "17",
+      "name": "17",
+      "hex": "#985C3A",
+      "lab": [
+        45.1327,
+        21.167,
+        29.7038
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "12",
+      "name": "12",
+      "hex": "#713D2F",
+      "lab": [
+        31.9303,
+        21.2375,
+        18.5851
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "102",
+      "name": "102",
+      "hex": "#E4B685",
+      "lab": [
+        77.0688,
+        10.277,
+        31.2463
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "101",
+      "name": "101",
+      "hex": "#DA8C42",
+      "lab": [
+        65.0091,
+        23.2487,
+        50.4743
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "118",
+      "name": "118",
+      "hex": "#DAC898",
+      "lab": [
+        81.0063,
+        -0.8796,
+        26.3443
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "127",
+      "name": "127",
+      "hex": "#FEC993",
+      "lab": [
+        84.4602,
+        12.0334,
+        34.1405
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "114",
+      "name": "114",
+      "hex": "#B2714B",
+      "lab": [
+        53.7987,
+        21.7799,
+        31.5892
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "123",
+      "name": "123",
+      "hex": "#8B684C",
+      "lab": [
+        46.8594,
+        10.2302,
+        21.2016
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "143",
+      "name": "143",
+      "hex": "#F6F8E3",
+      "lab": [
+        96.9322,
+        -4.2307,
+        9.8596
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "138",
+      "name": "138",
+      "hex": "#F2D8C1",
+      "lab": [
+        87.892,
+        5.4354,
+        14.6301
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "137",
+      "name": "137",
+      "hex": "#79544E",
+      "lab": [
+        39.507,
+        14.5464,
+        9.6708
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "203",
+      "name": "203",
+      "hex": "#FFE4D6",
+      "lab": [
+        92.3997,
+        7.0393,
+        10.2011
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "195",
+      "name": "195",
+      "hex": "#DD7D41",
+      "lab": [
+        62.0194,
+        32.4065,
+        47.8305
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "199",
+      "name": "199",
+      "hex": "#A5452F",
+      "lab": [
+        41.943,
+        38.226,
+        32.6592
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "红粉"
+    },
+    {
+      "code": "247",
+      "name": "247",
+      "hex": "#B38561",
+      "lab": [
+        59.1808,
+        13.0804,
+        26.2665
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "橙棕"
+    },
+    {
+      "code": "15",
+      "name": "15",
+      "hex": "#FBFBFB",
+      "lab": [
+        98.6181,
+        0,
+        0
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "1",
+      "name": "1",
+      "hex": "#FFFFFF",
+      "lab": [
+        100,
+        0,
+        0
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "13",
+      "name": "13",
+      "hex": "#B4B4B4",
+      "lab": [
+        73.312,
+        0,
+        0
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "83",
+      "name": "83",
+      "hex": "#878787",
+      "lab": [
+        56.3155,
+        0,
+        0
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "45",
+      "name": "45",
+      "hex": "#464648",
+      "lab": [
+        29.7885,
+        0.4467,
+        -1.2002
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "70",
+      "name": "70",
+      "hex": "#2C2C2C",
+      "lab": [
+        18.0029,
+        0,
+        0
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "14",
+      "name": "14",
+      "hex": "#010101",
+      "lab": [
+        0.2742,
+        0,
+        0
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "86",
+      "name": "86",
+      "hex": "#E7D6DC",
+      "lab": [
+        87.1194,
+        6.8773,
+        -0.8345
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "87",
+      "name": "87",
+      "hex": "#EFEDEE",
+      "lab": [
+        93.9229,
+        0.8446,
+        -0.2466
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "88",
+      "name": "88",
+      "hex": "#ECEAEB",
+      "lab": [
+        92.8727,
+        0.8466,
+        -0.2472
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "121",
+      "name": "121",
+      "hex": "#CDCDCD",
+      "lab": [
+        82.4054,
+        0,
+        0
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "144",
+      "name": "144",
+      "hex": "#FDF6EE",
+      "lab": [
+        97.2146,
+        0.976,
+        4.6696
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "146",
+      "name": "146",
+      "hex": "#F4EFD1",
+      "lab": [
+        94.1284,
+        -3.2314,
+        15.1286
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "黄"
+    },
+    {
+      "code": "145",
+      "name": "145",
+      "hex": "#CED7D4",
+      "lab": [
+        85.2385,
+        -3.5927,
+        0.4208
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "201",
+      "name": "201",
+      "hex": "#98A6A6",
+      "lab": [
+        67.0517,
+        -4.9117,
+        -1.687
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "200",
+      "name": "200",
+      "hex": "#1B1213",
+      "lab": [
+        6.4376,
+        4.4435,
+        0.9133
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "214",
+      "name": "214",
+      "hex": "#F0EEEF",
+      "lab": [
+        94.2723,
+        0.8439,
+        -0.2464
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "204",
+      "name": "204",
+      "hex": "#FCFFF8",
+      "lab": [
+        99.6092,
+        -2.2063,
+        2.992
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "209",
+      "name": "209",
+      "hex": "#F2EEE5",
+      "lab": [
+        94.177,
+        -0.2072,
+        4.8233
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "236",
+      "name": "236",
+      "hex": "#96A09F",
+      "lab": [
+        65.0645,
+        -3.7489,
+        -0.7072
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "276",
+      "name": "276",
+      "hex": "#F8FBE6",
+      "lab": [
+        97.899,
+        -4.5638,
+        9.7218
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "277",
+      "name": "277",
+      "hex": "#CACAD2",
+      "lab": [
+        81.5387,
+        1.4886,
+        -3.9714
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    },
+    {
+      "code": "278",
+      "name": "278",
+      "hex": "#9B9C94",
+      "lab": [
+        64.0666,
+        -1.8666,
+        4.0589
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "灰白黑"
+    }
+  ],
+  "sets": [],
+  "attribution": {
+    "sources": [
+      "HansBug/pindou-color-data (MIT)"
+    ],
+    "license": "MIT",
+    "notice": "其中 4 个色号在上游即为「-」，无法确认真实品牌色号，已标记 unidentified，不做猜测填充。"
+  }
+}

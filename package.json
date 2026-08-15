@@ -1,0 +1,30 @@
+{
+  "name": "ai-pindou",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "爱拼豆 —— 拼豆图纸生成器 Web 免费版",
+  "packageManager": "pnpm@9.15.9",
+  "engines": {
+    "node": ">=20.3.0"
+  },
+  "scripts": {
+    "dev": "pnpm --filter @aipindou/web dev",
+    "build": "pnpm --filter @aipindou/web build",
+    "preview": "pnpm --filter @aipindou/web preview",
+    "test": "pnpm -r --no-bail test",
+    "typecheck": "pnpm -r typecheck",
+    "verify:data": "node packages/registry/scripts/verify-palettes.mjs",
+    "verify:urls": "node scripts/verify-urls.mjs",
+    "refresh:palettes": "node packages/registry/scripts/build-palettes.mjs",
+    "generate:samples": "npx --yes tsx scripts/generate-samples.ts",
+    "capture:readme": "node scripts/capture-readme-screenshots.mjs",
+    "deploy": "wrangler deploy",
+    "check": "pnpm verify:data && pnpm typecheck && pnpm test && pnpm build"
+  },
+  "devDependencies": {
+    "playwright": "1.52.0",
+    "typescript": "^5.7.3",
+    "vitest": "^3.0.5"
+  }
+}

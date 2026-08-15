@@ -1,0 +1,125 @@
+---
+import { PALETTE_IDS, PALETTE_INDEX, getPaletteMeta, loadPalette } from '@aipindou/registry';
+import SiteFooter from '../../components/SiteFooter.astro';
+import SiteHeader from '../../components/SiteHeader.astro';
+import { useTranslations } from '../../i18n/index.js';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { ROUTES, absolute, localeFromPath, type Locale } from '../../lib/url.js';
+
+export async function getStaticPaths() {
+  return PALETTE_IDS.map((id) => ({ params: { id } }));
+}
+
+const { id } = Astro.params;
+if (!id) throw new Error('缺少色卡 id');
+
+const locale: Locale = localeFromPath(Astro.url.pathname);
+const t = useTranslations(locale);
+const meta = getPaletteMeta(id);
+const palette = await loadPalette(id);
+
+if (!meta) throw new Error(`未知色卡：${id}`);
+
+const title = `${palette.brand} ${palette.version} 色号大全`;
+const description = `${palette.brand} 完整 ${palette.colors.length} 个色号与色值，含数据来源与可信度标注。可用于拼豆图纸配色与实体店对色。`;
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'Dataset',
+  name: title,
+  description,
+  url: absolute(ROUTES.palette(id)),
+  license: palette.attribution.license,
+  creator: palette.attribution.sources,
+  variableMeasured: `${palette.colors.length} 个色号`,
+};
+
+const confidenceLabel: Record<string, string> = {
+  high: t.palette.confidenceHigh,
+  medium: t.palette.confidenceMedium,
+  low: t.palette.confidenceLow,
+};
+---
+
+<BaseLayout title={title} description={description} structuredData={structuredData}>
+  <SiteHeader />
+
+  <main class="mx-auto max-w-6xl px-4 py-12">
+    <p class="m-0 text-sm text-[var(--surface-text-muted)]">
+      <a href={ROUTES.palettes()} class="underline">色卡大全</a>
+      /
+      {palette.brand}
+    </p>
+    <h1 class="mt-2 text-3xl">{title}</h1>
+    <p class="mt-3 max-w-3xl text-[var(--surface-text-muted)]">{description}</p>
+
+    <dl class="mt-6 grid max-w-xl grid-cols-2 gap-x-4 gap-y-2 text-sm">
+      <dt class="text-[var(--surface-text-muted)]">{t.palette.colorCount}</dt>
+      <dd class="tabular m-0">{palette.colors.length}</dd>
+      <dt class="text-[var(--surface-text-muted)]">{t.palette.license}</dt>
+      <dd class="m-0">{palette.attribution.license}</dd>
+      <dt class="text-[var(--surface-text-muted)]">{t.palette.sources}</dt>
+      <dd class="m-0">{palette.attribution.sources.join('；')}</dd>
+    </dl>
+
+    {
+      palette.attribution.notice && (
+        <aside class="mt-6 rounded-[var(--radius-card)] border border-[var(--surface-border)] bg-[var(--surface-raised)] p-4 text-sm text-[var(--surface-text-muted)]">
+          {palette.attribution.notice}
+        </aside>
+      )
+    }
+
+    <div class="mt-8">
+      <a
+        href={ROUTES.editor()}
+        class="inline-block rounded-[var(--radius-control)] bg-brand-500 px-5 py-2.5 text-white no-underline"
+      >
+        用这套色卡生成图纸
+      </a>
+    </div>
+
+    <h2 class="mt-12 text-xl">换算到其他品牌</h2>
+    <p class="mt-2 text-sm text-[var(--surface-text-muted)]">
+      一律按 HEX + 色差匹配，不做色号字面映射（避免撞号陷阱）。
+    </p>
+    <ul class="mt-4 flex list-none flex-wrap gap-2 p-0">
+      {
+        PALETTE_INDEX.filter((p) => p.id !== id).map((p) => (
+          <li>
+            <a
+              href={ROUTES.convert(id, p.id)}
+              class="inline-block rounded-[var(--radius-control)] border border-[var(--surface-border)] px-3 py-1.5 text-sm text-[var(--surface-text)] no-underline hover:bg-[var(--surface-raised)]"
+            >
+              → {p.brand}（{p.count} 色）
+            </a>
+          </li>
+        ))
+      }
+    </ul>
+
+    <h2 class="mt-12 text-xl">全部色号</h2>
+    <ul class="mt-4 grid list-none grid-cols-2 gap-2 p-0 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5">
+      {
+        palette.colors.map((c) => (
+          <li class="rounded-[var(--radius-control)] border border-[var(--surface-border)] bg-[var(--surface-panel)] p-2">
+            <div
+              class="mb-2 h-10 rounded-sm border border-black/10"
+              style={`background:${c.hex}`}
+            />
+            <div class="tabular text-sm font-medium">{c.code}</div>
+            <div class="truncate text-xs text-[var(--surface-text-muted)]">
+              {c.name !== c.code ? c.name : c.hex}
+            </div>
+            <div class="mt-1 text-[10px] text-[var(--surface-text-muted)]">
+              {confidenceLabel[c.confidence]}
+              {c.unidentified ? ` · ${t.palette.unidentified}` : ''}
+            </div>
+          </li>
+        ))
+      }
+    </ul>
+  </main>
+
+  <SiteFooter />
+</BaseLayout>

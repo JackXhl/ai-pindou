@@ -1,0 +1,105 @@
+---
+import '../styles/global.css';
+import { useTranslations } from '../i18n/index.js';
+import {
+  absolute,
+  alternates,
+  localeFromPath,
+  publicAsset,
+  type Locale,
+} from '../lib/url.js';
+
+interface Props {
+  title: string;
+  description: string;
+  /** marketing 用于内容与落地页，editor 用于编辑器与摆豆模式 */
+  surface?: 'marketing' | 'editor';
+  /** 结构化数据。传入后原样注入 JSON-LD。 */
+  structuredData?: Record<string, unknown> | Record<string, unknown>[];
+  /** 不希望被索引的页面（如编辑器）置为 true */
+  noindex?: boolean;
+}
+
+const {
+  title,
+  description,
+  surface = 'marketing',
+  structuredData,
+  noindex = false,
+} = Astro.props;
+
+const locale: Locale = localeFromPath(Astro.url.pathname);
+const t = useTranslations(locale);
+
+// canonical 与 hreflang 一律经由 lib/url 计算，绝不在模板里拼字符串
+const canonical = absolute(Astro.url.pathname);
+const hreflangs = alternates(Astro.url.pathname);
+
+const fullTitle =
+  title === t.site.name ? `${t.site.name} · ${t.site.tagline}` : `${title} · ${t.site.name}`;
+
+const faviconHref = publicAsset('favicon.svg');
+const manifestHref = publicAsset('manifest.webmanifest');
+const swHref = publicAsset('sw.js');
+
+// 编辑器要占满视口并避开刘海屏，但不能全站禁用缩放——那会损害可访问性，
+// 也是移动端最常见的无障碍失分项。
+const viewport =
+  surface === 'editor'
+    ? 'width=device-width, initial-scale=1, viewport-fit=cover'
+    : 'width=device-width, initial-scale=1';
+---
+
+<!doctype html>
+<html lang={locale === 'zh' ? 'zh-CN' : 'en'} data-surface={surface}>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content={viewport} />
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    {noindex && <meta name="robots" content="noindex, follow" />}
+
+    {
+      hreflangs.map((alt) => (
+        <link
+          rel="alternate"
+          hreflang={alt.locale === 'zh' ? 'zh-Hans' : alt.locale}
+          href={alt.href}
+        />
+      ))
+    }
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={t.site.name} />
+    <meta property="og:title" content={fullTitle} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:locale" content={locale === 'zh' ? 'zh_CN' : 'en_US'} />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <meta name="theme-color" content={surface === 'editor' ? '#1c1c1c' : '#fdfaf7'} />
+    <link rel="icon" href={faviconHref} type="image/svg+xml" />
+    <link rel="manifest" href={manifestHref} />
+
+    {
+      structuredData && (
+        <script
+          is:inline
+          type="application/ld+json"
+          set:html={JSON.stringify(structuredData)}
+        />
+      )
+    }
+    <script is:inline define:vars={{ swHref }}>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register(swHref).catch(() => {});
+        });
+      }
+    </script>
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>

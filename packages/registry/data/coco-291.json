@@ -1,0 +1,4399 @@
+{
+  "id": "coco-291",
+  "brand": "COCO",
+  "version": "COCO 291 色卡",
+  "colors": [
+    {
+      "code": "A01",
+      "name": "A01",
+      "hex": "#FFFFFF",
+      "lab": [
+        100,
+        0,
+        0
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "A"
+    },
+    {
+      "code": "A02",
+      "name": "A02",
+      "hex": "#FEFCFF",
+      "lab": [
+        99.1868,
+        1.1857,
+        -1.1975
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "A"
+    },
+    {
+      "code": "A03",
+      "name": "A03",
+      "hex": "#FFFDF7",
+      "lab": [
+        99.31,
+        -0.3726,
+        3.0977
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "A"
+    },
+    {
+      "code": "A04",
+      "name": "A04",
+      "hex": "#FFFCEE",
+      "lab": [
+        98.8496,
+        -1.3745,
+        7.0495
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "A"
+    },
+    {
+      "code": "A05",
+      "name": "A05",
+      "hex": "#FFFBEE",
+      "lab": [
+        98.602,
+        -0.8712,
+        6.6927
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "A"
+    },
+    {
+      "code": "A06",
+      "name": "A06",
+      "hex": "#F1EADC",
+      "lab": [
+        92.8893,
+        -0.0046,
+        7.6309
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "A"
+    },
+    {
+      "code": "A07",
+      "name": "A07",
+      "hex": "#FCFCF9",
+      "lab": [
+        98.8897,
+        -0.5231,
+        1.4326
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "A"
+    },
+    {
+      "code": "A08",
+      "name": "A08",
+      "hex": "#EFF0EB",
+      "lab": [
+        94.5977,
+        -1.212,
+        2.2938
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "A"
+    },
+    {
+      "code": "A09",
+      "name": "A09",
+      "hex": "#FFF7FF",
+      "lab": [
+        98.0343,
+        4.0518,
+        -2.8778
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "A"
+    },
+    {
+      "code": "A10",
+      "name": "A10",
+      "hex": "#F4F9FF",
+      "lab": [
+        97.7141,
+        -0.5619,
+        -3.4425
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "A"
+    },
+    {
+      "code": "A11",
+      "name": "A11",
+      "hex": "#FFFDF7",
+      "lab": [
+        99.31,
+        -0.3726,
+        3.0977
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "A"
+    },
+    {
+      "code": "A12",
+      "name": "A12",
+      "hex": "#F3F5F1",
+      "lab": [
+        96.2907,
+        -1.3668,
+        1.688
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "A"
+    },
+    {
+      "code": "B01",
+      "name": "B01",
+      "hex": "#D3DDDE",
+      "lab": [
+        87.4049,
+        -3.165,
+        -1.6537
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "B"
+    },
+    {
+      "code": "B02",
+      "name": "B02",
+      "hex": "#D6E8EB",
+      "lab": [
+        90.7829,
+        -5.3651,
+        -3.496
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "B"
+    },
+    {
+      "code": "B03",
+      "name": "B03",
+      "hex": "#AFBBBD",
+      "lab": [
+        75.0315,
+        -3.7418,
+        -2.4374
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "B"
+    },
+    {
+      "code": "B04",
+      "name": "B04",
+      "hex": "#A7BDC4",
+      "lab": [
+        75.1988,
+        -6.0298,
+        -6.0619
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "B"
+    },
+    {
+      "code": "B05",
+      "name": "B05",
+      "hex": "#7F8A8A",
+      "lab": [
+        56.6083,
+        -3.9969,
+        -1.3752
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "B"
+    },
+    {
+      "code": "B06",
+      "name": "B06",
+      "hex": "#5D6163",
+      "lab": [
+        40.86,
+        -1.1247,
+        -1.6786
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "B"
+    },
+    {
+      "code": "B07",
+      "name": "B07",
+      "hex": "#3A3E40",
+      "lab": [
+        25.9066,
+        -1.1985,
+        -1.8048
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "B"
+    },
+    {
+      "code": "B08",
+      "name": "B08",
+      "hex": "#2B2B2B",
+      "lab": [
+        17.5333,
+        0,
+        0
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "B"
+    },
+    {
+      "code": "B09",
+      "name": "B09",
+      "hex": "#000000",
+      "lab": [
+        0,
+        0,
+        0
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "B"
+    },
+    {
+      "code": "B10",
+      "name": "B10",
+      "hex": "#C3D1CE",
+      "lab": [
+        82.7316,
+        -5.2947,
+        -0.1455
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "B"
+    },
+    {
+      "code": "B11",
+      "name": "B11",
+      "hex": "#DCE0C8",
+      "lab": [
+        88.3031,
+        -5.4928,
+        11.2962
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "B"
+    },
+    {
+      "code": "C01",
+      "name": "C01",
+      "hex": "#FF6C71",
+      "lab": [
+        64.3092,
+        56.3536,
+        25.8974
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C02",
+      "name": "C02",
+      "hex": "#FF6F60",
+      "lab": [
+        64.5474,
+        53.841,
+        35.7102
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C03",
+      "name": "C03",
+      "hex": "#FF6464",
+      "lab": [
+        62.7607,
+        58.968,
+        31.2247
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C04",
+      "name": "C04",
+      "hex": "#F66B4E",
+      "lab": [
+        62.2231,
+        51.497,
+        42.3611
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C05",
+      "name": "C05",
+      "hex": "#FF8046",
+      "lab": [
+        67.3869,
+        44.3877,
+        52.5636
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C06",
+      "name": "C06",
+      "hex": "#F0393B",
+      "lab": [
+        53.7857,
+        68.1623,
+        42.8482
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C07",
+      "name": "C07",
+      "hex": "#E03638",
+      "lab": [
+        50.4245,
+        64.317,
+        39.9758
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C08",
+      "name": "C08",
+      "hex": "#CC3133",
+      "lab": [
+        46.0115,
+        59.765,
+        36.8609
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C09",
+      "name": "C09",
+      "hex": "#B82D2D",
+      "lab": [
+        41.6262,
+        54.7517,
+        34.3819
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C10",
+      "name": "C10",
+      "hex": "#783644",
+      "lab": [
+        31.92,
+        30.3445,
+        5.2814
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "D1",
+      "name": "D1",
+      "hex": "#FFDD94",
+      "lab": [
+        89.4464,
+        2.2176,
+        40.141
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "D"
+    },
+    {
+      "code": "D2",
+      "name": "D2",
+      "hex": "#FFD3A1",
+      "lab": [
+        87.2049,
+        8.759,
+        30.5633
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "D"
+    },
+    {
+      "code": "D3",
+      "name": "D3",
+      "hex": "#FFD64F",
+      "lab": [
+        86.9584,
+        0.5404,
+        69.0265
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "D"
+    },
+    {
+      "code": "D4",
+      "name": "D4",
+      "hex": "#FFC31F",
+      "lab": [
+        82.0518,
+        8.6666,
+        79.608
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "D"
+    },
+    {
+      "code": "D5",
+      "name": "D5",
+      "hex": "#FFBA30",
+      "lab": [
+        79.9519,
+        13.7459,
+        73.4443
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "D"
+    },
+    {
+      "code": "D6",
+      "name": "D6",
+      "hex": "#FFAE82",
+      "lab": [
+        77.9626,
+        24.8781,
+        34.5316
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "D"
+    },
+    {
+      "code": "D7",
+      "name": "D7",
+      "hex": "#FF985C",
+      "lab": [
+        72.5579,
+        33.4313,
+        47.4851
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "D"
+    },
+    {
+      "code": "D8",
+      "name": "D8",
+      "hex": "#F28D51",
+      "lab": [
+        68.4066,
+        33.3303,
+        47.7821
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "D"
+    },
+    {
+      "code": "E01",
+      "name": "E01",
+      "hex": "#FFFFD5",
+      "lab": [
+        99.0586,
+        -6.7617,
+        20.1256
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "E"
+    },
+    {
+      "code": "E02",
+      "name": "E02",
+      "hex": "#FFF7D2",
+      "lab": [
+        96.9982,
+        -3.2079,
+        18.7739
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "E"
+    },
+    {
+      "code": "E03",
+      "name": "E03",
+      "hex": "#FFFFB3",
+      "lab": [
+        98.4466,
+        -11.3229,
+        36.4247
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "E"
+    },
+    {
+      "code": "E04",
+      "name": "E04",
+      "hex": "#FFFA6A",
+      "lab": [
+        96.2757,
+        -15.7699,
+        67.8904
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "E"
+    },
+    {
+      "code": "E05",
+      "name": "E05",
+      "hex": "#FFFF9B",
+      "lab": [
+        98.0928,
+        -14.0234,
+        47.7348
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "E"
+    },
+    {
+      "code": "E06",
+      "name": "E06",
+      "hex": "#FFDA7C",
+      "lab": [
+        88.3816,
+        1.5099,
+        50.6355
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "E"
+    },
+    {
+      "code": "E07",
+      "name": "E07",
+      "hex": "#FFEB41",
+      "lab": [
+        92.1591,
+        -10.6083,
+        79.0856
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "E"
+    },
+    {
+      "code": "E08",
+      "name": "E08",
+      "hex": "#FCCF3E",
+      "lab": [
+        84.8293,
+        2.1037,
+        73.1466
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "E"
+    },
+    {
+      "code": "E09",
+      "name": "E09",
+      "hex": "#FFC845",
+      "lab": [
+        83.4437,
+        7.25,
+        69.385
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "E"
+    },
+    {
+      "code": "E10",
+      "name": "E10",
+      "hex": "#FFDF91",
+      "lab": [
+        89.8977,
+        0.8951,
+        42.2214
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "E"
+    },
+    {
+      "code": "E11",
+      "name": "E11",
+      "hex": "#FFF3A2",
+      "lab": [
+        95.1491,
+        -7.373,
+        40.5382
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "E"
+    },
+    {
+      "code": "E12",
+      "name": "E12",
+      "hex": "#FFDFBA",
+      "lab": [
+        90.5893,
+        5.6438,
+        22.2185
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "E"
+    },
+    {
+      "code": "E13",
+      "name": "E13",
+      "hex": "#FFFFD0",
+      "lab": [
+        98.9602,
+        -7.4853,
+        22.5297
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "E"
+    },
+    {
+      "code": "E14",
+      "name": "E14",
+      "hex": "#FFDD78",
+      "lab": [
+        89.0793,
+        -0.3449,
+        53.3849
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "E"
+    },
+    {
+      "code": "E15",
+      "name": "E15",
+      "hex": "#FCBA49",
+      "lab": [
+        79.7836,
+        13.4451,
+        64.0402
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "E"
+    },
+    {
+      "code": "F01",
+      "name": "F01",
+      "hex": "#F1FFC2",
+      "lab": [
+        97.6788,
+        -14.4483,
+        27.6935
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F02",
+      "name": "F02",
+      "hex": "#E3FC9A",
+      "lab": [
+        95.2808,
+        -23.1874,
+        44.2285
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F03",
+      "name": "F03",
+      "hex": "#D2FCAE",
+      "lab": [
+        94.4735,
+        -26.7465,
+        33.0738
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F04",
+      "name": "F04",
+      "hex": "#97F5A9",
+      "lab": [
+        89.2737,
+        -43.3294,
+        28.0485
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F05",
+      "name": "F05",
+      "hex": "#E7F247",
+      "lab": [
+        92.1092,
+        -23.5682,
+        76.3937
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F06",
+      "name": "F06",
+      "hex": "#C5E848",
+      "lab": [
+        87.0221,
+        -32.3799,
+        70.2349
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F07",
+      "name": "F07",
+      "hex": "#F7FA46",
+      "lab": [
+        95.4087,
+        -20.9578,
+        80.2964
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F08",
+      "name": "F08",
+      "hex": "#8ECF53",
+      "lab": [
+        76.6788,
+        -40.9966,
+        53.8564
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F09",
+      "name": "F09",
+      "hex": "#6FEB67",
+      "lab": [
+        83.8471,
+        -59.7526,
+        52.8687
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F10",
+      "name": "F10",
+      "hex": "#65C964",
+      "lab": [
+        73.1924,
+        -49.5843,
+        41.3866
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F11",
+      "name": "F11",
+      "hex": "#3D8C57",
+      "lab": [
+        52.3258,
+        -36.7478,
+        21.1916
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F12",
+      "name": "F12",
+      "hex": "#1D734E",
+      "lab": [
+        42.8713,
+        -34.5255,
+        13.401
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F13",
+      "name": "F13",
+      "hex": "#8FA335",
+      "lab": [
+        63.5829,
+        -22.3804,
+        52.4797
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F14",
+      "name": "F14",
+      "hex": "#515C22",
+      "lab": [
+        36.9652,
+        -13.7506,
+        31.2175
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F15",
+      "name": "F15",
+      "hex": "#2A4A2E",
+      "lab": [
+        28.3452,
+        -18.7375,
+        13.1254
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F16",
+      "name": "F16",
+      "hex": "#27452B",
+      "lab": [
+        26.3374,
+        -17.7307,
+        12.2933
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F17",
+      "name": "F17",
+      "hex": "#323815",
+      "lab": [
+        22.1622,
+        -8.8849,
+        20.7315
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F18",
+      "name": "F18",
+      "hex": "#5B8265",
+      "lab": [
+        50.8371,
+        -20.0366,
+        11.4176
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F19",
+      "name": "F19",
+      "hex": "#948037",
+      "lab": [
+        54.0388,
+        -1.4426,
+        41.5001
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F20",
+      "name": "F20",
+      "hex": "#E0E8B5",
+      "lab": [
+        90.2742,
+        -11.0254,
+        23.9786
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F21",
+      "name": "F21",
+      "hex": "#BCF7B1",
+      "lab": [
+        91.8575,
+        -31.4263,
+        27.8086
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F22",
+      "name": "F22",
+      "hex": "#EDF256",
+      "lab": [
+        92.6553,
+        -20.3648,
+        71.6658
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F23",
+      "name": "F23",
+      "hex": "#F6FCCB",
+      "lab": [
+        97.4407,
+        -9.9148,
+        22.861
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F24",
+      "name": "F24",
+      "hex": "#DEF7AF",
+      "lab": [
+        93.946,
+        -19.9721,
+        32.0014
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "F25",
+      "name": "F25",
+      "hex": "#B5C26D",
+      "lab": [
+        75.7687,
+        -17.4304,
+        41.1188
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "F"
+    },
+    {
+      "code": "G01",
+      "name": "G01",
+      "hex": "#E9FADF",
+      "lab": [
+        96.4191,
+        -10.3126,
+        11.0584
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "G"
+    },
+    {
+      "code": "G02",
+      "name": "G02",
+      "hex": "#E9FFE3",
+      "lab": [
+        97.7885,
+        -12.1186,
+        10.9608
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "G"
+    },
+    {
+      "code": "G03",
+      "name": "G03",
+      "hex": "#9EDBC8",
+      "lab": [
+        82.9665,
+        -23.3458,
+        3.1048
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "G"
+    },
+    {
+      "code": "G04",
+      "name": "G04",
+      "hex": "#66E0B2",
+      "lab": [
+        81.4818,
+        -44.9645,
+        12.2953
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "G"
+    },
+    {
+      "code": "G05",
+      "name": "G05",
+      "hex": "#189E7F",
+      "lab": [
+        58.2057,
+        -41.3112,
+        6.6909
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "G"
+    },
+    {
+      "code": "G06",
+      "name": "G06",
+      "hex": "#56BD96",
+      "lab": [
+        69.8758,
+        -39.3025,
+        10.7605
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "G"
+    },
+    {
+      "code": "G07",
+      "name": "G07",
+      "hex": "#3D8773",
+      "lab": [
+        51.3321,
+        -28.1838,
+        3.8006
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "G"
+    },
+    {
+      "code": "G08",
+      "name": "G08",
+      "hex": "#28594C",
+      "lab": [
+        34.2257,
+        -20.1927,
+        2.4823
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "G"
+    },
+    {
+      "code": "GB1",
+      "name": "GB1",
+      "hex": "#FF4D5E",
+      "lab": [
+        59.3268,
+        67.6486,
+        30.2559
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "GB"
+    },
+    {
+      "code": "GB2",
+      "name": "GB2",
+      "hex": "#FF916E",
+      "lab": [
+        71.3114,
+        38.243,
+        36.6092
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "GB"
+    },
+    {
+      "code": "GB3",
+      "name": "GB3",
+      "hex": "#F7F587",
+      "lab": [
+        94.6661,
+        -14.1822,
+        52.8851
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "GB"
+    },
+    {
+      "code": "GB4",
+      "name": "GB4",
+      "hex": "#CBE38A",
+      "lab": [
+        86.7361,
+        -21.9592,
+        40.8323
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "GB"
+    },
+    {
+      "code": "GB5",
+      "name": "GB5",
+      "hex": "#8E92E6",
+      "lab": [
+        63.3597,
+        18.732,
+        -42.9995
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "GB"
+    },
+    {
+      "code": "GB6",
+      "name": "GB6",
+      "hex": "#5193B5",
+      "lab": [
+        57.9905,
+        -11.1667,
+        -24.1658
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "GB"
+    },
+    {
+      "code": "GB7",
+      "name": "GB7",
+      "hex": "#D42D7B",
+      "lab": [
+        48.6459,
+        67.9799,
+        -2.9994
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "GB"
+    },
+    {
+      "code": "GB8",
+      "name": "GB8",
+      "hex": "#7C76BD",
+      "lab": [
+        52.8568,
+        19.1164,
+        -36.5103
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "GB"
+    },
+    {
+      "code": "H01",
+      "name": "H01",
+      "hex": "#DEFAFC",
+      "lab": [
+        96.3801,
+        -8.6497,
+        -4.0313
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H02",
+      "name": "H02",
+      "hex": "#F0FEF2",
+      "lab": [
+        98.3603,
+        -6.7163,
+        4.1521
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H03",
+      "name": "H03",
+      "hex": "#BDF6ED",
+      "lab": [
+        92.9452,
+        -19.7339,
+        -1.5465
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H04",
+      "name": "H04",
+      "hex": "#B7EEF7",
+      "lab": [
+        90.7474,
+        -15.3815,
+        -10.0312
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H05",
+      "name": "H05",
+      "hex": "#58CBF0",
+      "lab": [
+        76.7235,
+        -21.5653,
+        -27.9076
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H06",
+      "name": "H06",
+      "hex": "#E3FDFF",
+      "lab": [
+        97.5513,
+        -8.0071,
+        -3.8171
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H07",
+      "name": "H07",
+      "hex": "#00AACC",
+      "lab": [
+        64.2464,
+        -24.3851,
+        -27.5689
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H08",
+      "name": "H08",
+      "hex": "#64B2DB",
+      "lab": [
+        69.2278,
+        -12.5738,
+        -27.997
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H09",
+      "name": "H09",
+      "hex": "#30CBE4",
+      "lab": [
+        75.4122,
+        -30.3475,
+        -23.5392
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H10",
+      "name": "H10",
+      "hex": "#00C5CF",
+      "lab": [
+        72.5171,
+        -36.5405,
+        -16.603
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H11",
+      "name": "H11",
+      "hex": "#00BAB7",
+      "lab": [
+        68.4118,
+        -38.8449,
+        -9.6347
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H12",
+      "name": "H12",
+      "hex": "#2397A3",
+      "lab": [
+        57.2044,
+        -26.4625,
+        -15.244
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H13",
+      "name": "H13",
+      "hex": "#198DB4",
+      "lab": [
+        54.6051,
+        -16.3493,
+        -28.9513
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H14",
+      "name": "H14",
+      "hex": "#0065A1",
+      "lab": [
+        41.0233,
+        -1.5078,
+        -39.2337
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H15",
+      "name": "H15",
+      "hex": "#1F5082",
+      "lab": [
+        33.2205,
+        1.9339,
+        -32.844
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H16",
+      "name": "H16",
+      "hex": "#0D55B3",
+      "lab": [
+        37.5459,
+        16.8427,
+        -55.4632
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H17",
+      "name": "H17",
+      "hex": "#0787AC",
+      "lab": [
+        52.2301,
+        -16.9019,
+        -28.061
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H18",
+      "name": "H18",
+      "hex": "#335F7D",
+      "lab": [
+        38.4951,
+        -5.6721,
+        -21.4434
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H19",
+      "name": "H19",
+      "hex": "#56D7E3",
+      "lab": [
+        79.6826,
+        -31.5946,
+        -16.4561
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H20",
+      "name": "H20",
+      "hex": "#304561",
+      "lab": [
+        28.7658,
+        0.4855,
+        -19.042
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H21",
+      "name": "H21",
+      "hex": "#49608F",
+      "lab": [
+        40.8395,
+        5.0437,
+        -28.6146
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H22",
+      "name": "H22",
+      "hex": "#323578",
+      "lab": [
+        25.503,
+        19.9458,
+        -38.8852
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H23",
+      "name": "H23",
+      "hex": "#2C3B4A",
+      "lab": [
+        24.1858,
+        -1.6727,
+        -11.129
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H24",
+      "name": "H24",
+      "hex": "#324752",
+      "lab": [
+        28.8854,
+        -4.9931,
+        -9.1839
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H25",
+      "name": "H25",
+      "hex": "#78C4BE",
+      "lab": [
+        74.3099,
+        -24.921,
+        -4.4151
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H26",
+      "name": "H26",
+      "hex": "#DCF2EA",
+      "lab": [
+        93.7361,
+        -8.6834,
+        1.3943
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H27",
+      "name": "H27",
+      "hex": "#92D4F0",
+      "lab": [
+        81.558,
+        -13.889,
+        -20.3306
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H28",
+      "name": "H28",
+      "hex": "#B2F0D7",
+      "lab": [
+        90.1782,
+        -24.5415,
+        5.7917
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H29",
+      "name": "H29",
+      "hex": "#55B5C4",
+      "lab": [
+        68.7235,
+        -23.8873,
+        -16.1824
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H30",
+      "name": "H30",
+      "hex": "#DFF1FB",
+      "lab": [
+        94.1249,
+        -3.9812,
+        -6.8319
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H31",
+      "name": "H31",
+      "hex": "#BBE3F0",
+      "lab": [
+        87.8684,
+        -10.1805,
+        -10.624
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "H32",
+      "name": "H32",
+      "hex": "#4D6A86",
+      "lab": [
+        43.663,
+        -2.7886,
+        -18.8061
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "H"
+    },
+    {
+      "code": "J01",
+      "name": "J01",
+      "hex": "#F2FAFF",
+      "lab": [
+        97.8202,
+        -1.7159,
+        -3.3033
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J02",
+      "name": "J02",
+      "hex": "#F5F2FF",
+      "lab": [
+        96.0534,
+        3.3275,
+        -5.8794
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J03",
+      "name": "J03",
+      "hex": "#E7E6FF",
+      "lab": [
+        92.0436,
+        4.9958,
+        -11.9414
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J04",
+      "name": "J04",
+      "hex": "#E1DCFC",
+      "lab": [
+        89.0272,
+        7.7098,
+        -14.9271
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J05",
+      "name": "J05",
+      "hex": "#BCE3FB",
+      "lab": [
+        88.2528,
+        -7.4632,
+        -15.821
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J06",
+      "name": "J06",
+      "hex": "#C3E1F7",
+      "lab": [
+        88.0484,
+        -5.2411,
+        -13.9819
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J07",
+      "name": "J07",
+      "hex": "#A8CCF0",
+      "lab": [
+        80.6273,
+        -3.7537,
+        -21.6256
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J08",
+      "name": "J08",
+      "hex": "#7DA1C8",
+      "lab": [
+        64.977,
+        -2.5699,
+        -23.9257
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J09",
+      "name": "J09",
+      "hex": "#E5E5FA",
+      "lab": [
+        91.5043,
+        3.9042,
+        -10.1496
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J10",
+      "name": "J10",
+      "hex": "#D7B1E3",
+      "lab": [
+        76.9438,
+        22.5249,
+        -19.8852
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J11",
+      "name": "J11",
+      "hex": "#9F92CF",
+      "lab": [
+        63.6994,
+        17.6842,
+        -29.5888
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J12",
+      "name": "J12",
+      "hex": "#B36BAA",
+      "lab": [
+        55.0754,
+        38.1969,
+        -21.6729
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J13",
+      "name": "J13",
+      "hex": "#978BBF",
+      "lab": [
+        60.6099,
+        15.4215,
+        -25.4244
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J14",
+      "name": "J14",
+      "hex": "#B15095",
+      "lab": [
+        48.5815,
+        47.9667,
+        -19.3229
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J15",
+      "name": "J15",
+      "hex": "#56498F",
+      "lab": [
+        35.452,
+        23.1852,
+        -37.0592
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J16",
+      "name": "J16",
+      "hex": "#74458A",
+      "lab": [
+        37.4894,
+        32.9795,
+        -30.5695
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J17",
+      "name": "J17",
+      "hex": "#9563B0",
+      "lab": [
+        50.0354,
+        34.4001,
+        -33.2504
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J18",
+      "name": "J18",
+      "hex": "#6F4285",
+      "lab": [
+        35.9259,
+        32.0456,
+        -30.0072
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J19",
+      "name": "J19",
+      "hex": "#07004A",
+      "lab": [
+        4.8726,
+        30.3144,
+        -42.2246
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J20",
+      "name": "J20",
+      "hex": "#6C82C9",
+      "lab": [
+        55.4504,
+        11.1235,
+        -39.3592
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J21",
+      "name": "J21",
+      "hex": "#3C46A1",
+      "lab": [
+        33.8017,
+        25.1325,
+        -50.7281
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "J22",
+      "name": "J22",
+      "hex": "#EAD5FA",
+      "lab": [
+        87.9606,
+        13.8872,
+        -15.402
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "J"
+    },
+    {
+      "code": "K01",
+      "name": "K01",
+      "hex": "#FFF8F3",
+      "lab": [
+        97.98,
+        1.4761,
+        3.2227
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K02",
+      "name": "K02",
+      "hex": "#FFF1E9",
+      "lab": [
+        96.0195,
+        3.3747,
+        5.5423
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K03",
+      "name": "K03",
+      "hex": "#FADBD2",
+      "lab": [
+        89.6929,
+        9.2986,
+        8.3612
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K04",
+      "name": "K04",
+      "hex": "#FCEBE9",
+      "lab": [
+        94.3108,
+        5.4114,
+        3.0382
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K05",
+      "name": "K05",
+      "hex": "#FFE0C4",
+      "lab": [
+        91.0345,
+        6.4821,
+        17.6423
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K06",
+      "name": "K06",
+      "hex": "#FFE8D4",
+      "lab": [
+        93.3324,
+        4.6876,
+        12.5702
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K07",
+      "name": "K07",
+      "hex": "#FFBCB8",
+      "lab": [
+        82.2122,
+        23.5917,
+        11.534
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K08",
+      "name": "K08",
+      "hex": "#FF9D8A",
+      "lab": [
+        74.3264,
+        34.4863,
+        25.4427
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K09",
+      "name": "K09",
+      "hex": "#FFC5A7",
+      "lab": [
+        83.9586,
+        16.7368,
+        23.0248
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K10",
+      "name": "K10",
+      "hex": "#FC9798",
+      "lab": [
+        72.958,
+        37.9154,
+        15.8403
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K11",
+      "name": "K11",
+      "hex": "#FFF0F5",
+      "lab": [
+        96.0687,
+        5.8873,
+        -0.5937
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K12",
+      "name": "K12",
+      "hex": "#FFEBDE",
+      "lab": [
+        94.2919,
+        4.6815,
+        8.7515
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K13",
+      "name": "K13",
+      "hex": "#FFE5E6",
+      "lab": [
+        93.0203,
+        9.0354,
+        2.7558
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K14",
+      "name": "K14",
+      "hex": "#FFE9F2",
+      "lab": [
+        94.2909,
+        8.9686,
+        -1.6389
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K15",
+      "name": "K15",
+      "hex": "#FFE7F2",
+      "lab": [
+        93.8072,
+        9.9994,
+        -2.3479
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K16",
+      "name": "K16",
+      "hex": "#FFC7DD",
+      "lab": [
+        85.6704,
+        23.2163,
+        -3.241
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K17",
+      "name": "K17",
+      "hex": "#F7A3C4",
+      "lab": [
+        76.0433,
+        35.5363,
+        -4.0077
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K18",
+      "name": "K18",
+      "hex": "#F78FCE",
+      "lab": [
+        72.1477,
+        47.3482,
+        -15.3155
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K19",
+      "name": "K19",
+      "hex": "#F26697",
+      "lab": [
+        62.185,
+        58.2654,
+        0.8545
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K20",
+      "name": "K20",
+      "hex": "#E6758A",
+      "lab": [
+        62.8312,
+        45.7782,
+        9.0327
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K21",
+      "name": "K21",
+      "hex": "#E985B1",
+      "lab": [
+        67.4841,
+        43.5905,
+        -6.2975
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K22",
+      "name": "K22",
+      "hex": "#FF4576",
+      "lab": [
+        58.8174,
+        71.8939,
+        15.5742
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K23",
+      "name": "K23",
+      "hex": "#C9427D",
+      "lab": [
+        49.2503,
+        58.1917,
+        -3.5413
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K24",
+      "name": "K24",
+      "hex": "#AD5081",
+      "lab": [
+        47.2471,
+        43.7001,
+        -9.415
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K25",
+      "name": "K25",
+      "hex": "#AB3967",
+      "lab": [
+        42.1017,
+        50.4217,
+        -1.1633
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K26",
+      "name": "K26",
+      "hex": "#EDE2F0",
+      "lab": [
+        91.0933,
+        6.2028,
+        -5.4614
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K27",
+      "name": "K27",
+      "hex": "#E0C4C3",
+      "lab": [
+        81.4391,
+        9.7074,
+        4.1383
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K28",
+      "name": "K28",
+      "hex": "#D4A0B7",
+      "lab": [
+        71.255,
+        22.8166,
+        -4.3352
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K29",
+      "name": "K29",
+      "hex": "#A18A98",
+      "lab": [
+        59.9083,
+        11.1612,
+        -4.2179
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K30",
+      "name": "K30",
+      "hex": "#FAF2FF",
+      "lab": [
+        96.43,
+        4.9603,
+        -5.2813
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K31",
+      "name": "K31",
+      "hex": "#F7B38C",
+      "lab": [
+        78.4103,
+        20.0961,
+        29.6756
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K32",
+      "name": "K32",
+      "hex": "#E08743",
+      "lab": [
+        64.6315,
+        28.4542,
+        49.8102
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K33",
+      "name": "K33",
+      "hex": "#BF5960",
+      "lab": [
+        50.7675,
+        41.5877,
+        15.8481
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K34",
+      "name": "K34",
+      "hex": "#D4A492",
+      "lab": [
+        71.3001,
+        15.1749,
+        16.1564
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K35",
+      "name": "K35",
+      "hex": "#FCC7CC",
+      "lab": [
+        84.9478,
+        19.5475,
+        4.7256
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K36",
+      "name": "K36",
+      "hex": "#FFD3BF",
+      "lab": [
+        87.782,
+        12.5128,
+        15.6906
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K37",
+      "name": "K37",
+      "hex": "#FA9276",
+      "lab": [
+        71.0051,
+        36.4616,
+        31.7838
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K38",
+      "name": "K38",
+      "hex": "#FFCDD0",
+      "lab": [
+        86.7409,
+        18.0707,
+        5.2262
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "K39",
+      "name": "K39",
+      "hex": "#E34447",
+      "lab": [
+        52.8676,
+        61.1525,
+        34.4085
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "K"
+    },
+    {
+      "code": "L1",
+      "name": "L1",
+      "hex": "#D40E1F",
+      "lab": [
+        44.822,
+        68.7743,
+        47.0716
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "L"
+    },
+    {
+      "code": "L10",
+      "name": "L10",
+      "hex": "#F8DA54",
+      "lab": [
+        87.3598,
+        -4.13,
+        67.2415
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "L"
+    },
+    {
+      "code": "L11",
+      "name": "L11",
+      "hex": "#FCECF7",
+      "lab": [
+        94.9088,
+        7.2795,
+        -3.358
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "L"
+    },
+    {
+      "code": "L12",
+      "name": "L12",
+      "hex": "#D8D4D3",
+      "lab": [
+        85.1946,
+        1.1891,
+        0.9776
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "L"
+    },
+    {
+      "code": "L13",
+      "name": "L13",
+      "hex": "#56534E",
+      "lab": [
+        35.4298,
+        0.2012,
+        3.3601
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "L"
+    },
+    {
+      "code": "L14",
+      "name": "L14",
+      "hex": "#FFFFFF",
+      "lab": [
+        100,
+        0,
+        0
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "L"
+    },
+    {
+      "code": "L2",
+      "name": "L2",
+      "hex": "#F13484",
+      "lab": [
+        54.8951,
+        74.2614,
+        1.3574
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "L"
+    },
+    {
+      "code": "L3",
+      "name": "L3",
+      "hex": "#FB852B",
+      "lab": [
+        67.6241,
+        39.4084,
+        64.2256
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "L"
+    },
+    {
+      "code": "L4",
+      "name": "L4",
+      "hex": "#F8ED33",
+      "lab": [
+        92.0277,
+        -14.9732,
+        82.8352
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "L"
+    },
+    {
+      "code": "L5",
+      "name": "L5",
+      "hex": "#32C958",
+      "lab": [
+        71.6588,
+        -61.9786,
+        44.9466
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "L"
+    },
+    {
+      "code": "L6",
+      "name": "L6",
+      "hex": "#1EBA93",
+      "lab": [
+        67.6486,
+        -47.3687,
+        9.0631
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "L"
+    },
+    {
+      "code": "L7",
+      "name": "L7",
+      "hex": "#1D779C",
+      "lab": [
+        46.7817,
+        -12.3248,
+        -27.1962
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "L"
+    },
+    {
+      "code": "L8",
+      "name": "L8",
+      "hex": "#1960C8",
+      "lab": [
+        42.3698,
+        18.6391,
+        -59.8894
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "L"
+    },
+    {
+      "code": "L9",
+      "name": "L9",
+      "hex": "#945AB1",
+      "lab": [
+        47.9856,
+        39.3642,
+        -37.0624
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "L"
+    },
+    {
+      "code": "M01",
+      "name": "M01",
+      "hex": "#F9F9F9",
+      "lab": [
+        97.9256,
+        0,
+        0
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M02",
+      "name": "M02",
+      "hex": "#ABABAB",
+      "lab": [
+        69.9821,
+        0,
+        0
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M03",
+      "name": "M03",
+      "hex": "#B6DBAF",
+      "lab": [
+        83.8105,
+        -20.3398,
+        17.6981
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M04",
+      "name": "M04",
+      "hex": "#FEA2A3",
+      "lab": [
+        75.7987,
+        34.201,
+        13.8174
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M05",
+      "name": "M05",
+      "hex": "#EB903F",
+      "lab": [
+        68.0001,
+        28.0182,
+        55.6453
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M06",
+      "name": "M06",
+      "hex": "#63CEA2",
+      "lab": [
+        75.7001,
+        -41.2459,
+        12.5928
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M07",
+      "name": "M07",
+      "hex": "#E79273",
+      "lab": [
+        68.5978,
+        28.8575,
+        29.8241
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M08",
+      "name": "M08",
+      "hex": "#ECDB59",
+      "lab": [
+        86.6127,
+        -9.2967,
+        64.072
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M09",
+      "name": "M09",
+      "hex": "#DBD9DA",
+      "lab": [
+        86.873,
+        0.8587,
+        -0.2507
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M10",
+      "name": "M10",
+      "hex": "#DBC7EA",
+      "lab": [
+        82.8324,
+        13.349,
+        -14.7357
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M11",
+      "name": "M11",
+      "hex": "#F1E9D4",
+      "lab": [
+        92.4569,
+        -0.7788,
+        11.1704
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M12",
+      "name": "M12",
+      "hex": "#E9EDEE",
+      "lab": [
+        93.4786,
+        -1.1501,
+        -0.949
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M13",
+      "name": "M13",
+      "hex": "#ADCBF1",
+      "lab": [
+        80.7082,
+        -1.5519,
+        -22.0075
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M14",
+      "name": "M14",
+      "hex": "#337BAD",
+      "lab": [
+        49.3565,
+        -5.7,
+        -33.0624
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M15",
+      "name": "M15",
+      "hex": "#668575",
+      "lab": [
+        52.8219,
+        -14.5084,
+        5.0499
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M16",
+      "name": "M16",
+      "hex": "#FDC24E",
+      "lab": [
+        81.8494,
+        9.9438,
+        64.1219
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M17",
+      "name": "M17",
+      "hex": "#FDA42E",
+      "lab": [
+        74.5949,
+        24.3381,
+        69.3349
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M18",
+      "name": "M18",
+      "hex": "#FEBDA7",
+      "lab": [
+        81.9792,
+        20.5458,
+        20.2816
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M19",
+      "name": "M19",
+      "hex": "#FFDEE9",
+      "lab": [
+        91.4093,
+        13.1474,
+        -1.1608
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M20",
+      "name": "M20",
+      "hex": "#FCBFD1",
+      "lab": [
+        83.2122,
+        24.5057,
+        -0.4691
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M21",
+      "name": "M21",
+      "hex": "#E8BEC2",
+      "lab": [
+        80.6719,
+        15.6088,
+        3.656
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M22",
+      "name": "M22",
+      "hex": "#DFAAA4",
+      "lab": [
+        74.2666,
+        18.5643,
+        10.6277
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "M23",
+      "name": "M23",
+      "hex": "#A3656A",
+      "lab": [
+        49.6609,
+        25.641,
+        7.7657
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "M"
+    },
+    {
+      "code": "N1",
+      "name": "N1",
+      "hex": "#FF6FB7",
+      "lab": [
+        66.5605,
+        61.9857,
+        -10.7394
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "N"
+    },
+    {
+      "code": "N2",
+      "name": "N2",
+      "hex": "#FDB583",
+      "lab": [
+        79.3705,
+        20.5183,
+        35.7888
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "N"
+    },
+    {
+      "code": "N3",
+      "name": "N3",
+      "hex": "#D8FCA4",
+      "lab": [
+        94.6956,
+        -25.97,
+        38.4188
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "N"
+    },
+    {
+      "code": "N4",
+      "name": "N4",
+      "hex": "#91DAFB",
+      "lab": [
+        83.5075,
+        -14.4003,
+        -23.2156
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "N"
+    },
+    {
+      "code": "N5",
+      "name": "N5",
+      "hex": "#E987EA",
+      "lab": [
+        69.8911,
+        51.7183,
+        -34.3558
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "N"
+    },
+    {
+      "code": "S1",
+      "name": "S1",
+      "hex": "#A3E7DC",
+      "lab": [
+        87.0472,
+        -23.5254,
+        -1.4739
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "S"
+    },
+    {
+      "code": "S10",
+      "name": "S10",
+      "hex": "#F6BB6F",
+      "lab": [
+        79.7758,
+        12.8466,
+        46.3468
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "S"
+    },
+    {
+      "code": "S11",
+      "name": "S11",
+      "hex": "#F3C6C0",
+      "lab": [
+        83.5743,
+        15.0594,
+        9.0378
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "S"
+    },
+    {
+      "code": "S12",
+      "name": "S12",
+      "hex": "#C76A62",
+      "lab": [
+        55.4159,
+        36.0277,
+        21.1649
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "S"
+    },
+    {
+      "code": "S13",
+      "name": "S13",
+      "hex": "#D093BC",
+      "lab": [
+        67.9543,
+        29.3296,
+        -12.0681
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "S"
+    },
+    {
+      "code": "S14",
+      "name": "S14",
+      "hex": "#E58EAE",
+      "lab": [
+        68.7971,
+        37.1167,
+        -2.7317
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "S"
+    },
+    {
+      "code": "S15",
+      "name": "S15",
+      "hex": "#9F85CF",
+      "lab": [
+        60.4722,
+        25.125,
+        -34.5975
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "S"
+    },
+    {
+      "code": "S2",
+      "name": "S2",
+      "hex": "#78CEE7",
+      "lab": [
+        78.4043,
+        -19.437,
+        -20.4149
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "S"
+    },
+    {
+      "code": "S3",
+      "name": "S3",
+      "hex": "#3FCDCE",
+      "lab": [
+        75.5579,
+        -36.2067,
+        -11.4252
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "S"
+    },
+    {
+      "code": "S4",
+      "name": "S4",
+      "hex": "#4E8379",
+      "lab": [
+        50.9573,
+        -20.1719,
+        -0.1512
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "S"
+    },
+    {
+      "code": "S5",
+      "name": "S5",
+      "hex": "#7DCA9C",
+      "lab": [
+        75.4508,
+        -33.8456,
+        15.6025
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "S"
+    },
+    {
+      "code": "S6",
+      "name": "S6",
+      "hex": "#C8E664",
+      "lab": [
+        86.8953,
+        -28.3352,
+        58.8865
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "S"
+    },
+    {
+      "code": "S7",
+      "name": "S7",
+      "hex": "#E3CCBA",
+      "lab": [
+        83.4757,
+        5.1699,
+        11.8971
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "S"
+    },
+    {
+      "code": "S8",
+      "name": "S8",
+      "hex": "#A17140",
+      "lab": [
+        51.5638,
+        13.5687,
+        34.3979
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "S"
+    },
+    {
+      "code": "S9",
+      "name": "S9",
+      "hex": "#6B372C",
+      "lab": [
+        29.5153,
+        21.8791,
+        17.1874
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "S"
+    },
+    {
+      "code": "W1",
+      "name": "W1",
+      "hex": "#FEFB00",
+      "lab": [
+        96.0249,
+        -20.0622,
+        93.6285
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "W"
+    },
+    {
+      "code": "W2",
+      "name": "W2",
+      "hex": "#FFEBFA",
+      "lab": [
+        94.9837,
+        9.3177,
+        -4.7776
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "W"
+    },
+    {
+      "code": "W3",
+      "name": "W3",
+      "hex": "#F2A5E8",
+      "lab": [
+        77.0509,
+        38.6145,
+        -22.183
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "W"
+    },
+    {
+      "code": "W4",
+      "name": "W4",
+      "hex": "#E9EC91",
+      "lab": [
+        91.397,
+        -14.1725,
+        43.7642
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "W"
+    },
+    {
+      "code": "W5",
+      "name": "W5",
+      "hex": "#76CEDE",
+      "lab": [
+        78.031,
+        -22.2971,
+        -16.1583
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "W"
+    },
+    {
+      "code": "Y01",
+      "name": "Y01",
+      "hex": "#D5E8D7",
+      "lab": [
+        90.2133,
+        -9.3992,
+        6.1192
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Y"
+    },
+    {
+      "code": "Y02",
+      "name": "Y02",
+      "hex": "#95B091",
+      "lab": [
+        69.1004,
+        -15.2858,
+        12.84
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Y"
+    },
+    {
+      "code": "Y03",
+      "name": "Y03",
+      "hex": "#62858A",
+      "lab": [
+        53.174,
+        -10.9762,
+        -6.6698
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Y"
+    },
+    {
+      "code": "Y04",
+      "name": "Y04",
+      "hex": "#E0D6C3",
+      "lab": [
+        85.9471,
+        0.2661,
+        10.6118
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Y"
+    },
+    {
+      "code": "Y05",
+      "name": "Y05",
+      "hex": "#DED7B1",
+      "lab": [
+        85.6581,
+        -3.7117,
+        19.6539
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Y"
+    },
+    {
+      "code": "Y06",
+      "name": "Y06",
+      "hex": "#BDB293",
+      "lab": [
+        72.7382,
+        -1.1319,
+        17.2874
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Y"
+    },
+    {
+      "code": "Y07",
+      "name": "Y07",
+      "hex": "#C9BCA9",
+      "lab": [
+        76.8298,
+        1.4206,
+        11.2672
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Y"
+    },
+    {
+      "code": "Y08",
+      "name": "Y08",
+      "hex": "#B8A9A6",
+      "lab": [
+        70.3996,
+        4.8791,
+        3.5
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Y"
+    },
+    {
+      "code": "Y09",
+      "name": "Y09",
+      "hex": "#CCB88B",
+      "lab": [
+        75.4413,
+        0.41,
+        25.4997
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Y"
+    },
+    {
+      "code": "Y10",
+      "name": "Y10",
+      "hex": "#C2B5BC",
+      "lab": [
+        74.9184,
+        5.8614,
+        -1.8856
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Y"
+    },
+    {
+      "code": "Y11",
+      "name": "Y11",
+      "hex": "#AE99B0",
+      "lab": [
+        65.6834,
+        11.9507,
+        -9.099
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Y"
+    },
+    {
+      "code": "Y12",
+      "name": "Y12",
+      "hex": "#5C5153",
+      "lab": [
+        35.5668,
+        4.9257,
+        0.4904
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Y"
+    },
+    {
+      "code": "Y13",
+      "name": "Y13",
+      "hex": "#E0AC82",
+      "lab": [
+        74.1686,
+        13.6847,
+        28.9318
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Y"
+    },
+    {
+      "code": "Y14",
+      "name": "Y14",
+      "hex": "#DE8D6D",
+      "lab": [
+        66.2802,
+        27.423,
+        29.8662
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Y"
+    },
+    {
+      "code": "Y15",
+      "name": "Y15",
+      "hex": "#95A19C",
+      "lab": [
+        65.1836,
+        -5.2427,
+        1.137
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Y"
+    },
+    {
+      "code": "Z01",
+      "name": "Z01",
+      "hex": "#FFF3DE",
+      "lab": [
+        96.2601,
+        0.612,
+        11.5658
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z02",
+      "name": "Z02",
+      "hex": "#FFEAC2",
+      "lab": [
+        93.4517,
+        1.0978,
+        22.0464
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z03",
+      "name": "Z03",
+      "hex": "#FDFCD9",
+      "lab": [
+        98.2388,
+        -5.3767,
+        16.9144
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z04",
+      "name": "Z04",
+      "hex": "#FAE8C8",
+      "lab": [
+        92.667,
+        1.1341,
+        17.7933
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z05",
+      "name": "Z05",
+      "hex": "#FFDDAB",
+      "lab": [
+        89.8203,
+        4.7806,
+        28.9221
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z06",
+      "name": "Z06",
+      "hex": "#F5C69B",
+      "lab": [
+        83.0039,
+        10.9749,
+        27.8816
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z07",
+      "name": "Z07",
+      "hex": "#F0E49E",
+      "lab": [
+        90.0829,
+        -6.0409,
+        35.686
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z08",
+      "name": "Z08",
+      "hex": "#E6C495",
+      "lab": [
+        81.0022,
+        5.495,
+        28.0959
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z09",
+      "name": "Z09",
+      "hex": "#FCDA95",
+      "lab": [
+        88.453,
+        2.6832,
+        38.2995
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z10",
+      "name": "Z10",
+      "hex": "#F0AC46",
+      "lab": [
+        75.1246,
+        15.6267,
+        60.1107
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z11",
+      "name": "Z11",
+      "hex": "#F5AE48",
+      "lab": [
+        76.1655,
+        16.763,
+        60.503
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z12",
+      "name": "Z12",
+      "hex": "#FAB646",
+      "lab": [
+        78.5937,
+        14.5595,
+        63.9978
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z13",
+      "name": "Z13",
+      "hex": "#F0D393",
+      "lab": [
+        85.6164,
+        1.3761,
+        35.4145
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z14",
+      "name": "Z14",
+      "hex": "#BD8A6A",
+      "lab": [
+        61.6874,
+        15.4139,
+        24.7712
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z15",
+      "name": "Z15",
+      "hex": "#BD9044",
+      "lab": [
+        62.6634,
+        8.7862,
+        45.9928
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z16",
+      "name": "Z16",
+      "hex": "#54483A",
+      "lab": [
+        31.4058,
+        2.593,
+        10.2833
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z17",
+      "name": "Z17",
+      "hex": "#9E836C",
+      "lab": [
+        56.6692,
+        6.805,
+        16.3099
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z18",
+      "name": "Z18",
+      "hex": "#A67E61",
+      "lab": [
+        55.9808,
+        11.5656,
+        21.7754
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z19",
+      "name": "Z19",
+      "hex": "#A36943",
+      "lab": [
+        49.8541,
+        19.2324,
+        30.7428
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z20",
+      "name": "Z20",
+      "hex": "#A16446",
+      "lab": [
+        48.4302,
+        21.4618,
+        27.2211
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z21",
+      "name": "Z21",
+      "hex": "#9E5B4E",
+      "lab": [
+        46.0466,
+        26.0251,
+        19.3809
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z22",
+      "name": "Z22",
+      "hex": "#57423B",
+      "lab": [
+        30.007,
+        7.9125,
+        7.7514
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z23",
+      "name": "Z23",
+      "hex": "#5C3F3B",
+      "lab": [
+        29.7792,
+        12.0671,
+        7.5227
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    },
+    {
+      "code": "Z24",
+      "name": "Z24",
+      "hex": "#C7A58D",
+      "lab": [
+        70.1599,
+        8.9042,
+        17.1199
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug"
+      ],
+      "group": "Z"
+    }
+  ],
+  "sets": [
+    {
+      "count": 144,
+      "codes": [],
+      "codesKnown": false,
+      "note": "零售端常见档位。具体色号构成因商家而异，无公开可靠数据，请手动勾选或导入实际色号。"
+    },
+    {
+      "count": 221,
+      "codes": [],
+      "codesKnown": false,
+      "note": "零售端常见档位。具体色号构成因商家而异，无公开可靠数据，请手动勾选或导入实际色号。"
+    },
+    {
+      "count": 291,
+      "codes": [],
+      "codesKnown": false,
+      "note": "零售端常见档位。具体色号构成因商家而异，无公开可靠数据，请手动勾选或导入实际色号。"
+    }
+  ],
+  "attribution": {
+    "sources": [
+      "HansBug/pindou-color-data (MIT)"
+    ],
+    "license": "MIT",
+    "notice": "市面存在两套互斥的 COCO 编号体系：本数据采用 HansBug 仓库口径；另一公开数据集的 COCO 与 MARD 291 共用同一批 HEX 但编号完全不同，两者色号重合度虽高达 92%，重合色号的实际颜色却对不上，已在构建期被自动拒绝合并。因此 COCO 色号跨数据源不可字面对照，务必以实体店色卡为准。"
+  }
+}

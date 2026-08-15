@@ -1,0 +1,153 @@
+@import 'tailwindcss';
+
+/*
+ * 两套视觉系统。
+ *
+ * 这不是为了好看而分的，是功能需求：
+ *
+ * 营销与 SEO 页面要有品牌温度，吸引人留下来；
+ * 而编辑器与摆豆模式里，**界面本身绝不能有色相偏移**——用户正在肉眼判断
+ * 「这颗豆是 A12 还是 A13」，周围只要有一点暖色或冷色调，判断就会被带偏。
+ * 所以编辑器一律用纯中性灰，让画布上的图纸成为整个屏幕上唯一的彩色。
+ */
+
+@theme {
+  /* 品牌色：偏暖的珊瑚橙，对应拼豆的手作温度，避开常见豆色的正红与正橙 */
+  --color-brand-50: oklch(0.97 0.02 40);
+  --color-brand-100: oklch(0.94 0.04 40);
+  --color-brand-200: oklch(0.88 0.08 40);
+  --color-brand-300: oklch(0.8 0.12 40);
+  --color-brand-400: oklch(0.72 0.16 40);
+  --color-brand-500: oklch(0.65 0.19 40);
+  --color-brand-600: oklch(0.58 0.18 40);
+  --color-brand-700: oklch(0.48 0.15 40);
+  --color-brand-800: oklch(0.38 0.11 40);
+  --color-brand-900: oklch(0.28 0.08 40);
+
+  /* 营销页中性色：带一丝暖调，避免冷冰冰的纯灰 */
+  --color-warm-50: oklch(0.98 0.004 60);
+  --color-warm-100: oklch(0.96 0.006 60);
+  --color-warm-200: oklch(0.92 0.008 60);
+  --color-warm-300: oklch(0.85 0.008 60);
+  --color-warm-400: oklch(0.7 0.008 60);
+  --color-warm-500: oklch(0.56 0.008 60);
+  --color-warm-600: oklch(0.45 0.008 60);
+  --color-warm-700: oklch(0.36 0.008 60);
+  --color-warm-800: oklch(0.26 0.006 60);
+  --color-warm-900: oklch(0.18 0.004 60);
+
+  /* 编辑器中性色：色度恒为 0，任何色相偏移都会干扰对豆色的判断 */
+  --color-neutral-0: oklch(1 0 0);
+  --color-neutral-50: oklch(0.97 0 0);
+  --color-neutral-100: oklch(0.94 0 0);
+  --color-neutral-200: oklch(0.89 0 0);
+  --color-neutral-300: oklch(0.8 0 0);
+  --color-neutral-400: oklch(0.66 0 0);
+  --color-neutral-500: oklch(0.54 0 0);
+  --color-neutral-600: oklch(0.44 0 0);
+  --color-neutral-700: oklch(0.34 0 0);
+  --color-neutral-800: oklch(0.24 0 0);
+  --color-neutral-900: oklch(0.16 0 0);
+  --color-neutral-950: oklch(0.11 0 0);
+
+  /* 语义色 */
+  --color-success: oklch(0.62 0.15 150);
+  --color-warning: oklch(0.75 0.15 80);
+  --color-danger: oklch(0.58 0.2 25);
+  --color-info: oklch(0.6 0.13 240);
+
+  /*
+   * 字体：中文系统优先。
+   * 绝不引入中文 Web 字体——一套完整中文字体动辄 5MB 以上，
+   * 移动端用户等不起，而拼豆的主力场景恰恰在手机上。
+   */
+  --font-sans:
+    system-ui, -apple-system, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB',
+    'Microsoft YaHei', 'Noto Sans SC', sans-serif;
+  /* 色号与坐标必须等宽，否则一列数字会参差不齐，找格子时极其费眼 */
+  --font-mono:
+    ui-monospace, 'SF Mono', 'Cascadia Code', Consolas, 'Liberation Mono',
+    monospace;
+
+  --radius-card: 0.75rem;
+  --radius-control: 0.5rem;
+}
+
+/*
+ * 编辑器外壳。在此容器内，语义色令牌整体切换到纯中性版本，
+ * 组件不必关心自己身处哪套系统。
+ */
+[data-surface='editor'] {
+  --surface-base: var(--color-neutral-950);
+  --surface-panel: var(--color-neutral-900);
+  --surface-raised: var(--color-neutral-800);
+  --surface-border: var(--color-neutral-700);
+  --surface-text: var(--color-neutral-100);
+  --surface-text-muted: var(--color-neutral-400);
+  /* 画布底：中度灰。纯白或纯黑都会让浅色与深色豆分别「消失」在背景里 */
+  --canvas-bg: var(--color-neutral-600);
+}
+
+[data-surface='marketing'] {
+  --surface-base: var(--color-warm-50);
+  --surface-panel: var(--color-neutral-0);
+  --surface-raised: var(--color-warm-100);
+  --surface-border: var(--color-warm-200);
+  --surface-text: var(--color-warm-900);
+  --surface-text-muted: var(--color-warm-600);
+}
+
+@layer base {
+  html {
+    font-family: var(--font-sans);
+    /* 中文正文行高需要比英文更宽松，否则密排汉字会挤成一团 */
+    line-height: 1.75;
+    -webkit-text-size-adjust: 100%;
+    /* 避免窄屏上出现横向滚动条 */
+    overflow-x: clip;
+  }
+
+  body {
+    margin: 0;
+    background: var(--surface-base, var(--color-warm-50));
+    color: var(--surface-text, var(--color-warm-900));
+    overflow-x: clip;
+  }
+
+  /* 中文标题不需要那么大的行高 */
+  h1,
+  h2,
+  h3,
+  h4 {
+    line-height: 1.35;
+    font-weight: 600;
+    text-wrap: balance;
+  }
+
+  /* 键盘可达性：所有可聚焦元素必须有可见焦点环 */
+  :focus-visible {
+    outline: 2px solid var(--color-brand-500);
+    outline-offset: 2px;
+  }
+
+  /* 尊重系统的减少动效设置 */
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.01ms !important;
+      scroll-behavior: auto !important;
+    }
+  }
+}
+
+@layer components {
+  /* 色号、坐标、用量等数字一律等宽并禁用连字 */
+  .tabular {
+    font-family: var(--font-mono);
+    font-variant-numeric: tabular-nums;
+    font-feature-settings: 'liga' 0;
+  }
+}

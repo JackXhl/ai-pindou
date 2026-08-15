@@ -1,0 +1,17 @@
+{
+  "name": "@aipindou/registry",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "色卡与规格数据。不依赖任何其他包。",
+  "exports": {
+    ".": "./src/index.ts",
+    "./data/*": "./data/*"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "echo \"registry 无单测，数据校验见 pnpm verify:data\"",
+    "build": "node scripts/build-palettes.mjs",
+    "verify": "node scripts/verify-palettes.mjs"
+  }
+}

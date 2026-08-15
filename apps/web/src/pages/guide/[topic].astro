@@ -1,0 +1,96 @@
+---
+import SiteFooter from '../../components/SiteFooter.astro';
+import SiteHeader from '../../components/SiteHeader.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { ROUTES, absolute } from '../../lib/url.js';
+
+export function getStaticPaths() {
+  return [{ params: { topic: 'start' } }];
+}
+
+const { topic } = Astro.params;
+if (topic !== 'start') throw new Error(`未知教程：${topic}`);
+
+const title = '拼豆图纸入门：上传到摆豆';
+const description =
+  '爱拼豆免费教程：上传图片、调整参数、导出 PNG/PDF/CSV，并用摆豆模式按色号完成拼接。';
+
+const steps = [
+  {
+    title: '上传图片',
+    body: '在编辑器里拖入、粘贴或选择 JPG/PNG/WebP。可选矩形裁剪后再生成。图片只在浏览器本地处理，不会上传服务器。',
+  },
+  {
+    title: '调参数',
+    body: '选色卡与豆径（默认 2.6mm + MARD 221），用「细节与简化」滑块控制碎色。需要时打开抖动、限色、采样模式。若只有部分色号，在「我的色板」勾选后生成。',
+  },
+  {
+    title: '导出图纸',
+    body: '导出 PNG 或 PDF（含色卡版本、1cm 校准条、分板编号；可选镜像版给胶带法）。用料 CSV 方便采购。打印请选「实际大小 / 100%」。',
+  },
+  {
+    title: '摆豆模式',
+    body: '点「摆豆模式」后，未完成格显示灰白符号，已完成恢复真彩。点用料色号可单色作业；进度会保存在本机。手机上用大按钮「标记完成」更不易误触。',
+  },
+];
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'HowTo',
+  name: title,
+  description,
+  url: absolute(ROUTES.guide('start')),
+  step: steps.map((s, i) => ({
+    '@type': 'HowToStep',
+    position: i + 1,
+    name: s.title,
+    text: s.body,
+  })),
+};
+---
+
+<BaseLayout title={title} description={description} structuredData={structuredData}>
+  <SiteHeader />
+
+  <main class="mx-auto max-w-3xl px-4 py-12">
+    <p class="m-0 text-sm text-[var(--surface-text-muted)]">
+      <a href={ROUTES.home()} class="underline">首页</a>
+      / 教程
+    </p>
+    <h1 class="mt-2 text-3xl">{title}</h1>
+    <p class="mt-3 text-[var(--surface-text-muted)]">{description}</p>
+
+    <ol class="mt-10 list-none space-y-8 p-0">
+      {
+        steps.map((s, i) => (
+          <li>
+            <h2 class="m-0 text-xl">
+              <span class="tabular text-brand-500">{i + 1}.</span> {s.title}
+            </h2>
+            <p class="mt-2 text-[var(--surface-text-muted)]">{s.body}</p>
+          </li>
+        ))
+      }
+    </ol>
+
+    <aside class="mt-10 rounded-[var(--radius-card)] border border-[var(--surface-border)] bg-[var(--surface-raised)] p-4 text-sm text-[var(--surface-text-muted)]">
+      缺色时：先用全色卡生成，再在「我的色板」勾选库存，用缺色三选一决定替代、补货或排除重跑。
+      规格换算见
+      <a href={ROUTES.size('2.6mm')} class="underline">2.6mm</a>
+      /
+      <a href={ROUTES.size('5mm')} class="underline">5mm</a>
+      。
+    </aside>
+
+    <div class="mt-10">
+      <a
+        href={ROUTES.editor()}
+        class="inline-block rounded-[var(--radius-control)] bg-brand-500 px-5 py-2.5 text-white no-underline"
+      >
+        打开编辑器开始
+      </a>
+    </div>
+  </main>
+
+  <SiteFooter />
+</BaseLayout>

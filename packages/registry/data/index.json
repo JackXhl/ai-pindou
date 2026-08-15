@@ -1,0 +1,164 @@
+[
+  {
+    "id": "mard-221",
+    "brand": "MARD",
+    "version": "MARD 221 标准色卡",
+    "count": 221,
+    "confidence": {
+      "high": 57,
+      "medium": 128,
+      "low": 36
+    },
+    "unidentifiedCount": 0,
+    "sets": [
+      24,
+      48,
+      72,
+      96,
+      120,
+      144,
+      168,
+      192,
+      221
+    ],
+    "license": "MIT + CC BY 4.0"
+  },
+  {
+    "id": "mard-291",
+    "brand": "MARD",
+    "version": "MARD 291 扩展色卡",
+    "count": 291,
+    "confidence": {
+      "high": 100,
+      "medium": 150,
+      "low": 41
+    },
+    "unidentifiedCount": 0,
+    "sets": [
+      221,
+      264,
+      291
+    ],
+    "license": "MIT + CC BY 4.0"
+  },
+  {
+    "id": "coco-291",
+    "brand": "COCO",
+    "version": "COCO 291 色卡",
+    "count": 291,
+    "confidence": {
+      "high": 0,
+      "medium": 291,
+      "low": 0
+    },
+    "unidentifiedCount": 0,
+    "sets": [
+      144,
+      221,
+      291
+    ],
+    "license": "MIT"
+  },
+  {
+    "id": "artkal-c197",
+    "brand": "Artkal 优肯",
+    "version": "Artkal C 系 197 色（官方）",
+    "count": 197,
+    "confidence": {
+      "high": 0,
+      "medium": 197,
+      "low": 0
+    },
+    "unidentifiedCount": 0,
+    "sets": [
+      197
+    ],
+    "license": "MIT"
+  },
+  {
+    "id": "artkal-m221",
+    "brand": "Artkal 优肯",
+    "version": "Artkal M 系 221 色（官方，MARD 兼容体系）",
+    "count": 221,
+    "confidence": {
+      "high": 221,
+      "medium": 0,
+      "low": 0
+    },
+    "unidentifiedCount": 0,
+    "sets": [
+      221
+    ],
+    "license": "MIT + CC BY 4.0"
+  },
+  {
+    "id": "perler",
+    "brand": "Perler",
+    "version": "Perler 色卡",
+    "count": 117,
+    "confidence": {
+      "high": 0,
+      "medium": 117,
+      "low": 0
+    },
+    "unidentifiedCount": 0,
+    "sets": [],
+    "license": "CC BY 4.0"
+  },
+  {
+    "id": "hama",
+    "brand": "Hama",
+    "version": "Hama 色卡",
+    "count": 89,
+    "confidence": {
+      "high": 0,
+      "medium": 89,
+      "low": 0
+    },
+    "unidentifiedCount": 0,
+    "sets": [],
+    "license": "CC BY 4.0"
+  },
+  {
+    "id": "manman-278",
+    "brand": "漫漫",
+    "version": "漫漫 278 色卡",
+    "count": 278,
+    "confidence": {
+      "high": 0,
+      "medium": 278,
+      "low": 0
+    },
+    "unidentifiedCount": 0,
+    "sets": [],
+    "license": "MIT"
+  },
+  {
+    "id": "panpan-289",
+    "brand": "盼盼",
+    "version": "盼盼 289 色卡",
+    "count": 289,
+    "confidence": {
+      "high": 0,
+      "medium": 285,
+      "low": 4
+    },
+    "unidentifiedCount": 4,
+    "sets": [],
+    "license": "MIT"
+  },
+  {
+    "id": "mixiaowo-290",
+    "brand": "咪小窝",
+    "version": "咪小窝 290 色卡",
+    "count": 290,
+    "confidence": {
+      "high": 0,
+      "medium": 286,
+      "low": 4
+    },
+    "unidentifiedCount": 4,
+    "sets": [],
+    "license": "MIT"
+  }
+]

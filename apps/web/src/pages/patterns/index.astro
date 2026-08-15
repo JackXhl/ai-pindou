@@ -1,0 +1,50 @@
+---
+import SiteFooter from '../../components/SiteFooter.astro';
+import SiteHeader from '../../components/SiteHeader.astro';
+import SamplePatternGrid from '../../components/SamplePatternGrid.vue';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { ROUTES, absolute } from '../../lib/url.js';
+
+const title = '精选拼豆图纸';
+const description =
+  '免费精选拼豆样例：一键在编辑器打开同款，可导出 PNG/PDF、按袋采购与摆豆进度追踪。';
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: title,
+  description,
+  url: absolute(ROUTES.patterns()),
+};
+---
+
+<BaseLayout title={title} description={description} structuredData={structuredData}>
+  <SiteHeader />
+
+  <main class="mx-auto max-w-6xl px-4 py-8 sm:py-12">
+    <p class="m-0 text-sm text-[var(--surface-text-muted)]">
+      <a href={ROUTES.home()} class="underline">首页</a>
+      / 图纸库
+    </p>
+    <h1 class="mt-2 text-2xl sm:text-3xl">{title}</h1>
+    <p class="mt-3 max-w-2xl text-sm leading-relaxed text-[var(--surface-text-muted)] sm:text-base">
+      官方精选入门图纸，无需上传图片即可体验完整流程。点击「打开同款」进入编辑器，可继续改色、导出与摆豆。
+      社区投稿功能筹备中。
+    </p>
+
+    <div class="mt-8 sm:mt-10">
+      <SamplePatternGrid client:load />
+    </div>
+
+    <div class="mt-10 text-center sm:mt-12">
+      <a
+        href={ROUTES.editor()}
+        class="inline-flex min-h-12 w-full items-center justify-center rounded-[var(--radius-control)] bg-brand-500 px-5 text-base font-medium text-white no-underline sm:w-auto"
+      >
+        上传自己的图片
+      </a>
+    </div>
+  </main>
+
+  <SiteFooter />
+</BaseLayout>

@@ -1,0 +1,1261 @@
+{
+  "id": "hama",
+  "brand": "Hama",
+  "version": "Hama 色卡",
+  "colors": [
+    {
+      "code": "H01",
+      "name": "White",
+      "hex": "#ECEDED",
+      "lab": [
+        93.674,
+        -0.3334,
+        -0.1173
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H02",
+      "name": "Cream",
+      "hex": "#F0E8B9",
+      "lab": [
+        91.5692,
+        -4.6222,
+        23.8927
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H03",
+      "name": "Gold",
+      "hex": "#F0B901",
+      "lab": [
+        78.0103,
+        7.0849,
+        80.1165
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H04",
+      "name": "Orange",
+      "hex": "#E64F27",
+      "lab": [
+        54.6233,
+        56.6798,
+        53.185
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H05",
+      "name": "Red",
+      "hex": "#B63136",
+      "lab": [
+        41.8624,
+        53.1422,
+        29.2282
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H06",
+      "name": "Pink",
+      "hex": "#E1889F",
+      "lab": [
+        66.6134,
+        36.7979,
+        2.4484
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H07",
+      "name": "Purple",
+      "hex": "#694A82",
+      "lab": [
+        36.9532,
+        24.6798,
+        -26.5966
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H08",
+      "name": "Dark Blue",
+      "hex": "#2C4690",
+      "lab": [
+        31.6438,
+        16.1203,
+        -43.9422
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H09",
+      "name": "Blue",
+      "hex": "#305CB0",
+      "lab": [
+        40.2723,
+        14.2656,
+        -49.2463
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H10",
+      "name": "Dark Green",
+      "hex": "#256847",
+      "lab": [
+        39.1531,
+        -29.6537,
+        12.4794
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H11",
+      "name": "Teal",
+      "hex": "#49AE89",
+      "lab": [
+        64.5578,
+        -38.4017,
+        10.2924
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H12",
+      "name": "Brown",
+      "hex": "#534137",
+      "lab": [
+        29.1478,
+        6.0994,
+        9.0643
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H13",
+      "name": "Transparent Red",
+      "hex": "#C02435",
+      "lab": [
+        42.3519,
+        60.1259,
+        30.8866
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H14",
+      "name": "Transparent Yellow",
+      "hex": "#E4AA32",
+      "lab": [
+        73.2051,
+        10.7386,
+        65.6528
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H15",
+      "name": "Transparent Blue",
+      "hex": "#487ED5",
+      "lab": [
+        53.0602,
+        9.9683,
+        -50.0587
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H16",
+      "name": "Transparent Green",
+      "hex": "#37B876",
+      "lab": [
+        66.8235,
+        -50.0771,
+        23.6826
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H17",
+      "name": "Gray",
+      "hex": "#83888A",
+      "lab": [
+        56.3556,
+        -1.4291,
+        -1.7096
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H18",
+      "name": "Black",
+      "hex": "#2E2F31",
+      "lab": [
+        19.3731,
+        0.0441,
+        -1.4334
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H19",
+      "name": "Clear",
+      "hex": "#D8D2CE",
+      "lab": [
+        84.5603,
+        1.3552,
+        2.7089
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H20",
+      "name": "Dark Brown",
+      "hex": "#7F332A",
+      "lab": [
+        31.9163,
+        32.2684,
+        22.1731
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H21",
+      "name": "Tan",
+      "hex": "#A5693F",
+      "lab": [
+        50.0533,
+        19.7845,
+        33.2535
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H22",
+      "name": "Burgundy",
+      "hex": "#A52D36",
+      "lab": [
+        38.1014,
+        49.1959,
+        23.896
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H24",
+      "name": "Translucent Purple",
+      "hex": "#683E9A",
+      "lab": [
+        35.4422,
+        37.6068,
+        -43.6526
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H25",
+      "name": "Translucent Brown",
+      "hex": "#87593D",
+      "lab": [
+        42.2061,
+        15.7055,
+        23.8537
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H26",
+      "name": "Salmon",
+      "hex": "#DE9B90",
+      "lab": [
+        70.1682,
+        23.6396,
+        15.8402
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H27",
+      "name": "Tan Light",
+      "hex": "#DEB48B",
+      "lab": [
+        76.093,
+        9.632,
+        26.6629
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H28",
+      "name": "Dark Gray",
+      "hex": "#363F38",
+      "lab": [
+        25.6377,
+        -5.3746,
+        3.0435
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H29",
+      "name": "Magenta",
+      "hex": "#B9395E",
+      "lab": [
+        44.3071,
+        53.8442,
+        7.9218
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H30",
+      "name": "Maroon",
+      "hex": "#592F38",
+      "lab": [
+        25.0847,
+        20.3283,
+        2.78
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H31",
+      "name": "Steel Blue",
+      "hex": "#6797AE",
+      "lab": [
+        59.953,
+        -10.0539,
+        -17.1048
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H32",
+      "name": "Neon Fuchsia",
+      "hex": "#FF208D",
+      "lab": [
+        56.31,
+        82.4918,
+        -1.6223
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H33",
+      "name": "Bright Red",
+      "hex": "#FF3956",
+      "lab": [
+        56.9436,
+        73.5103,
+        31.8761
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H34",
+      "name": "Neon Yellow",
+      "hex": "#E5EF13",
+      "lab": [
+        90.9801,
+        -24.4809,
+        87.4484
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H35",
+      "name": "Neon Red",
+      "hex": "#FF2833",
+      "lab": [
+        55.0967,
+        76.1966,
+        49.4082
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H36",
+      "name": "Neon Blue",
+      "hex": "#2353B0",
+      "lab": [
+        37.2565,
+        18.6032,
+        -54.1371
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H37",
+      "name": "Neon Green",
+      "hex": "#06B73C",
+      "lab": [
+        65.1444,
+        -63.5738,
+        49.8445
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H38",
+      "name": "Neon Orange",
+      "hex": "#FD8600",
+      "lab": [
+        67.9755,
+        39.0586,
+        74.4263
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H39",
+      "name": "Fluorescent Yellow",
+      "hex": "#F1F21C",
+      "lab": [
+        92.7031,
+        -20.8308,
+        87.9681
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H40",
+      "name": "Fluorescent Orange",
+      "hex": "#FE630B",
+      "lab": [
+        61.676,
+        56.0402,
+        69.0192
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H41",
+      "name": "Fluorescent Blue",
+      "hex": "#2659B2",
+      "lab": [
+        39.1899,
+        15.7338,
+        -52.1867
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H42",
+      "name": "Fluorescent Green",
+      "hex": "#0CBD51",
+      "lab": [
+        67.3256,
+        -62.5986,
+        42.98
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H43",
+      "name": "Bright Yellow",
+      "hex": "#F0EA37",
+      "lab": [
+        90.6195,
+        -16.6909,
+        80.2533
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H44",
+      "name": "Rose",
+      "hex": "#EE6972",
+      "lab": [
+        61.2207,
+        52.0341,
+        20.7386
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H45",
+      "name": "Mauve",
+      "hex": "#886DB9",
+      "lab": [
+        51.4668,
+        26.8703,
+        -36.3174
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H46",
+      "name": "Cornflower Blue",
+      "hex": "#629ED7",
+      "lab": [
+        63.305,
+        -3.2051,
+        -34.9628
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H47",
+      "name": "Green",
+      "hex": "#83CB70",
+      "lab": [
+        75.2677,
+        -39.7181,
+        38.3251
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H48",
+      "name": "Orchid",
+      "hex": "#CF70B7",
+      "lab": [
+        60.1366,
+        46.7495,
+        -21.0901
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H49",
+      "name": "Ocean Blue",
+      "hex": "#4998BC",
+      "lab": [
+        59.4357,
+        -13.3528,
+        -25.9286
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H60",
+      "name": "Burnt Orange",
+      "hex": "#F49422",
+      "lab": [
+        69.8479,
+        28.6662,
+        68.6678
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H61",
+      "name": "Gold Metallic",
+      "hex": "#D99350",
+      "lab": [
+        66.6738,
+        19.8954,
+        45.4872
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H62",
+      "name": "Silver Metallic",
+      "hex": "#48474A",
+      "lab": [
+        30.3482,
+        1.0801,
+        -1.648
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H63",
+      "name": "Bronze Metallic",
+      "hex": "#42312F",
+      "lab": [
+        22.161,
+        7.3511,
+        4.2504
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H64",
+      "name": "Pearl",
+      "hex": "#EFEBE4",
+      "lab": [
+        93.1758,
+        0.1319,
+        3.8648
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H70",
+      "name": "Periwinkle",
+      "hex": "#B6B6D4",
+      "lab": [
+        74.9219,
+        5.9918,
+        -15.064
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H71",
+      "name": "Charcoal",
+      "hex": "#464541",
+      "lab": [
+        29.2606,
+        -0.4374,
+        2.563
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H72",
+      "name": "Translucent Pink",
+      "hex": "#F097B0",
+      "lab": [
+        72.0925,
+        36.5422,
+        1.1297
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H73",
+      "name": "Translucent Aqua",
+      "hex": "#59AEF5",
+      "lab": [
+        68.7404,
+        -4.3995,
+        -42.9802
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H74",
+      "name": "Translucent Lilac",
+      "hex": "#5B55BD",
+      "lab": [
+        41.8361,
+        31.0059,
+        -54.216
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H75",
+      "name": "Caramel",
+      "hex": "#BF7B4D",
+      "lab": [
+        57.8284,
+        21.8673,
+        35.807
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H76",
+      "name": "Chocolate",
+      "hex": "#663317",
+      "lab": [
+        27.4495,
+        20.4746,
+        27.3365
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H77",
+      "name": "Beige",
+      "hex": "#EDE7DF",
+      "lab": [
+        91.9018,
+        0.6483,
+        4.6052
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H78",
+      "name": "Light Orange",
+      "hex": "#FFC99A",
+      "lab": [
+        84.6741,
+        13.1673,
+        30.8111
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H79",
+      "name": "Apricot",
+      "hex": "#F08643",
+      "lab": [
+        66.5091,
+        35.4286,
+        52.4444
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H82",
+      "name": "Wine",
+      "hex": "#962F5C",
+      "lab": [
+        36.5397,
+        46.8647,
+        -2.8408
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H83",
+      "name": "Teal Blue",
+      "hex": "#0178A4",
+      "lab": [
+        47.1288,
+        -11.701,
+        -31.3709
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H84",
+      "name": "Olive",
+      "hex": "#8B924C",
+      "lab": [
+        58.5731,
+        -13.3693,
+        36.0135
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H95",
+      "name": "Light Pink",
+      "hex": "#F8CCE0",
+      "lab": [
+        86.2688,
+        18.6593,
+        -4.0308
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H96",
+      "name": "Lilac",
+      "hex": "#D4B1E3",
+      "lab": [
+        76.6718,
+        21.5485,
+        -20.3232
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H97",
+      "name": "Light Blue",
+      "hex": "#A2D3FE",
+      "lab": [
+        82.6055,
+        -5.662,
+        -26.0975
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H98",
+      "name": "Mint",
+      "hex": "#9ADBB1",
+      "lab": [
+        82.22,
+        -29.1244,
+        14.1764
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H101",
+      "name": "Light Green",
+      "hex": "#A9C39B",
+      "lab": [
+        75.9656,
+        -16.1933,
+        17.2323
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H102",
+      "name": "Forest Green",
+      "hex": "#356B2D",
+      "lab": [
+        40.3467,
+        -31.3206,
+        28.9622
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H103",
+      "name": "Yellow",
+      "hex": "#FFE660",
+      "lab": [
+        91.099,
+        -6.5775,
+        66.4454
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H104",
+      "name": "Lime Green",
+      "hex": "#BCD122",
+      "lab": [
+        79.8457,
+        -26.8387,
+        74.7398
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H105",
+      "name": "Peach",
+      "hex": "#FFAC78",
+      "lab": [
+        77.3561,
+        25.0533,
+        38.9837
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H106",
+      "name": "Lavender",
+      "hex": "#CCC5ED",
+      "lab": [
+        81.2277,
+        10.1923,
+        -18.8745
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H107",
+      "name": "Sky Blue",
+      "hex": "#6A87C1",
+      "lab": [
+        56.3282,
+        5.2779,
+        -33.4533
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H108",
+      "name": "Aubergine",
+      "hex": "#2A2536",
+      "lab": [
+        15.9103,
+        6.7014,
+        -10.1738
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H109",
+      "name": "Cloudy Grey",
+      "hex": "#8A847F",
+      "lab": [
+        55.521,
+        1.3109,
+        3.4973
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H110",
+      "name": "Matcha",
+      "hex": "#838956",
+      "lab": [
+        55.4705,
+        -10.739,
+        26.6377
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H111",
+      "name": "Dark Blush",
+      "hex": "#835854",
+      "lab": [
+        41.9161,
+        17.2228,
+        9.5389
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H112",
+      "name": "Blush",
+      "hex": "#AD8A82",
+      "lab": [
+        60.493,
+        12.0464,
+        9.3336
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H113",
+      "name": "Aqua",
+      "hex": "#5F887B",
+      "lab": [
+        53.4606,
+        -17.1488,
+        2.4387
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H114",
+      "name": "Cherry Red",
+      "hex": "#9A2C31",
+      "lab": [
+        35.7819,
+        45.6945,
+        23.6708
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H115",
+      "name": "Bright Green",
+      "hex": "#6E975F",
+      "lab": [
+        58.296,
+        -25.0334,
+        25.1139
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H116",
+      "name": "Midnight Blue",
+      "hex": "#222838",
+      "lab": [
+        16.221,
+        2.1291,
+        -11.164
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H117",
+      "name": "Taupe Grey",
+      "hex": "#777169",
+      "lab": [
+        47.9464,
+        0.8047,
+        5.2669
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H118",
+      "name": "Maroon Red",
+      "hex": "#612932",
+      "lab": [
+        24.8221,
+        26.3809,
+        6.6312
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    },
+    {
+      "code": "H119",
+      "name": "Sky Blue Clear",
+      "hex": "#4167B4",
+      "lab": [
+        44.402,
+        11.4334,
+        -44.9351
+      ],
+      "confidence": "medium",
+      "sources": [
+        "bitbead"
+      ]
+    }
+  ],
+  "sets": [],
+  "attribution": {
+    "sources": [
+      "pomodiary/bitbead.app (CC BY 4.0)"
+    ],
+    "license": "CC BY 4.0",
+    "notice": "部分色彩数据来自 Bitbead（https://www.bitbead.app），依 CC BY 4.0 使用。品牌名为各自商标，本项目与任何拼豆厂商无隶属或背书关系。"
+  }
+}

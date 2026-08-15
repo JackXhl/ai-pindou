@@ -1,0 +1,150 @@
+---
+import { PALETTE_IDS, PALETTE_INDEX, loadPalette } from '@aipindou/registry';
+import SiteFooter from '../../../../components/SiteFooter.astro';
+import SiteHeader from '../../../../components/SiteHeader.astro';
+import BaseLayout from '../../../../layouts/BaseLayout.astro';
+import { ROUTES, absolute } from '../../../../lib/url.js';
+import { convertPalette, lossSummary } from '../../../../lib/convert.js';
+
+export async function getStaticPaths() {
+  const paths = [];
+  for (const from of PALETTE_IDS) {
+    for (const to of PALETTE_IDS) {
+      if (from === to) continue;
+      paths.push({ params: { from, to } });
+    }
+  }
+  return paths;
+}
+
+const { from, to } = Astro.params;
+if (!from || !to) throw new Error('缺少色卡参数');
+
+const source = await loadPalette(from);
+const target = await loadPalette(to);
+const matches = convertPalette(source, target);
+const loss = lossSummary(matches);
+
+const title = `${source.brand} → ${target.brand} 色号换算`;
+const description = `用 CIEDE2000 把 ${source.version} 换算到 ${target.version}。禁止按色号字面对照——同色号在不同品牌可能指完全不同的颜色。`;
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'WebApplication',
+  name: title,
+  description,
+  url: absolute(ROUTES.convert(from, to)),
+};
+
+const qualityText: Record<string, string> = {
+  identical: '几乎一致',
+  excellent: '优秀',
+  good: '良好',
+  fair: '一般（有可见色差）',
+  poor: '较差（不建议直接替代）',
+};
+
+const otherTargets = PALETTE_INDEX.filter((p) => p.id !== from);
+---
+
+<BaseLayout title={title} description={description} structuredData={structuredData}>
+  <SiteHeader />
+
+  <main class="mx-auto max-w-6xl px-4 py-12">
+    <p class="m-0 text-sm text-[var(--surface-text-muted)]">
+      <a href={ROUTES.palettes()} class="underline">色卡大全</a>
+      /
+      <a href={ROUTES.palette(from)} class="underline">{source.brand}</a>
+      →
+      {target.brand}
+    </p>
+    <h1 class="mt-2 text-3xl">{title}</h1>
+    <p class="mt-3 max-w-3xl text-[var(--surface-text-muted)]">{description}</p>
+
+    <aside
+      class="mt-6 rounded-[var(--radius-card)] border border-[var(--surface-border)] bg-[var(--surface-raised)] p-4 text-sm"
+    >
+      <p class="m-0 font-medium">换算质量总览</p>
+      <p class="m-0 mt-1 text-[var(--surface-text-muted)]">
+        共 {loss.total} 个色号；其中 {loss.risky} 个（{Math.round(loss.riskyRatio * 100)}%）
+        只能落到「一般 / 较差」档。目标色板越小，损耗通常越高——这是不对称的。
+      </p>
+      <p class="m-0 mt-2 text-xs text-[var(--surface-text-muted)]">
+        反向换算请打开
+        <a href={ROUTES.convert(to, from)} class="underline"
+          >{target.brand} → {source.brand}</a
+        >，两张表各自独立，不可互逆。
+      </p>
+    </aside>
+
+    <div class="mt-6 flex flex-wrap gap-2 text-sm">
+      {
+        otherTargets.map((p) => (
+          <a
+            href={ROUTES.convert(from, p.id)}
+            class:list={[
+              'rounded border px-3 py-1 no-underline',
+              p.id === to
+                ? 'border-brand-500 bg-brand-500 text-white'
+                : 'border-[var(--surface-border)] text-[var(--surface-text)]',
+            ]}
+          >
+            → {p.brand}
+          </a>
+        ))
+      }
+    </div>
+
+    <div class="mt-8 overflow-x-auto">
+      <table class="w-full min-w-[640px] border-collapse text-sm">
+        <thead>
+          <tr class="border-b border-[var(--surface-border)] text-left">
+            <th class="p-2">源色号</th>
+            <th class="p-2">源色</th>
+            <th class="p-2">→</th>
+            <th class="p-2">目标色号</th>
+            <th class="p-2">目标色</th>
+            <th class="p-2">ΔE00</th>
+            <th class="p-2">质量</th>
+          </tr>
+        </thead>
+        <tbody>
+          {
+            matches.map((m) => (
+              <tr class="border-b border-[var(--surface-border)]">
+                <td class="tabular p-2">{m.source.code}</td>
+                <td class="p-2">
+                  <span
+                    class="inline-block h-5 w-10 rounded border border-black/10"
+                    style={`background:${m.source.hex}`}
+                  />
+                </td>
+                <td class="p-2 text-[var(--surface-text-muted)]">→</td>
+                <td class="tabular p-2">{m.target.code}</td>
+                <td class="p-2">
+                  <span
+                    class="inline-block h-5 w-10 rounded border border-black/10"
+                    style={`background:${m.target.hex}`}
+                  />
+                </td>
+                <td class="tabular p-2">{m.deltaE}</td>
+                <td
+                  class:list={[
+                    'p-2',
+                    m.quality === 'fair' || m.quality === 'poor'
+                      ? 'text-[var(--color-warning)]'
+                      : '',
+                  ]}
+                >
+                  {qualityText[m.quality]}
+                </td>
+              </tr>
+            ))
+          }
+        </tbody>
+      </table>
+    </div>
+  </main>
+
+  <SiteFooter />
+</BaseLayout>

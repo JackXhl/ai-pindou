@@ -1,0 +1,195 @@
+---
+import SiteFooter from '../components/SiteFooter.astro';
+import SiteHeader from '../components/SiteHeader.astro';
+import SamplePatternGrid from '../components/SamplePatternGrid.vue';
+import { useTranslations } from '../i18n/index.js';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { ROUTES, absolute, localeFromPath, type Locale } from '../lib/url.js';
+
+const locale: Locale = localeFromPath(Astro.url.pathname);
+const t = useTranslations(locale);
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'WebApplication',
+  name: t.site.name,
+  description: t.site.description,
+  url: absolute(ROUTES.home()),
+  applicationCategory: 'DesignApplication',
+  operatingSystem: 'Any',
+  offers: { '@type': 'Offer', price: '0', priceCurrency: 'CNY' },
+  inLanguage: locale === 'zh' ? 'zh-CN' : 'en',
+};
+
+const trustChips = ['本地计算不上传', '默认 2.6mm', 'MARD 221', '按袋算采购'];
+
+// 卖点按「用户真正会犹豫的问题」排序；移动端用紧凑列表，桌面保留卡片
+const features = [
+  {
+    title: '按国内实体店的规格出图',
+    body: '默认 2.6mm 豆径与 MARD 221 色卡，色号拿到店里能直接对上。',
+  },
+  {
+    title: '只用你手上有的颜色',
+    body: '套装档位 + 散色告诉它，生成时就只在这些颜色里配。',
+  },
+  {
+    title: '采购清单按「袋」给',
+    body: '直接告诉你每个色号买几袋、含多少损耗，不用自己换算。',
+  },
+  {
+    title: '不做碎色图纸',
+    body: '自动合并零星色号，保留关键高光，避免脸上全是碎色。',
+  },
+  {
+    title: '图片不上传服务器',
+    body: '计算全在浏览器完成，不用注册登录，数据留在本地。',
+  },
+  {
+    title: '如实标注数据可信度',
+    body: '公开源有分歧时不装没事，每个色号标出来源与置信度。',
+  },
+];
+---
+
+<BaseLayout
+  title={t.site.name}
+  description={t.site.description}
+  structuredData={structuredData}
+>
+  <SiteHeader />
+
+  {/*
+    移动端 H5 首屏：短文案 + 信任标签 + 主行动；样例尽快进视口。
+    底部固定转化条（仅手机），对齐工具站习惯。
+  */}
+  <main class="mx-auto max-w-6xl px-4">
+    <section class="pt-6 pb-8 md:py-16 md:text-center">
+      <h1
+        class="m-0 max-w-3xl text-[1.375rem] font-semibold leading-snug tracking-tight text-[var(--surface-text)] md:mx-auto md:text-5xl md:leading-tight"
+      >
+        {t.home.heroTitle}
+      </h1>
+
+      <p
+        class="mt-2 text-[13px] leading-relaxed text-[var(--surface-text-muted)] md:hidden"
+      >
+        {t.home.heroSubtitleMobile}
+      </p>
+      <p
+        class="mx-auto mt-5 hidden max-w-2xl text-lg text-[var(--surface-text-muted)] md:block"
+      >
+        {t.home.heroSubtitle}
+      </p>
+
+      <ul
+        class="m-0 mt-3.5 flex list-none flex-wrap justify-center gap-2 p-0 md:mt-6"
+      >
+        {
+          trustChips.map((chip) => (
+            <li class="rounded-full bg-[var(--surface-raised)] px-3 py-1.5 text-xs text-[var(--surface-text-muted)] md:text-sm">
+              {chip}
+            </li>
+          ))
+        }
+      </ul>
+
+      <div class="mt-5 hidden gap-3 md:mt-8 md:flex md:flex-wrap md:justify-center">
+        <a
+          href={ROUTES.editor()}
+          class="inline-flex min-h-12 items-center justify-center rounded-full bg-brand-500 px-6 text-base font-medium text-white no-underline hover:bg-brand-600"
+        >
+          {t.home.ctaPrimary}
+        </a>
+        <a
+          href={ROUTES.palettes()}
+          class="inline-flex min-h-12 items-center justify-center rounded-full border border-[var(--surface-border)] px-6 text-base font-medium text-[var(--surface-text)] no-underline hover:bg-[var(--surface-raised)]"
+        >
+          {t.home.ctaSecondary}
+        </a>
+      </div>
+
+      {/* 移动端只保留一个主按钮，避免顶栏/底部重复 */}
+      <div class="mt-5 md:hidden">
+        <a
+          href={ROUTES.editor()}
+          class="flex min-h-11 w-full items-center justify-center rounded-full bg-brand-500 text-[15px] font-medium text-white no-underline active:bg-brand-600"
+        >
+          {t.home.ctaPrimary}
+        </a>
+        <div class="mt-3.5 flex items-center justify-center gap-5 text-[13px]">
+          <a
+            href={ROUTES.palettes()}
+            class="text-[var(--surface-text-muted)] no-underline"
+          >
+            {t.home.ctaSecondary}
+          </a>
+          <a
+            href={ROUTES.patterns()}
+            class="text-[var(--surface-text-muted)] no-underline"
+          >
+            先看样例
+          </a>
+        </div>
+      </div>
+
+      <p class="mt-4 hidden text-sm text-[var(--surface-text-muted)] md:block">
+        {t.home.privacyNote}
+      </p>
+    </section>
+
+    <section class="pb-10 md:pb-16">
+      <div class="mb-3.5 flex items-end justify-between gap-3 md:mb-6">
+        <div class="min-w-0">
+          <h2 class="m-0 text-[17px] font-semibold md:text-2xl">精选样例</h2>
+          <p class="m-0 mt-0.5 text-xs text-[var(--surface-text-muted)] md:mt-1 md:text-sm">
+            一键开做，不用先找图
+          </p>
+        </div>
+        <a
+          href={ROUTES.patterns()}
+          class="shrink-0 pb-0.5 text-[13px] text-brand-500 no-underline md:text-sm"
+        >
+          全部
+        </a>
+      </div>
+      <SamplePatternGrid client:load featuredOnly={true} limit={4} />
+    </section>
+
+    <section class="pb-12 md:pb-16">
+      <h2 class="m-0 mb-3.5 text-[17px] font-semibold md:mb-6 md:text-2xl">
+        为什么用爱拼豆
+      </h2>
+
+      <ul
+        class="m-0 list-none divide-y divide-[var(--surface-border)] overflow-hidden rounded-2xl border border-[var(--surface-border)] bg-[var(--surface-panel)] p-0 md:hidden"
+      >
+        {
+          features.map((feature) => (
+            <li class="px-4 py-3.5">
+              <h3 class="m-0 text-[15px] font-medium text-[var(--surface-text)]">
+                {feature.title}
+              </h3>
+              <p class="m-0 mt-1 text-[13px] leading-relaxed text-[var(--surface-text-muted)]">
+                {feature.body}
+              </p>
+            </li>
+          ))
+        }
+      </ul>
+
+      <div class="hidden gap-6 md:grid md:grid-cols-2 lg:grid-cols-3">
+        {
+          features.map((feature) => (
+            <article class="rounded-[var(--radius-card)] border border-[var(--surface-border)] bg-[var(--surface-panel)] p-6">
+              <h3 class="m-0 text-lg font-semibold">{feature.title}</h3>
+              <p class="m-0 mt-2 text-[var(--surface-text-muted)]">{feature.body}</p>
+            </article>
+          ))
+        }
+      </div>
+    </section>
+  </main>
+
+  <SiteFooter />
+</BaseLayout>

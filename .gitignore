@@ -1,0 +1,42 @@
+# 依赖
+node_modules/
+.pnpm-store/
+
+# 构建产物
+dist/
+.astro/
+.output/
+*.tsbuildinfo
+
+# 注意：不要写裸的 lib/ 忽略规则。
+# 本项目有 apps/web/src/lib/ 目录（url.ts 等），裸 lib/ 会把它一并忽略掉。
+
+# 环境变量
+.env
+.env.*
+!.env.example
+
+# 测试与覆盖率
+coverage/
+.vitest/
+
+# 日志
+*.log
+npm-debug.log*
+pnpm-debug.log*
+
+# 编辑器与系统
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+
+# 构建期生成的字体子集（由 scripts/build-fonts.mjs 产出，不入库）
+apps/web/public/fonts/subset/
+
+# 色卡原始数据缓存（refresh:palettes 拉取的上游快照，仅本地留存）
+packages/registry/.cache/
+
+# 本地调研与产品笔记（个人文档，不公开）
+docs/

@@ -1,0 +1,4048 @@
+{
+  "id": "mard-221",
+  "brand": "MARD",
+  "version": "MARD 221 标准色卡",
+  "colors": [
+    {
+      "code": "A1",
+      "name": "A1",
+      "hex": "#FAF5CD",
+      "lab": [
+        96.0124,
+        -4.7145,
+        19.8987
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.093,
+      "group": "A"
+    },
+    {
+      "code": "A2",
+      "name": "A2",
+      "hex": "#FCFED6",
+      "lab": [
+        98.6047,
+        -7.1731,
+        18.9485
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.891,
+      "group": "A"
+    },
+    {
+      "code": "A3",
+      "name": "A3",
+      "hex": "#FCFF92",
+      "lab": [
+        97.7497,
+        -16.0718,
+        51.5595
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.124,
+      "group": "A"
+    },
+    {
+      "code": "A4",
+      "name": "A4",
+      "hex": "#F7EC5C",
+      "lab": [
+        91.9267,
+        -13.0506,
+        68.7808
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.058,
+      "group": "A"
+    },
+    {
+      "code": "A5",
+      "name": "A5",
+      "hex": "#F0D83A",
+      "lab": [
+        85.9792,
+        -7.6709,
+        75.1452
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.916,
+      "group": "A"
+    },
+    {
+      "code": "A6",
+      "name": "A6",
+      "hex": "#FDA951",
+      "lab": [
+        75.9818,
+        23.1547,
+        56.58
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.778,
+      "group": "A"
+    },
+    {
+      "code": "A7",
+      "name": "A7",
+      "hex": "#FA8C4F",
+      "lab": [
+        69.2197,
+        36.8869,
+        49.9761
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.774,
+      "group": "A"
+    },
+    {
+      "code": "A8",
+      "name": "A8",
+      "hex": "#FBDA4D",
+      "lab": [
+        87.5779,
+        -3.2508,
+        70.3122
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 3.244,
+      "group": "A"
+    },
+    {
+      "code": "A9",
+      "name": "A9",
+      "hex": "#F79D5F",
+      "lab": [
+        72.7066,
+        27.8476,
+        45.9028
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.348,
+      "group": "A"
+    },
+    {
+      "code": "A10",
+      "name": "A10",
+      "hex": "#F47E38",
+      "lab": [
+        65.3149,
+        40.604,
+        56.4522
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.884,
+      "group": "A"
+    },
+    {
+      "code": "A11",
+      "name": "A11",
+      "hex": "#FEDB99",
+      "lab": [
+        88.9399,
+        3.374,
+        36.9418
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.698,
+      "group": "A"
+    },
+    {
+      "code": "A12",
+      "name": "A12",
+      "hex": "#FDA276",
+      "lab": [
+        74.8478,
+        29.3251,
+        36.7995
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.843,
+      "group": "A"
+    },
+    {
+      "code": "A13",
+      "name": "A13",
+      "hex": "#FEC667",
+      "lab": [
+        83.1482,
+        9.7811,
+        54.416
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.27,
+      "group": "A"
+    },
+    {
+      "code": "A14",
+      "name": "A14",
+      "hex": "#F75842",
+      "lab": [
+        59.1158,
+        59.5719,
+        45.2616
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.145,
+      "group": "A"
+    },
+    {
+      "code": "A15",
+      "name": "A15",
+      "hex": "#FBF65E",
+      "lab": [
+        94.8363,
+        -16.1933,
+        71.1517
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.816,
+      "group": "A"
+    },
+    {
+      "code": "A16",
+      "name": "A16",
+      "hex": "#FEFF97",
+      "lab": [
+        97.9642,
+        -14.8122,
+        49.4779
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.182,
+      "group": "A"
+    },
+    {
+      "code": "A17",
+      "name": "A17",
+      "hex": "#FDE173",
+      "lab": [
+        89.8473,
+        -3.5673,
+        56.5882
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.966,
+      "group": "A"
+    },
+    {
+      "code": "A18",
+      "name": "A18",
+      "hex": "#FCBF80",
+      "lab": [
+        81.5764,
+        14.6116,
+        40.1423
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.687,
+      "group": "A"
+    },
+    {
+      "code": "A19",
+      "name": "A19",
+      "hex": "#FD7E77",
+      "lab": [
+        67.3834,
+        47.691,
+        26.5537
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.116,
+      "group": "A"
+    },
+    {
+      "code": "A20",
+      "name": "A20",
+      "hex": "#F9D666",
+      "lab": [
+        86.6008,
+        -0.5692,
+        58.7034
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.037,
+      "group": "A"
+    },
+    {
+      "code": "A21",
+      "name": "A21",
+      "hex": "#FAE393",
+      "lab": [
+        90.4922,
+        -2.8841,
+        41.8986
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.571,
+      "group": "A"
+    },
+    {
+      "code": "A22",
+      "name": "A22",
+      "hex": "#EDF878",
+      "lab": [
+        94.5243,
+        -20.8493,
+        59.4492
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.291,
+      "group": "A"
+    },
+    {
+      "code": "A23",
+      "name": "A23",
+      "hex": "#E4C8BA",
+      "lab": [
+        82.5662,
+        7.6368,
+        10.6161
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.546,
+      "group": "A"
+    },
+    {
+      "code": "A24",
+      "name": "A24",
+      "hex": "#F3F6A9",
+      "lab": [
+        95.0901,
+        -12.567,
+        36.8024
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.734,
+      "group": "A"
+    },
+    {
+      "code": "A25",
+      "name": "A25",
+      "hex": "#FDF785",
+      "lab": [
+        95.6221,
+        -13.0031,
+        55.0906
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 12.185,
+      "group": "A"
+    },
+    {
+      "code": "A26",
+      "name": "A26",
+      "hex": "#FFC734",
+      "lab": [
+        83.1041,
+        7.1277,
+        74.969
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.654,
+      "group": "A"
+    },
+    {
+      "code": "B1",
+      "name": "B1",
+      "hex": "#DFF13B",
+      "lab": [
+        91.196,
+        -26.8452,
+        79.1332
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.228,
+      "group": "B"
+    },
+    {
+      "code": "B2",
+      "name": "B2",
+      "hex": "#64F343",
+      "lab": [
+        85.611,
+        -68.6132,
+        69.0762
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.375,
+      "group": "B"
+    },
+    {
+      "code": "B3",
+      "name": "B3",
+      "hex": "#A1F586",
+      "lab": [
+        89.2056,
+        -45.4487,
+        45.4007
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.076,
+      "group": "B"
+    },
+    {
+      "code": "B4",
+      "name": "B4",
+      "hex": "#5FDF34",
+      "lab": [
+        79.3017,
+        -63.9453,
+        67.6842
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.293,
+      "group": "B"
+    },
+    {
+      "code": "B5",
+      "name": "B5",
+      "hex": "#39E158",
+      "lab": [
+        79.2833,
+        -68.8709,
+        53.8543
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.878,
+      "group": "B"
+    },
+    {
+      "code": "B6",
+      "name": "B6",
+      "hex": "#64E0A4",
+      "lab": [
+        81.125,
+        -48.3436,
+        19.1357
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.464,
+      "group": "B"
+    },
+    {
+      "code": "B7",
+      "name": "B7",
+      "hex": "#3EAE7C",
+      "lab": [
+        63.9574,
+        -43.5346,
+        16.5564
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.921,
+      "group": "B"
+    },
+    {
+      "code": "B8",
+      "name": "B8",
+      "hex": "#1D9B54",
+      "lab": [
+        56.4289,
+        -49.2273,
+        28.0501
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.138,
+      "group": "B"
+    },
+    {
+      "code": "B9",
+      "name": "B9",
+      "hex": "#2A5037",
+      "lab": [
+        30.6526,
+        -20.0357,
+        10.6202
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.234,
+      "group": "B"
+    },
+    {
+      "code": "B10",
+      "name": "B10",
+      "hex": "#9AD1BA",
+      "lab": [
+        79.6219,
+        -22.5029,
+        5.6941
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.594,
+      "group": "B"
+    },
+    {
+      "code": "B11",
+      "name": "B11",
+      "hex": "#627032",
+      "lab": [
+        44.8228,
+        -15.5361,
+        32.3116
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.293,
+      "group": "B"
+    },
+    {
+      "code": "B12",
+      "name": "B12",
+      "hex": "#1A6E3D",
+      "lab": [
+        40.7476,
+        -36.5908,
+        20.4318
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.023,
+      "group": "B"
+    },
+    {
+      "code": "B13",
+      "name": "B13",
+      "hex": "#C8E87D",
+      "lab": [
+        87.7144,
+        -26.9378,
+        48.3534
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.882,
+      "group": "B"
+    },
+    {
+      "code": "B14",
+      "name": "B14",
+      "hex": "#ABE84F",
+      "lab": [
+        85.4709,
+        -41.8121,
+        65.5188
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.057,
+      "group": "B"
+    },
+    {
+      "code": "B15",
+      "name": "B15",
+      "hex": "#305335",
+      "lab": [
+        31.9695,
+        -19.9875,
+        13.7047
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.78,
+      "group": "B"
+    },
+    {
+      "code": "B16",
+      "name": "B16",
+      "hex": "#C0ED9C",
+      "lab": [
+        89.0047,
+        -28.4545,
+        34.6429
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.971,
+      "group": "B"
+    },
+    {
+      "code": "B17",
+      "name": "B17",
+      "hex": "#9EB33E",
+      "lab": [
+        69.3678,
+        -23.4555,
+        55.1465
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.692,
+      "group": "B"
+    },
+    {
+      "code": "B18",
+      "name": "B18",
+      "hex": "#E6ED4F",
+      "lab": [
+        90.7605,
+        -21.176,
+        72.2017
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.585,
+      "group": "B"
+    },
+    {
+      "code": "B19",
+      "name": "B19",
+      "hex": "#26B78E",
+      "lab": [
+        66.6947,
+        -46.6243,
+        10.4596
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.782,
+      "group": "B"
+    },
+    {
+      "code": "B20",
+      "name": "B20",
+      "hex": "#CBECCF",
+      "lab": [
+        90.4095,
+        -16.1578,
+        10.4836
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 3.29,
+      "group": "B"
+    },
+    {
+      "code": "B21",
+      "name": "B21",
+      "hex": "#18616A",
+      "lab": [
+        37.4507,
+        -18.3246,
+        -11.4555
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 5.137,
+      "group": "B"
+    },
+    {
+      "code": "B22",
+      "name": "B22",
+      "hex": "#0A4241",
+      "lab": [
+        24.7721,
+        -17.2529,
+        -4.4268
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 5.28,
+      "group": "B"
+    },
+    {
+      "code": "B23",
+      "name": "B23",
+      "hex": "#343B1A",
+      "lab": [
+        23.4473,
+        -9.1441,
+        19.3404
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 3.191,
+      "group": "B"
+    },
+    {
+      "code": "B24",
+      "name": "B24",
+      "hex": "#E8FAA6",
+      "lab": [
+        95.2789,
+        -18.9573,
+        38.3955
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.277,
+      "group": "B"
+    },
+    {
+      "code": "B25",
+      "name": "B25",
+      "hex": "#4E846D",
+      "lab": [
+        50.9499,
+        -23.5642,
+        6.8357
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "group": "B"
+    },
+    {
+      "code": "B26",
+      "name": "B26",
+      "hex": "#907C35",
+      "lab": [
+        52.5118,
+        -1.1579,
+        40.6671
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.942,
+      "group": "B"
+    },
+    {
+      "code": "B27",
+      "name": "B27",
+      "hex": "#D0E0AF",
+      "lab": [
+        86.9067,
+        -13.6823,
+        22.263
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.3,
+      "group": "B"
+    },
+    {
+      "code": "B28",
+      "name": "B28",
+      "hex": "#9EE5BB",
+      "lab": [
+        85.4499,
+        -30.7543,
+        13.514
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.532,
+      "group": "B"
+    },
+    {
+      "code": "B29",
+      "name": "B29",
+      "hex": "#C6DF5F",
+      "lab": [
+        84.7959,
+        -26.202,
+        58.6708
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.544,
+      "group": "B"
+    },
+    {
+      "code": "B30",
+      "name": "B30",
+      "hex": "#E3FBB1",
+      "lab": [
+        95.3709,
+        -19.842,
+        32.9656
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.445,
+      "group": "B"
+    },
+    {
+      "code": "B31",
+      "name": "B31",
+      "hex": "#B4E691",
+      "lab": [
+        86.1762,
+        -30.8767,
+        36.3224
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.869,
+      "group": "B"
+    },
+    {
+      "code": "B32",
+      "name": "B32",
+      "hex": "#92AD60",
+      "lab": [
+        67.1587,
+        -22.1886,
+        36.4218
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 3.23,
+      "group": "B"
+    },
+    {
+      "code": "C1",
+      "name": "C1",
+      "hex": "#F0FEE4",
+      "lab": [
+        98.0375,
+        -9.1051,
+        10.869
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.946,
+      "group": "C"
+    },
+    {
+      "code": "C2",
+      "name": "C2",
+      "hex": "#ABF8FE",
+      "lab": [
+        92.9901,
+        -22.0566,
+        -10.405
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.304,
+      "group": "C"
+    },
+    {
+      "code": "C3",
+      "name": "C3",
+      "hex": "#A2E0F7",
+      "lab": [
+        85.8586,
+        -14.1232,
+        -17.4646
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.786,
+      "group": "C"
+    },
+    {
+      "code": "C4",
+      "name": "C4",
+      "hex": "#44CDFB",
+      "lab": [
+        77.1921,
+        -22.0021,
+        -33.121
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.333,
+      "group": "C"
+    },
+    {
+      "code": "C5",
+      "name": "C5",
+      "hex": "#06AADF",
+      "lab": [
+        65.0515,
+        -17.6063,
+        -36.8219
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.543,
+      "group": "C"
+    },
+    {
+      "code": "C6",
+      "name": "C6",
+      "hex": "#54A7E9",
+      "lab": [
+        66.0606,
+        -5.2327,
+        -40.6355
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.06,
+      "group": "C"
+    },
+    {
+      "code": "C7",
+      "name": "C7",
+      "hex": "#3977CA",
+      "lab": [
+        49.8888,
+        8.0468,
+        -48.9008
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.828,
+      "group": "C"
+    },
+    {
+      "code": "C8",
+      "name": "C8",
+      "hex": "#0F52BD",
+      "lab": [
+        37.4967,
+        22.9744,
+        -61.418
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.731,
+      "group": "C"
+    },
+    {
+      "code": "C9",
+      "name": "C9",
+      "hex": "#3349C3",
+      "lab": [
+        36.7575,
+        34.0824,
+        -66.0864
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.077,
+      "group": "C"
+    },
+    {
+      "code": "C10",
+      "name": "C10",
+      "hex": "#3CBCE3",
+      "lab": [
+        71.1932,
+        -21.9223,
+        -29.4424
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.662,
+      "group": "C"
+    },
+    {
+      "code": "C11",
+      "name": "C11",
+      "hex": "#2ADED3",
+      "lab": [
+        80.4225,
+        -44.6148,
+        -6.9047
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 4.02,
+      "group": "C"
+    },
+    {
+      "code": "C12",
+      "name": "C12",
+      "hex": "#1E334E",
+      "lab": [
+        20.8027,
+        1.0145,
+        -19.1089
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.93,
+      "group": "C"
+    },
+    {
+      "code": "C13",
+      "name": "C13",
+      "hex": "#CDE7FE",
+      "lab": [
+        90.4526,
+        -3.8201,
+        -13.9856
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.367,
+      "group": "C"
+    },
+    {
+      "code": "C14",
+      "name": "C14",
+      "hex": "#D5FCF7",
+      "lab": [
+        96.1956,
+        -13.4221,
+        -1.7901
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.946,
+      "group": "C"
+    },
+    {
+      "code": "C15",
+      "name": "C15",
+      "hex": "#21C5C4",
+      "lab": [
+        72.3869,
+        -38.4682,
+        -10.7922
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.106,
+      "group": "C"
+    },
+    {
+      "code": "C16",
+      "name": "C16",
+      "hex": "#1858A2",
+      "lab": [
+        37.4464,
+        8.6656,
+        -45.5247
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.901,
+      "group": "C"
+    },
+    {
+      "code": "C17",
+      "name": "C17",
+      "hex": "#02D1F3",
+      "lab": [
+        77.3284,
+        -30.7447,
+        -28.6947
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.9,
+      "group": "C"
+    },
+    {
+      "code": "C18",
+      "name": "C18",
+      "hex": "#213244",
+      "lab": [
+        20.1306,
+        -1.1142,
+        -13.4003
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.169,
+      "group": "C"
+    },
+    {
+      "code": "C19",
+      "name": "C19",
+      "hex": "#18869D",
+      "lab": [
+        51.4698,
+        -20.707,
+        -20.5459
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 6.676,
+      "group": "C"
+    },
+    {
+      "code": "C20",
+      "name": "C20",
+      "hex": "#1A70A9",
+      "lab": [
+        45.18,
+        -3.6134,
+        -37.3439
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.914,
+      "group": "C"
+    },
+    {
+      "code": "C21",
+      "name": "C21",
+      "hex": "#BCDDFC",
+      "lab": [
+        86.7167,
+        -4.1315,
+        -18.6582
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.372,
+      "group": "C"
+    },
+    {
+      "code": "C22",
+      "name": "C22",
+      "hex": "#6BB1BB",
+      "lab": [
+        68.1352,
+        -19.3987,
+        -12.0165
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.163,
+      "group": "C"
+    },
+    {
+      "code": "C23",
+      "name": "C23",
+      "hex": "#C8E2FD",
+      "lab": [
+        88.8099,
+        -2.9575,
+        -15.9575
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.235,
+      "group": "C"
+    },
+    {
+      "code": "C24",
+      "name": "C24",
+      "hex": "#7EC5F9",
+      "lab": [
+        76.8025,
+        -8.4077,
+        -32.4917
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.34,
+      "group": "C"
+    },
+    {
+      "code": "C25",
+      "name": "C25",
+      "hex": "#A9E8E0",
+      "lab": [
+        87.7405,
+        -21.4348,
+        -2.5215
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 3.279,
+      "group": "C"
+    },
+    {
+      "code": "C26",
+      "name": "C26",
+      "hex": "#42ADCF",
+      "lab": [
+        66.1725,
+        -19.7333,
+        -26.1895
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.238,
+      "group": "C"
+    },
+    {
+      "code": "C27",
+      "name": "C27",
+      "hex": "#D0DEF9",
+      "lab": [
+        88.2043,
+        0.712,
+        -14.7105
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 4.401,
+      "group": "C"
+    },
+    {
+      "code": "C28",
+      "name": "C28",
+      "hex": "#BDCEE8",
+      "lab": [
+        82.2638,
+        -0.3821,
+        -14.7529
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.743,
+      "group": "C"
+    },
+    {
+      "code": "C29",
+      "name": "C29",
+      "hex": "#364A89",
+      "lab": [
+        32.8914,
+        12.7158,
+        -37.6152
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.178,
+      "group": "C"
+    },
+    {
+      "code": "D1",
+      "name": "D1",
+      "hex": "#ACB7EF",
+      "lab": [
+        75.3693,
+        8.5054,
+        -29.0927
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.451,
+      "group": "D"
+    },
+    {
+      "code": "D2",
+      "name": "D2",
+      "hex": "#868DD3",
+      "lab": [
+        60.6225,
+        14.3143,
+        -36.7586
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.759,
+      "group": "D"
+    },
+    {
+      "code": "D3",
+      "name": "D3",
+      "hex": "#3554AF",
+      "lab": [
+        38.1838,
+        19.8589,
+        -52.0107
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.138,
+      "group": "D"
+    },
+    {
+      "code": "D4",
+      "name": "D4",
+      "hex": "#162D7B",
+      "lab": [
+        21.8605,
+        22.1756,
+        -46.7804
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.18,
+      "group": "D"
+    },
+    {
+      "code": "D5",
+      "name": "D5",
+      "hex": "#B34EC6",
+      "lab": [
+        50.8171,
+        58.0341,
+        -44.5071
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.925,
+      "group": "D"
+    },
+    {
+      "code": "D6",
+      "name": "D6",
+      "hex": "#B37BDC",
+      "lab": [
+        60.7087,
+        39.5954,
+        -41.3749
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.672,
+      "group": "D"
+    },
+    {
+      "code": "D7",
+      "name": "D7",
+      "hex": "#8758A9",
+      "lab": [
+        45.6277,
+        34.9049,
+        -36.1873
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.389,
+      "group": "D"
+    },
+    {
+      "code": "D8",
+      "name": "D8",
+      "hex": "#E3D2FE",
+      "lab": [
+        86.7904,
+        14.0173,
+        -19.3294
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.601,
+      "group": "D"
+    },
+    {
+      "code": "D9",
+      "name": "D9",
+      "hex": "#D5B9F4",
+      "lab": [
+        79.2573,
+        20.9681,
+        -25.5498
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.977,
+      "group": "D"
+    },
+    {
+      "code": "D10",
+      "name": "D10",
+      "hex": "#301A49",
+      "lab": [
+        14.6696,
+        22.0535,
+        -25.3339
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.549,
+      "group": "D"
+    },
+    {
+      "code": "D11",
+      "name": "D11",
+      "hex": "#BEB9E2",
+      "lab": [
+        76.7611,
+        9.914,
+        -19.8214
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.081,
+      "group": "D"
+    },
+    {
+      "code": "D12",
+      "name": "D12",
+      "hex": "#DC99CE",
+      "lab": [
+        71.1845,
+        33.2651,
+        -17.071
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.251,
+      "group": "D"
+    },
+    {
+      "code": "D13",
+      "name": "D13",
+      "hex": "#B5038D",
+      "lab": [
+        40.92,
+        70.233,
+        -26.2846
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.445,
+      "group": "D"
+    },
+    {
+      "code": "D14",
+      "name": "D14",
+      "hex": "#862993",
+      "lab": [
+        35.5214,
+        53.3704,
+        -39.0343
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.446,
+      "group": "D"
+    },
+    {
+      "code": "D15",
+      "name": "D15",
+      "hex": "#2F1F8C",
+      "lab": [
+        21.862,
+        40.1578,
+        -57.4172
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.6,
+      "group": "D"
+    },
+    {
+      "code": "D16",
+      "name": "D16",
+      "hex": "#E2E4F0",
+      "lab": [
+        90.7555,
+        1.541,
+        -6.0544
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.099,
+      "group": "D"
+    },
+    {
+      "code": "D17",
+      "name": "D17",
+      "hex": "#C7D3F9",
+      "lab": [
+        84.776,
+        3.7335,
+        -19.9333
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.057,
+      "group": "D"
+    },
+    {
+      "code": "D18",
+      "name": "D18",
+      "hex": "#9A64B8",
+      "lab": [
+        51.2045,
+        37.1067,
+        -36.0205
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 3.404,
+      "group": "D"
+    },
+    {
+      "code": "D19",
+      "name": "D19",
+      "hex": "#D8C2D9",
+      "lab": [
+        80.8459,
+        11.796,
+        -8.6248
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.088,
+      "group": "D"
+    },
+    {
+      "code": "D20",
+      "name": "D20",
+      "hex": "#9A35AD",
+      "lab": [
+        41.8985,
+        58.0892,
+        -44.3172
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.929,
+      "group": "D"
+    },
+    {
+      "code": "D21",
+      "name": "D21",
+      "hex": "#940595",
+      "lab": [
+        35.1543,
+        64.9899,
+        -40.706
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.257,
+      "group": "D"
+    },
+    {
+      "code": "D22",
+      "name": "D22",
+      "hex": "#38389A",
+      "lab": [
+        29.4162,
+        31.0849,
+        -53.6298
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.502,
+      "group": "D"
+    },
+    {
+      "code": "D23",
+      "name": "D23",
+      "hex": "#EADBF8",
+      "lab": [
+        89.3616,
+        10.3514,
+        -12.2529
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 4.857,
+      "group": "D"
+    },
+    {
+      "code": "D24",
+      "name": "D24",
+      "hex": "#768AE1",
+      "lab": [
+        59.4004,
+        15.982,
+        -46.5755
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.565,
+      "group": "D"
+    },
+    {
+      "code": "D25",
+      "name": "D25",
+      "hex": "#4950C2",
+      "lab": [
+        39.6605,
+        32.3752,
+        -60.7163
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.781,
+      "group": "D"
+    },
+    {
+      "code": "D26",
+      "name": "D26",
+      "hex": "#D6C6EB",
+      "lab": [
+        82.2078,
+        12.4526,
+        -16.2495
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 4.934,
+      "group": "D"
+    },
+    {
+      "code": "E1",
+      "name": "E1",
+      "hex": "#F6D4CB",
+      "lab": [
+        87.4819,
+        10.4436,
+        8.8303
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.71,
+      "group": "E"
+    },
+    {
+      "code": "E2",
+      "name": "E2",
+      "hex": "#FCC1DD",
+      "lab": [
+        83.9963,
+        25.335,
+        -5.7405
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.892,
+      "group": "E"
+    },
+    {
+      "code": "E3",
+      "name": "E3",
+      "hex": "#F6BDE8",
+      "lab": [
+        82.8157,
+        27.249,
+        -13.4444
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.664,
+      "group": "E"
+    },
+    {
+      "code": "E4",
+      "name": "E4",
+      "hex": "#E8649E",
+      "lab": [
+        60.5543,
+        56.8421,
+        -5.7551
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.214,
+      "group": "E"
+    },
+    {
+      "code": "E5",
+      "name": "E5",
+      "hex": "#F0569F",
+      "lab": [
+        59.6068,
+        65.3118,
+        -7.6078
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.025,
+      "group": "E"
+    },
+    {
+      "code": "E6",
+      "name": "E6",
+      "hex": "#EB4172",
+      "lab": [
+        54.7236,
+        67.3114,
+        11.7118
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.004,
+      "group": "E"
+    },
+    {
+      "code": "E7",
+      "name": "E7",
+      "hex": "#C53674",
+      "lab": [
+        46.6753,
+        60.546,
+        -1.9403
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.185,
+      "group": "E"
+    },
+    {
+      "code": "E8",
+      "name": "E8",
+      "hex": "#FDDBE9",
+      "lab": [
+        90.5194,
+        14.0219,
+        -2.485
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.565,
+      "group": "E"
+    },
+    {
+      "code": "E9",
+      "name": "E9",
+      "hex": "#E376C7",
+      "lab": [
+        64.4952,
+        52.4948,
+        -23.2654
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.672,
+      "group": "E"
+    },
+    {
+      "code": "E10",
+      "name": "E10",
+      "hex": "#D13B95",
+      "lab": [
+        50.5193,
+        65.7089,
+        -15.907
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.817,
+      "group": "E"
+    },
+    {
+      "code": "E11",
+      "name": "E11",
+      "hex": "#F7DAD4",
+      "lab": [
+        89.2392,
+        9.061,
+        6.6252
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.257,
+      "group": "E"
+    },
+    {
+      "code": "E12",
+      "name": "E12",
+      "hex": "#F693BF",
+      "lab": [
+        72.3792,
+        42.7752,
+        -6.6807
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.884,
+      "group": "E"
+    },
+    {
+      "code": "E13",
+      "name": "E13",
+      "hex": "#B5026A",
+      "lab": [
+        39.4298,
+        66.5824,
+        -6.792
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.755,
+      "group": "E"
+    },
+    {
+      "code": "E14",
+      "name": "E14",
+      "hex": "#FAD4BF",
+      "lab": [
+        87.57,
+        10.1554,
+        15.327
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.213,
+      "group": "E"
+    },
+    {
+      "code": "E15",
+      "name": "E15",
+      "hex": "#F5C9CA",
+      "lab": [
+        84.7163,
+        15.6923,
+        5.3729
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.342,
+      "group": "E"
+    },
+    {
+      "code": "E16",
+      "name": "E16",
+      "hex": "#FBF4EC",
+      "lab": [
+        96.52,
+        0.978,
+        4.6769
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.325,
+      "group": "E"
+    },
+    {
+      "code": "E17",
+      "name": "E17",
+      "hex": "#F7E3EC",
+      "lab": [
+        92.029,
+        8.3343,
+        -1.9016
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.95,
+      "group": "E"
+    },
+    {
+      "code": "E18",
+      "name": "E18",
+      "hex": "#F9C8DB",
+      "lab": [
+        85.2839,
+        20.2922,
+        -2.8096
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.067,
+      "group": "E"
+    },
+    {
+      "code": "E19",
+      "name": "E19",
+      "hex": "#F6BBD1",
+      "lab": [
+        81.6965,
+        24.513,
+        -2.7595
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.996,
+      "group": "E"
+    },
+    {
+      "code": "E20",
+      "name": "E20",
+      "hex": "#D7C6CE",
+      "lab": [
+        81.4519,
+        7.3304,
+        -1.8355
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.883,
+      "group": "E"
+    },
+    {
+      "code": "E21",
+      "name": "E21",
+      "hex": "#C09DA4",
+      "lab": [
+        68.0221,
+        14.0721,
+        1.249
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.559,
+      "group": "E"
+    },
+    {
+      "code": "E22",
+      "name": "E22",
+      "hex": "#B38C9F",
+      "lab": [
+        62.3759,
+        17.8944,
+        -4.3649
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 3.707,
+      "group": "E"
+    },
+    {
+      "code": "E23",
+      "name": "E23",
+      "hex": "#937D8A",
+      "lab": [
+        54.768,
+        10.7898,
+        -3.8856
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.602,
+      "group": "E"
+    },
+    {
+      "code": "E24",
+      "name": "E24",
+      "hex": "#DEBEE5",
+      "lab": [
+        80.7469,
+        18.1955,
+        -15.1644
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.564,
+      "group": "E"
+    },
+    {
+      "code": "F1",
+      "name": "F1",
+      "hex": "#FE9381",
+      "lab": [
+        71.9122,
+        38.412,
+        27.0879
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.692,
+      "group": "F"
+    },
+    {
+      "code": "F2",
+      "name": "F2",
+      "hex": "#F63D4B",
+      "lab": [
+        55.5274,
+        69.328,
+        36.1234
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.973,
+      "group": "F"
+    },
+    {
+      "code": "F3",
+      "name": "F3",
+      "hex": "#EE4E3E",
+      "lab": [
+        56.0672,
+        60.4598,
+        43.6071
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.957,
+      "group": "F"
+    },
+    {
+      "code": "F4",
+      "name": "F4",
+      "hex": "#FB2A40",
+      "lab": [
+        54.5975,
+        75.1492,
+        41.5491
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.044,
+      "group": "F"
+    },
+    {
+      "code": "F5",
+      "name": "F5",
+      "hex": "#E10328",
+      "lab": [
+        47.2765,
+        73.1646,
+        45.6088
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.86,
+      "group": "F"
+    },
+    {
+      "code": "F6",
+      "name": "F6",
+      "hex": "#913635",
+      "lab": [
+        35.8238,
+        38.3974,
+        20.8739
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.072,
+      "group": "F"
+    },
+    {
+      "code": "F7",
+      "name": "F7",
+      "hex": "#911932",
+      "lab": [
+        31.6865,
+        49.4124,
+        17.4703
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.56,
+      "group": "F"
+    },
+    {
+      "code": "F8",
+      "name": "F8",
+      "hex": "#BB0126",
+      "lab": [
+        39.122,
+        63.9885,
+        35.9605
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.551,
+      "group": "F"
+    },
+    {
+      "code": "F9",
+      "name": "F9",
+      "hex": "#E0677A",
+      "lab": [
+        58.9347,
+        48.8881,
+        12.6398
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.386,
+      "group": "F"
+    },
+    {
+      "code": "F10",
+      "name": "F10",
+      "hex": "#874628",
+      "lab": [
+        37.2726,
+        25.0923,
+        30.0337
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.864,
+      "group": "F"
+    },
+    {
+      "code": "F11",
+      "name": "F11",
+      "hex": "#592323",
+      "lab": [
+        21.755,
+        24.9173,
+        12.407
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 9.83,
+      "group": "F"
+    },
+    {
+      "code": "F12",
+      "name": "F12",
+      "hex": "#F3536B",
+      "lab": [
+        58.3287,
+        62.5991,
+        21.0192
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.592,
+      "group": "F"
+    },
+    {
+      "code": "F13",
+      "name": "F13",
+      "hex": "#F45C45",
+      "lab": [
+        59.2721,
+        57.0351,
+        43.703
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.217,
+      "group": "F"
+    },
+    {
+      "code": "F14",
+      "name": "F14",
+      "hex": "#FCADB2",
+      "lab": [
+        78.3455,
+        29.5796,
+        9.2224
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.447,
+      "group": "F"
+    },
+    {
+      "code": "F15",
+      "name": "F15",
+      "hex": "#D50527",
+      "lab": [
+        44.8096,
+        70.0456,
+        42.9153
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.082,
+      "group": "F"
+    },
+    {
+      "code": "F16",
+      "name": "F16",
+      "hex": "#F8C0A9",
+      "lab": [
+        82.122,
+        16.952,
+        19.3214
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.808,
+      "group": "F"
+    },
+    {
+      "code": "F17",
+      "name": "F17",
+      "hex": "#E89B7D",
+      "lab": [
+        70.9281,
+        25.42,
+        27.4802
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.932,
+      "group": "F"
+    },
+    {
+      "code": "F18",
+      "name": "F18",
+      "hex": "#D07F4A",
+      "lab": [
+        60.8579,
+        26.553,
+        41.5128
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.235,
+      "group": "F"
+    },
+    {
+      "code": "F19",
+      "name": "F19",
+      "hex": "#BE454A",
+      "lab": [
+        46.5799,
+        48.9079,
+        23.3945
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.568,
+      "group": "F"
+    },
+    {
+      "code": "F20",
+      "name": "F20",
+      "hex": "#C69495",
+      "lab": [
+        66.026,
+        18.9481,
+        6.8343
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.259,
+      "group": "F"
+    },
+    {
+      "code": "F21",
+      "name": "F21",
+      "hex": "#F2B8C6",
+      "lab": [
+        80.3134,
+        22.9913,
+        1.098
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 3.134,
+      "group": "F"
+    },
+    {
+      "code": "F22",
+      "name": "F22",
+      "hex": "#F7C3D0",
+      "lab": [
+        83.632,
+        20.4842,
+        0.6209
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.029,
+      "group": "F"
+    },
+    {
+      "code": "F23",
+      "name": "F23",
+      "hex": "#ED806C",
+      "lab": [
+        65.3814,
+        39.9363,
+        29.6177
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.311,
+      "group": "F"
+    },
+    {
+      "code": "F24",
+      "name": "F24",
+      "hex": "#E09DAF",
+      "lab": [
+        71.5951,
+        27.4995,
+        0.7397
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.2,
+      "group": "F"
+    },
+    {
+      "code": "F25",
+      "name": "F25",
+      "hex": "#E84854",
+      "lab": [
+        54.4866,
+        61.9183,
+        29.0699
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.815,
+      "group": "F"
+    },
+    {
+      "code": "G1",
+      "name": "G1",
+      "hex": "#FFE4D3",
+      "lab": [
+        92.3324,
+        6.5884,
+        11.6675
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.213,
+      "group": "G"
+    },
+    {
+      "code": "G2",
+      "name": "G2",
+      "hex": "#FCC6AC",
+      "lab": [
+        83.9999,
+        15.6899,
+        20.3924
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.237,
+      "group": "G"
+    },
+    {
+      "code": "G3",
+      "name": "G3",
+      "hex": "#F1C4A5",
+      "lab": [
+        82.325,
+        11.6936,
+        21.6215
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.341,
+      "group": "G"
+    },
+    {
+      "code": "G4",
+      "name": "G4",
+      "hex": "#DCB387",
+      "lab": [
+        75.5803,
+        8.9114,
+        28.0729
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.433,
+      "group": "G"
+    },
+    {
+      "code": "G5",
+      "name": "G5",
+      "hex": "#E7B34E",
+      "lab": [
+        75.9357,
+        8.5687,
+        57.1864
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.264,
+      "group": "G"
+    },
+    {
+      "code": "G6",
+      "name": "G6",
+      "hex": "#E3A014",
+      "lab": [
+        70.5435,
+        14.8648,
+        71.6947
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 4.044,
+      "group": "G"
+    },
+    {
+      "code": "G7",
+      "name": "G7",
+      "hex": "#985C3A",
+      "lab": [
+        45.1327,
+        21.167,
+        29.7038
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 6.033,
+      "group": "G"
+    },
+    {
+      "code": "G8",
+      "name": "G8",
+      "hex": "#713D2F",
+      "lab": [
+        31.9303,
+        21.2375,
+        18.5851
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 11.413,
+      "group": "G"
+    },
+    {
+      "code": "G9",
+      "name": "G9",
+      "hex": "#E4B685",
+      "lab": [
+        77.0688,
+        10.277,
+        31.2463
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.182,
+      "group": "G"
+    },
+    {
+      "code": "G10",
+      "name": "G10",
+      "hex": "#DA8C42",
+      "lab": [
+        65.0091,
+        23.2487,
+        50.4743
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.793,
+      "group": "G"
+    },
+    {
+      "code": "G11",
+      "name": "G11",
+      "hex": "#DAC898",
+      "lab": [
+        81.0063,
+        -0.8796,
+        26.3443
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 3.006,
+      "group": "G"
+    },
+    {
+      "code": "G12",
+      "name": "G12",
+      "hex": "#FEC993",
+      "lab": [
+        84.4602,
+        12.0334,
+        34.1405
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.566,
+      "group": "G"
+    },
+    {
+      "code": "G13",
+      "name": "G13",
+      "hex": "#B2714B",
+      "lab": [
+        53.7987,
+        21.7799,
+        31.5892
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.198,
+      "group": "G"
+    },
+    {
+      "code": "G14",
+      "name": "G14",
+      "hex": "#8B684C",
+      "lab": [
+        46.8594,
+        10.2302,
+        21.2016
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 5.072,
+      "group": "G"
+    },
+    {
+      "code": "G15",
+      "name": "G15",
+      "hex": "#F6F8E3",
+      "lab": [
+        96.9322,
+        -4.2307,
+        9.8596
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.376,
+      "group": "G"
+    },
+    {
+      "code": "G16",
+      "name": "G16",
+      "hex": "#F2D8C1",
+      "lab": [
+        87.892,
+        5.4354,
+        14.6301
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 3.261,
+      "group": "G"
+    },
+    {
+      "code": "G17",
+      "name": "G17",
+      "hex": "#77544E",
+      "lab": [
+        39.2644,
+        13.6898,
+        9.2955
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.132,
+      "group": "G"
+    },
+    {
+      "code": "G18",
+      "name": "G18",
+      "hex": "#FFE3D5",
+      "lab": [
+        92.1336,
+        7.4024,
+        10.342
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 4.481,
+      "group": "G"
+    },
+    {
+      "code": "G19",
+      "name": "G19",
+      "hex": "#DD7D41",
+      "lab": [
+        62.0194,
+        32.4065,
+        47.8305
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.689,
+      "group": "G"
+    },
+    {
+      "code": "G20",
+      "name": "G20",
+      "hex": "#A5452F",
+      "lab": [
+        41.943,
+        38.226,
+        32.6592
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.561,
+      "group": "G"
+    },
+    {
+      "code": "G21",
+      "name": "G21",
+      "hex": "#B38561",
+      "lab": [
+        59.1808,
+        13.0804,
+        26.2665
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.518,
+      "group": "G"
+    },
+    {
+      "code": "H1",
+      "name": "H1",
+      "hex": "#FFFFFF",
+      "lab": [
+        100,
+        0,
+        0
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.579,
+      "group": "H"
+    },
+    {
+      "code": "H2",
+      "name": "H2",
+      "hex": "#FBFBFB",
+      "lab": [
+        98.6181,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.905,
+      "group": "H"
+    },
+    {
+      "code": "H3",
+      "name": "H3",
+      "hex": "#B4B4B4",
+      "lab": [
+        73.312,
+        0,
+        0
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 5.691,
+      "group": "H"
+    },
+    {
+      "code": "H4",
+      "name": "H4",
+      "hex": "#878787",
+      "lab": [
+        56.3155,
+        0,
+        0
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 4.802,
+      "group": "H"
+    },
+    {
+      "code": "H5",
+      "name": "H5",
+      "hex": "#464648",
+      "lab": [
+        29.7885,
+        0.4467,
+        -1.2002
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 4.009,
+      "group": "H"
+    },
+    {
+      "code": "H6",
+      "name": "H6",
+      "hex": "#2C2C2C",
+      "lab": [
+        18.0029,
+        0,
+        0
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 4.122,
+      "group": "H"
+    },
+    {
+      "code": "H7",
+      "name": "H7",
+      "hex": "#010101",
+      "lab": [
+        0.2742,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.157,
+      "group": "H"
+    },
+    {
+      "code": "H8",
+      "name": "H8",
+      "hex": "#E7D6DC",
+      "lab": [
+        87.1194,
+        6.8773,
+        -0.8345
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.44,
+      "group": "H"
+    },
+    {
+      "code": "H9",
+      "name": "H9",
+      "hex": "#EFEDEE",
+      "lab": [
+        93.9229,
+        0.8446,
+        -0.2466
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.259,
+      "group": "H"
+    },
+    {
+      "code": "H10",
+      "name": "H10",
+      "hex": "#EBEBEB",
+      "lab": [
+        93.0481,
+        0,
+        0
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.626,
+      "group": "H"
+    },
+    {
+      "code": "H11",
+      "name": "H11",
+      "hex": "#CDCDCD",
+      "lab": [
+        82.4054,
+        0,
+        0
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 4.265,
+      "group": "H"
+    },
+    {
+      "code": "H12",
+      "name": "H12",
+      "hex": "#FDF6EE",
+      "lab": [
+        97.2146,
+        0.976,
+        4.6696
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.419,
+      "group": "H"
+    },
+    {
+      "code": "H13",
+      "name": "H13",
+      "hex": "#F4EDF1",
+      "lab": [
+        94.3776,
+        3.0436,
+        -1.0949
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 15.594,
+      "group": "H"
+    },
+    {
+      "code": "H14",
+      "name": "H14",
+      "hex": "#CED7D4",
+      "lab": [
+        85.2385,
+        -3.5927,
+        0.4208
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.596,
+      "group": "H"
+    },
+    {
+      "code": "H15",
+      "name": "H15",
+      "hex": "#9AA6A6",
+      "lab": [
+        67.1983,
+        -4.2207,
+        -1.4549
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.148,
+      "group": "H"
+    },
+    {
+      "code": "H16",
+      "name": "H16",
+      "hex": "#1B1213",
+      "lab": [
+        6.4376,
+        4.4435,
+        0.9133
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.827,
+      "group": "H"
+    },
+    {
+      "code": "H17",
+      "name": "H17",
+      "hex": "#F0EEEF",
+      "lab": [
+        94.2723,
+        0.8439,
+        -0.2464
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.988,
+      "group": "H"
+    },
+    {
+      "code": "H18",
+      "name": "H18",
+      "hex": "#FCFFF6",
+      "lab": [
+        99.5611,
+        -2.5494,
+        3.9473
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 3.109,
+      "group": "H"
+    },
+    {
+      "code": "H19",
+      "name": "H19",
+      "hex": "#F2EEE5",
+      "lab": [
+        94.177,
+        -0.2072,
+        4.8233
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.903,
+      "group": "H"
+    },
+    {
+      "code": "H20",
+      "name": "H20",
+      "hex": "#96A09F",
+      "lab": [
+        65.0645,
+        -3.7489,
+        -0.7072
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.665,
+      "group": "H"
+    },
+    {
+      "code": "H21",
+      "name": "H21",
+      "hex": "#F8FBE6",
+      "lab": [
+        97.899,
+        -4.5638,
+        9.7218
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 3.194,
+      "group": "H"
+    },
+    {
+      "code": "H22",
+      "name": "H22",
+      "hex": "#CACAD2",
+      "lab": [
+        81.5387,
+        1.4886,
+        -3.9714
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 3.501,
+      "group": "H"
+    },
+    {
+      "code": "H23",
+      "name": "H23",
+      "hex": "#9B9C94",
+      "lab": [
+        64.0666,
+        -1.8666,
+        4.0589
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.195,
+      "group": "H"
+    },
+    {
+      "code": "M1",
+      "name": "M1",
+      "hex": "#BBC6B6",
+      "lab": [
+        78.6538,
+        -6.7191,
+        6.72
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.919,
+      "group": "M"
+    },
+    {
+      "code": "M2",
+      "name": "M2",
+      "hex": "#909994",
+      "lab": [
+        62.3805,
+        -4.218,
+        1.5078
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 11.132,
+      "group": "M"
+    },
+    {
+      "code": "M3",
+      "name": "M3",
+      "hex": "#697E81",
+      "lab": [
+        51.278,
+        -6.9154,
+        -4.1782
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.795,
+      "group": "M"
+    },
+    {
+      "code": "M4",
+      "name": "M4",
+      "hex": "#E0D4BC",
+      "lab": [
+        85.2844,
+        0.2102,
+        13.3659
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.775,
+      "group": "M"
+    },
+    {
+      "code": "M5",
+      "name": "M5",
+      "hex": "#D1CCAF",
+      "lab": [
+        81.7494,
+        -3.1058,
+        15.0934
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.683,
+      "group": "M"
+    },
+    {
+      "code": "M6",
+      "name": "M6",
+      "hex": "#B0AA86",
+      "lab": [
+        69.2563,
+        -3.7807,
+        19.3796
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.453,
+      "group": "M"
+    },
+    {
+      "code": "M7",
+      "name": "M7",
+      "hex": "#B0A796",
+      "lab": [
+        68.802,
+        0.3045,
+        9.9565
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 4.62,
+      "group": "M"
+    },
+    {
+      "code": "M8",
+      "name": "M8",
+      "hex": "#AE8082",
+      "lab": [
+        58.0847,
+        18.0658,
+        5.913
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.709,
+      "group": "M"
+    },
+    {
+      "code": "M9",
+      "name": "M9",
+      "hex": "#A68862",
+      "lab": [
+        58.6008,
+        6.0518,
+        24.6926
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.007,
+      "group": "M"
+    },
+    {
+      "code": "M10",
+      "name": "M10",
+      "hex": "#C4B3BB",
+      "lab": [
+        74.5494,
+        7.468,
+        -1.8612
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.208,
+      "group": "M"
+    },
+    {
+      "code": "M11",
+      "name": "M11",
+      "hex": "#9D7693",
+      "lab": [
+        54.2727,
+        20.2087,
+        -9.7558
+      ],
+      "confidence": "high",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 0.842,
+      "group": "M"
+    },
+    {
+      "code": "M12",
+      "name": "M12",
+      "hex": "#644B51",
+      "lab": [
+        34.673,
+        11.6264,
+        0.5556
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 2.71,
+      "group": "M"
+    },
+    {
+      "code": "M13",
+      "name": "M13",
+      "hex": "#C79266",
+      "lab": [
+        64.6931,
+        14.724,
+        31.1016
+      ],
+      "confidence": "low",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 3.409,
+      "group": "M"
+    },
+    {
+      "code": "M14",
+      "name": "M14",
+      "hex": "#C27563",
+      "lab": [
+        57.1684,
+        28.2865,
+        22.8118
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.345,
+      "group": "M"
+    },
+    {
+      "code": "M15",
+      "name": "M15",
+      "hex": "#747D7A",
+      "lab": [
+        51.5935,
+        -3.9632,
+        0.4817
+      ],
+      "confidence": "medium",
+      "sources": [
+        "hansbug-alfonse",
+        "hansbug-github",
+        "bitbead"
+      ],
+      "maxDeltaE": 1.096,
+      "group": "M"
+    }
+  ],
+  "sets": [
+    {
+      "count": 24,
+      "codes": [],
+      "codesKnown": false,
+      "note": "档位来自义乌①至⑥号色盘的累加规则（24 色为①号盘，48 色为①+②，依此类推）。具体色号构成因商家而异，无公开可靠数据，请手动勾选或导入实际色号。"
+    },
+    {
+      "count": 48,
+      "codes": [],
+      "codesKnown": false,
+      "note": "档位来自义乌①至⑥号色盘的累加规则（24 色为①号盘，48 色为①+②，依此类推）。具体色号构成因商家而异，无公开可靠数据，请手动勾选或导入实际色号。"
+    },
+    {
+      "count": 72,
+      "codes": [],
+      "codesKnown": false,
+      "note": "档位来自义乌①至⑥号色盘的累加规则（24 色为①号盘，48 色为①+②，依此类推）。具体色号构成因商家而异，无公开可靠数据，请手动勾选或导入实际色号。"
+    },
+    {
+      "count": 96,
+      "codes": [],
+      "codesKnown": false,
+      "note": "档位来自义乌①至⑥号色盘的累加规则（24 色为①号盘，48 色为①+②，依此类推）。具体色号构成因商家而异，无公开可靠数据，请手动勾选或导入实际色号。"
+    },
+    {
+      "count": 120,
+      "codes": [],
+      "codesKnown": false,
+      "note": "档位来自义乌①至⑥号色盘的累加规则（24 色为①号盘，48 色为①+②，依此类推）。具体色号构成因商家而异，无公开可靠数据，请手动勾选或导入实际色号。"
+    },
+    {
+      "count": 144,
+      "codes": [],
+      "codesKnown": false,
+      "note": "档位来自义乌①至⑥号色盘的累加规则（24 色为①号盘，48 色为①+②，依此类推）。具体色号构成因商家而异，无公开可靠数据，请手动勾选或导入实际色号。"
+    },
+    {
+      "count": 168,
+      "codes": [],
+      "codesKnown": false,
+      "note": "零售端常见档位。具体色号构成因商家而异，无公开可靠数据，请手动勾选或导入实际色号。"
+    },
+    {
+      "count": 192,
+      "codes": [],
+      "codesKnown": false,
+      "note": "零售端常见档位。具体色号构成因商家而异，无公开可靠数据，请手动勾选或导入实际色号。"
+    },
+    {
+      "count": 221,
+      "codes": [],
+      "codesKnown": false,
+      "note": "零售端常见档位。具体色号构成因商家而异，无公开可靠数据，请手动勾选或导入实际色号。"
+    }
+  ],
+  "attribution": {
+    "sources": [
+      "HansBug/pindou-color-data (MIT)",
+      "pomodiary/bitbead.app (CC BY 4.0)"
+    ],
+    "license": "MIT + CC BY 4.0",
+    "notice": "部分色彩数据来自 Bitbead（https://www.bitbead.app），依 CC BY 4.0 使用。品牌名为各自商标，本项目与任何拼豆厂商无隶属或背书关系。"
+  }
+}

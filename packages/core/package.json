@@ -1,0 +1,21 @@
+{
+  "name": "@aipindou/core",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "图纸生成引擎。零 DOM、零框架依赖，可脱离 UI 独立测试。",
+  "exports": {
+    ".": "./src/index.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "@aipindou/registry": "workspace:*"
+  },
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "vitest": "^3.0.5"
+  }
+}

@@ -1,0 +1,219 @@
+---
+import { useTranslations } from '../i18n/index.js';
+import { ROUTES, feedbackUrl, localeFromPath, type Locale } from '../lib/url.js';
+
+const locale: Locale = localeFromPath(Astro.url.pathname);
+const t = useTranslations(locale);
+const feedback = feedbackUrl();
+
+const links = [
+  { href: ROUTES.editor(), label: t.nav.editor },
+  { href: ROUTES.palettes(), label: t.nav.palettes },
+  { href: ROUTES.patterns(), label: t.nav.patterns },
+  { href: ROUTES.guide('start'), label: t.nav.guide },
+];
+
+const current = Astro.url.pathname;
+---
+
+{/*
+  移动端：Logo + 汉堡。抽屉必须放在 header 外——header 的 backdrop-blur
+  会建立 containing block，导致内部 fixed 只盖住顶栏高度，菜单错乱叠层。
+*/}
+<header
+  class="sticky top-0 z-40 border-b border-[var(--surface-border)] bg-[var(--surface-panel)]/95 backdrop-blur-md"
+  style="padding-top: env(safe-area-inset-top);"
+>
+  <div class="mx-auto flex h-12 max-w-6xl items-center gap-2 px-4 md:h-14 md:gap-6">
+    <a
+      href={ROUTES.home()}
+      class="flex min-w-0 shrink-0 items-center gap-2 font-semibold text-[var(--surface-text)] no-underline"
+    >
+      <span
+        class="inline-grid h-7 w-7 shrink-0 place-items-center rounded-full bg-brand-500 text-sm text-white"
+        aria-hidden="true">豆</span
+      >
+      <span class="truncate text-[15px] md:text-base">{t.site.name}</span>
+    </a>
+
+    <nav aria-label="主导航" class="hidden min-w-0 flex-1 md:block">
+      <ul class="m-0 flex list-none items-center gap-1 p-0 text-sm">
+        {
+          links.map((link) => (
+            <li class="shrink-0">
+              <a
+                href={link.href}
+                aria-current={current.startsWith(link.href) ? 'page' : undefined}
+                class="inline-flex min-h-10 items-center whitespace-nowrap rounded-[var(--radius-control)] px-3 text-[var(--surface-text-muted)] no-underline hover:bg-[var(--surface-raised)] hover:text-[var(--surface-text)] aria-[current=page]:bg-[var(--surface-raised)] aria-[current=page]:text-[var(--surface-text)]"
+              >
+                {link.label}
+              </a>
+            </li>
+          ))
+        }
+      </ul>
+    </nav>
+
+    <div class="ml-auto flex items-center gap-1.5">
+      <a
+        href={feedback}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="hidden items-center rounded-[var(--radius-control)] border border-[var(--surface-border)] px-3 py-2 text-sm text-[var(--surface-text-muted)] no-underline hover:bg-[var(--surface-raised)] lg:inline-flex"
+      >
+        {t.nav.feedback}
+      </a>
+
+      <a
+        href={ROUTES.editor()}
+        class="hidden h-10 items-center rounded-full bg-brand-500 px-4 text-sm font-medium text-white no-underline hover:bg-brand-600 md:inline-flex"
+      >
+        {t.home.ctaPrimary}
+      </a>
+
+      <button
+        type="button"
+        id="site-menu-toggle"
+        class="inline-flex h-10 w-10 items-center justify-center rounded-lg border border-[var(--surface-border)] text-[var(--surface-text)] hover:bg-[var(--surface-raised)] md:hidden"
+        aria-controls="site-mobile-nav"
+        aria-expanded="false"
+        aria-label="打开菜单"
+      >
+        <svg
+          class="site-menu-icon-open h-5 w-5"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          aria-hidden="true"
+        >
+          <path d="M4 7h16M4 12h16M4 17h16" stroke-linecap="round"></path>
+        </svg>
+        <svg
+          class="site-menu-icon-close hidden h-5 w-5"
+          viewBox="0 0 24 24"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          aria-hidden="true"
+        >
+          <path d="M6 6l12 12M18 6L6 18" stroke-linecap="round"></path>
+        </svg>
+      </button>
+    </div>
+  </div>
+</header>
+
+{/* 全屏抽屉：放在 header 外，fixed 相对视口 */}
+<div id="site-mobile-nav" class="fixed inset-0 z-[60] hidden md:hidden" hidden>
+  <button
+    type="button"
+    id="site-mobile-backdrop"
+    class="absolute inset-0 bg-black/40"
+    aria-label="关闭菜单"
+  >
+  </button>
+  <div
+    class="absolute inset-y-0 right-0 flex w-[min(100%,18.5rem)] flex-col bg-[var(--surface-panel)] shadow-2xl"
+    style="padding-top: env(safe-area-inset-top); padding-bottom: env(safe-area-inset-bottom);"
+    role="dialog"
+    aria-modal="true"
+    aria-label="站点菜单"
+  >
+    <div class="flex h-12 shrink-0 items-center justify-between border-b border-[var(--surface-border)] px-4">
+      <span class="text-[15px] font-semibold text-[var(--surface-text)]">菜单</span>
+      <button
+        type="button"
+        id="site-menu-close"
+        class="inline-flex h-10 w-10 items-center justify-center rounded-lg hover:bg-[var(--surface-raised)]"
+        aria-label="关闭菜单"
+      >
+        <svg class="h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <path d="M6 6l12 12M18 6L6 18" stroke-linecap="round"></path>
+        </svg>
+      </button>
+    </div>
+    <nav aria-label="移动端导航" class="min-h-0 flex-1 overflow-y-auto px-3 py-3">
+      <ul class="m-0 flex list-none flex-col gap-1 p-0">
+        {
+          links.map((link) => (
+            <li>
+              <a
+                href={link.href}
+                aria-current={current.startsWith(link.href) ? 'page' : undefined}
+                class="flex min-h-12 items-center rounded-xl px-3 text-[15px] text-[var(--surface-text)] no-underline hover:bg-[var(--surface-raised)] aria-[current=page]:bg-[var(--surface-raised)]"
+              >
+                {link.label}
+              </a>
+            </li>
+          ))
+        }
+        <li>
+          <a
+            href={feedback}
+            target="_blank"
+            rel="noopener noreferrer"
+            class="flex min-h-12 items-center rounded-xl px-3 text-[15px] text-[var(--surface-text-muted)] no-underline hover:bg-[var(--surface-raised)]"
+          >
+            {t.nav.feedback}
+          </a>
+        </li>
+      </ul>
+    </nav>
+    <div class="shrink-0 border-t border-[var(--surface-border)] p-4">
+      <a
+        href={ROUTES.editor()}
+        class="flex min-h-12 items-center justify-center rounded-full bg-brand-500 text-[15px] font-medium text-white no-underline hover:bg-brand-600"
+      >
+        {t.home.ctaPrimary}
+      </a>
+    </div>
+  </div>
+</div>
+
+<script>
+  function setupSiteMenu() {
+    const toggle = document.getElementById('site-menu-toggle');
+    const panel = document.getElementById('site-mobile-nav');
+    const backdrop = document.getElementById('site-mobile-backdrop');
+    const closeBtn = document.getElementById('site-menu-close');
+    if (!(toggle instanceof HTMLButtonElement) || !(panel instanceof HTMLElement)) {
+      return;
+    }
+
+    // 避免 astro:page-load 重复绑定
+    if (toggle.dataset.menuBound === '1') return;
+    toggle.dataset.menuBound = '1';
+
+    const openIcon = toggle.querySelector('.site-menu-icon-open');
+    const closeIcon = toggle.querySelector('.site-menu-icon-close');
+
+    function setOpen(open) {
+      toggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      toggle.setAttribute('aria-label', open ? '关闭菜单' : '打开菜单');
+      panel.classList.toggle('hidden', !open);
+      panel.hidden = !open;
+      openIcon?.classList.toggle('hidden', open);
+      closeIcon?.classList.toggle('hidden', !open);
+      document.body.classList.toggle('overflow-hidden', open);
+    }
+
+    toggle.addEventListener('click', () => {
+      setOpen(toggle.getAttribute('aria-expanded') !== 'true');
+    });
+    backdrop?.addEventListener('click', () => setOpen(false));
+    closeBtn?.addEventListener('click', () => setOpen(false));
+    panel.querySelectorAll('a').forEach((link) => {
+      link.addEventListener('click', () => setOpen(false));
+    });
+    window.addEventListener('keydown', (event) => {
+      if (event.key === 'Escape') setOpen(false);
+    });
+    window.matchMedia('(min-width: 768px)').addEventListener('change', (event) => {
+      if (event.matches) setOpen(false);
+    });
+  }
+
+  setupSiteMenu();
+  document.addEventListener('astro:page-load', setupSiteMenu);
+</script>

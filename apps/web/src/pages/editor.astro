@@ -1,0 +1,17 @@
+---
+import EditorApp from '../components/editor/EditorApp.vue';
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+// 编辑器整体是单个 client:only island。
+// 用 client:only 而不是 client:load，是因为它重度依赖 Canvas、Web Worker 和
+// devicePixelRatio——服务端预渲染一遍既没有意义，还会因为拿不到这些 API 而报错。
+---
+
+<BaseLayout
+  title="生成拼豆图纸"
+  description="上传图片，在浏览器里直接生成拼豆点阵图纸。支持 MARD 221 等主流色卡与 2.6mm / 5mm 豆径，自动统计每个色号要买几袋。"
+  surface="editor"
+  noindex
+>
+  <EditorApp client:only="vue" />
+</BaseLayout>

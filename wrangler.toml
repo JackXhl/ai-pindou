@@ -1,0 +1,17 @@
+# Cloudflare Workers 静态资源部署（2025+ 官方推荐路径）。
+# 参考：https://developers.cloudflare.com/workers/framework-guides/web-apps/astro/
+# Workers Builds：https://developers.cloudflare.com/workers/ci-cd/builds/configuration/
+#
+# Dashboard / Workers Builds 三栏配置：
+#   构建命令：corepack enable && pnpm install && pnpm build
+#   部署命令：npx wrangler deploy
+#   非生产分支部署命令：npx wrangler versions upload
+
+name = "ai-pindou"
+compatibility_date = "2024-08-01"
+
+[assets]
+directory = "apps/web/dist"
+# Astro 配置了 trailingSlash: 'always'
+html_handling = "force-trailing-slash"
+not_found_handling = "404-page"

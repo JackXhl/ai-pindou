@@ -1,0 +1,2978 @@
+{
+  "id": "artkal-c197",
+  "brand": "Artkal 优肯",
+  "version": "Artkal C 系 197 色（官方）",
+  "colors": [
+    {
+      "code": "C01",
+      "name": "C01",
+      "hex": "#FFFFFF",
+      "lab": [
+        100,
+        0,
+        0
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C02",
+      "name": "C02",
+      "hex": "#000000",
+      "lab": [
+        0,
+        0,
+        0
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C03",
+      "name": "C03",
+      "hex": "#FF8200",
+      "lab": [
+        67.4503,
+        41.8387,
+        74.2531
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C04",
+      "name": "C04",
+      "hex": "#FF7F41",
+      "lab": [
+        67.1467,
+        44.666,
+        54.6931
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C05",
+      "name": "C05",
+      "hex": "#E4002B",
+      "lab": [
+        47.8466,
+        74.2042,
+        44.7463
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C06",
+      "name": "C06",
+      "hex": "#BA0C2F",
+      "lab": [
+        39.4298,
+        62.8541,
+        30.8203
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C07",
+      "name": "C07",
+      "hex": "#EF95CF",
+      "lab": [
+        72.4644,
+        41.8256,
+        -15.4846
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C08",
+      "name": "C08",
+      "hex": "#F04E98",
+      "lab": [
+        58.27,
+        67.6241,
+        -5.5148
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C09",
+      "name": "C09",
+      "hex": "#E24585",
+      "lab": [
+        54.1574,
+        65.0604,
+        -0.6341
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C10",
+      "name": "C10",
+      "hex": "#F8E08E",
+      "lab": [
+        89.4975,
+        -2.6575,
+        43.0792
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C11",
+      "name": "C11",
+      "hex": "#FFC72C",
+      "lab": [
+        83.0691,
+        6.8944,
+        77.2832
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C12",
+      "name": "C12",
+      "hex": "#9BE198",
+      "lab": [
+        83.4866,
+        -35.9499,
+        28.9524
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C13",
+      "name": "C13",
+      "hex": "#93C90E",
+      "lab": [
+        74.8296,
+        -40.0896,
+        73.0345
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C14",
+      "name": "C14",
+      "hex": "#009A44",
+      "lab": [
+        55.6109,
+        -53.7368,
+        35.247
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C15",
+      "name": "C15",
+      "hex": "#007862",
+      "lab": [
+        44.6793,
+        -34.3305,
+        4.0468
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C16",
+      "name": "C16",
+      "hex": "#FF6A39",
+      "lab": [
+        63.2353,
+        54.2418,
+        54.4847
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C17",
+      "name": "C17",
+      "hex": "#FF5C39",
+      "lab": [
+        60.9721,
+        60.2481,
+        52.2211
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C18",
+      "name": "C18",
+      "hex": "#8DC8E8",
+      "lab": [
+        77.7536,
+        -10.9806,
+        -21.8469
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C19",
+      "name": "C19",
+      "hex": "#56B7E6",
+      "lab": [
+        70.563,
+        -14.5684,
+        -31.9889
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C20",
+      "name": "C20",
+      "hex": "#0090DA",
+      "lab": [
+        57.0807,
+        -5.1364,
+        -46.5719
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C21",
+      "name": "C21",
+      "hex": "#004EA8",
+      "lab": [
+        34.5483,
+        16.4951,
+        -53.8064
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C22",
+      "name": "C22",
+      "hex": "#F7CED7",
+      "lab": [
+        86.4174,
+        15.7995,
+        0.9531
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C23",
+      "name": "C23",
+      "hex": "#EAA794",
+      "lab": [
+        74.363,
+        22.3001,
+        19.6627
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C24",
+      "name": "C24",
+      "hex": "#EFD19F",
+      "lab": [
+        85.2291,
+        3.4057,
+        28.6956
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C25",
+      "name": "C25",
+      "hex": "#A388D8",
+      "lab": [
+        61.9572,
+        26.7442,
+        -37.295
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C26",
+      "name": "C26",
+      "hex": "#9569BE",
+      "lab": [
+        52.0745,
+        34.1942,
+        -38.1526
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C27",
+      "name": "C27",
+      "hex": "#483698",
+      "lab": [
+        30.1144,
+        34.5471,
+        -51.215
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C28",
+      "name": "C28",
+      "hex": "#C67D30",
+      "lab": [
+        58.8719,
+        22.0351,
+        51.5505
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C29",
+      "name": "C29",
+      "hex": "#A4493D",
+      "lab": [
+        42.7584,
+        36.6868,
+        25.4272
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C30",
+      "name": "C30",
+      "hex": "#93262C",
+      "lab": [
+        33.5058,
+        45.4236,
+        23.7078
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C31",
+      "name": "C31",
+      "hex": "#A37F74",
+      "lab": [
+        56.3148,
+        12.2331,
+        11.3057
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C32",
+      "name": "C32",
+      "hex": "#683431",
+      "lab": [
+        28.4369,
+        22.8425,
+        12.4496
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C33",
+      "name": "C33",
+      "hex": "#A7A8AA",
+      "lab": [
+        68.8403,
+        0.0269,
+        -1.154
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C34",
+      "name": "C34",
+      "hex": "#888B8D",
+      "lab": [
+        57.6769,
+        -0.6996,
+        -1.4506
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C35",
+      "name": "C35",
+      "hex": "#A09F9D",
+      "lab": [
+        65.5177,
+        -0.0183,
+        1.1678
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C36",
+      "name": "C36",
+      "hex": "#E68699",
+      "lab": [
+        66.6549,
+        38.8638,
+        5.972
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C37",
+      "name": "C37",
+      "hex": "#0067B9",
+      "lab": [
+        43.0652,
+        6.9525,
+        -50.0825
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C38",
+      "name": "C38",
+      "hex": "#418FDE",
+      "lab": [
+        58.0749,
+        1.8477,
+        -47.1638
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C39",
+      "name": "C39",
+      "hex": "#A4DBE8",
+      "lab": [
+        84.1627,
+        -14.5695,
+        -12.0694
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C40",
+      "name": "C40",
+      "hex": "#E1D555",
+      "lab": [
+        84.0978,
+        -11.0773,
+        62.7773
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C41",
+      "name": "C41",
+      "hex": "#FBDB65",
+      "lab": [
+        88.024,
+        -2.3591,
+        60.8037
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C42",
+      "name": "C42",
+      "hex": "#FFC845",
+      "lab": [
+        83.4437,
+        7.25,
+        69.385
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C43",
+      "name": "C43",
+      "hex": "#A50034",
+      "lab": [
+        34.4981,
+        59.2091,
+        20.6307
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C44",
+      "name": "C44",
+      "hex": "#FF808B",
+      "lab": [
+        68.4372,
+        49.1961,
+        16.8406
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C45",
+      "name": "C45",
+      "hex": "#4A7C68",
+      "lab": [
+        48.0956,
+        -21.8055,
+        5.6558
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C46",
+      "name": "C46",
+      "hex": "#F0EC74",
+      "lab": [
+        91.5856,
+        -14.1741,
+        57.8879
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C47",
+      "name": "C47",
+      "hex": "#ECC3B2",
+      "lab": [
+        81.8816,
+        12.0633,
+        14.0159
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C48",
+      "name": "C48",
+      "hex": "#FFB549",
+      "lab": [
+        78.9223,
+        17.3031,
+        63.2637
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C49",
+      "name": "C49",
+      "hex": "#EC86D0",
+      "lab": [
+        69.0692,
+        48.719,
+        -21.2152
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C50",
+      "name": "C50",
+      "hex": "#C5B4E3",
+      "lab": [
+        76.1054,
+        15.0795,
+        -21.3046
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C51",
+      "name": "C51",
+      "hex": "#F5E1A4",
+      "lab": [
+        89.834,
+        -1.905,
+        32.3813
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C52",
+      "name": "C52",
+      "hex": "#5949A7",
+      "lab": [
+        37.2589,
+        31.1537,
+        -48.6263
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C53",
+      "name": "C53",
+      "hex": "#C4D600",
+      "lab": [
+        81.7455,
+        -26.4543,
+        81.141
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C54",
+      "name": "C54",
+      "hex": "#00B2A9",
+      "lab": [
+        65.5162,
+        -39.432,
+        -6.2012
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C55",
+      "name": "C55",
+      "hex": "#6CC24A",
+      "lab": [
+        71.0529,
+        -47.7198,
+        51.0376
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C56",
+      "name": "C56",
+      "hex": "#97999B",
+      "lab": [
+        63.1176,
+        -0.3308,
+        -1.3003
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C57",
+      "name": "C57",
+      "hex": "#D50032",
+      "lab": [
+        44.7747,
+        70.8112,
+        36.5833
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C58",
+      "name": "C58",
+      "hex": "#2C2D65",
+      "lab": [
+        21.4002,
+        17.3026,
+        -33.3084
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C59",
+      "name": "C59",
+      "hex": "#861F41",
+      "lab": [
+        30.476,
+        45.3602,
+        5.5438
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C60",
+      "name": "C60",
+      "hex": "#BBDDE6",
+      "lab": [
+        86.001,
+        -9.2477,
+        -8.1294
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C61",
+      "name": "C61",
+      "hex": "#F1E6B2",
+      "lab": [
+        91.0122,
+        -4.1856,
+        26.7432
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C62",
+      "name": "C62",
+      "hex": "#FF585D",
+      "lab": [
+        60.8137,
+        63.4801,
+        32.7115
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C63",
+      "name": "C63",
+      "hex": "#F1A7DC",
+      "lab": [
+        76.9859,
+        35.1776,
+        -15.7732
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C64",
+      "name": "C64",
+      "hex": "#CE0058",
+      "lab": [
+        43.9891,
+        70.9922,
+        11.8106
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C65",
+      "name": "C65",
+      "hex": "#E3775E",
+      "lab": [
+        61.944,
+        39.6599,
+        32.6755
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C66",
+      "name": "C66",
+      "hex": "#F67599",
+      "lab": [
+        65.452,
+        52.8632,
+        4.5175
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C67",
+      "name": "C67",
+      "hex": "#B14EB5",
+      "lab": [
+        49.658,
+        54.3543,
+        -36.507
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C68",
+      "name": "C68",
+      "hex": "#62B5E5",
+      "lab": [
+        70.3844,
+        -11.5961,
+        -31.6851
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C69",
+      "name": "C69",
+      "hex": "#333F48",
+      "lab": [
+        25.941,
+        -2.452,
+        -7.0951
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C70",
+      "name": "C70",
+      "hex": "#183028",
+      "lab": [
+        17.7421,
+        -11.7594,
+        2.2056
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C71",
+      "name": "C71",
+      "hex": "#FFA300",
+      "lab": [
+        74.483,
+        24.9751,
+        78.6547
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C72",
+      "name": "C72",
+      "hex": "#FFB25B",
+      "lab": [
+        78.3806,
+        19.8356,
+        54.6488
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C73",
+      "name": "C73",
+      "hex": "#B86125",
+      "lab": [
+        50.542,
+        30.8613,
+        47.6399
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C74",
+      "name": "C74",
+      "hex": "#D5A286",
+      "lab": [
+        70.6709,
+        15.1481,
+        21.8752
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C75",
+      "name": "C75",
+      "hex": "#AA8066",
+      "lab": [
+        57.0221,
+        12.6952,
+        20.4117
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C76",
+      "name": "C76",
+      "hex": "#FF6D6A",
+      "lab": [
+        64.3581,
+        55.4034,
+        29.9064
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C77",
+      "name": "C77",
+      "hex": "#B04A5A",
+      "lab": [
+        45.4535,
+        43.0387,
+        11.7686
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C78",
+      "name": "C78",
+      "hex": "#862633",
+      "lab": [
+        31.1026,
+        41.5406,
+        15.6359
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C79",
+      "name": "C79",
+      "hex": "#99D6EA",
+      "lab": [
+        82.2727,
+        -14.5725,
+        -16.0245
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C80",
+      "name": "C80",
+      "hex": "#00968F",
+      "lab": [
+        55.8807,
+        -34.5503,
+        -5.8296
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C81",
+      "name": "C81",
+      "hex": "#48A9C5",
+      "lab": [
+        64.7892,
+        -19.8117,
+        -22.7537
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C82",
+      "name": "C82",
+      "hex": "#009CBD",
+      "lab": [
+        59.3869,
+        -22.3377,
+        -26.6751
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C83",
+      "name": "C83",
+      "hex": "#0085AD",
+      "lab": [
+        51.599,
+        -15.7171,
+        -29.6223
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C84",
+      "name": "C84",
+      "hex": "#ABAD23",
+      "lab": [
+        68.5096,
+        -16.2754,
+        64.2153
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C85",
+      "name": "C85",
+      "hex": "#999B30",
+      "lab": [
+        62.0227,
+        -14.2775,
+        53.1562
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C86",
+      "name": "C86",
+      "hex": "#008522",
+      "lab": [
+        48.1204,
+        -51.2559,
+        42.3609
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C87",
+      "name": "C87",
+      "hex": "#D9D9D6",
+      "lab": [
+        86.6191,
+        -0.5376,
+        1.4737
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C88",
+      "name": "C88",
+      "hex": "#C8C9C7",
+      "lab": [
+        80.8366,
+        -0.7096,
+        0.8755
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C89",
+      "name": "C89",
+      "hex": "#B1B3B3",
+      "lab": [
+        72.7877,
+        -0.7018,
+        -0.2464
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C90",
+      "name": "C90",
+      "hex": "#53565A",
+      "lab": [
+        36.4285,
+        -0.3029,
+        -2.733
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C91",
+      "name": "C91",
+      "hex": "#D69A2D",
+      "lab": [
+        67.7248,
+        13.0721,
+        61.8424
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C92",
+      "name": "C92",
+      "hex": "#F1C6A7",
+      "lab": [
+        82.8505,
+        10.8973,
+        21.2867
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C93",
+      "name": "C93",
+      "hex": "#DCA59C",
+      "lab": [
+        72.5805,
+        19.0297,
+        12.582
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C94",
+      "name": "C94",
+      "hex": "#F18070",
+      "lab": [
+        65.9924,
+        41.7559,
+        28.3031
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C95",
+      "name": "C95",
+      "hex": "#FA9370",
+      "lab": [
+        71.1228,
+        35.4604,
+        35.1674
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C96",
+      "name": "C96",
+      "hex": "#EA7600",
+      "lab": [
+        62.0443,
+        39.5856,
+        69.4877
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C97",
+      "name": "C97",
+      "hex": "#6CACE4",
+      "lab": [
+        68.2351,
+        -4.9206,
+        -34.4324
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C98",
+      "name": "C98",
+      "hex": "#71C5E8",
+      "lab": [
+        75.6165,
+        -16.0771,
+        -25.2219
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C99",
+      "name": "C99",
+      "hex": "#63B1BC",
+      "lab": [
+        67.8177,
+        -21.0727,
+        -13.0811
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C100",
+      "name": "C100",
+      "hex": "#00A3E1",
+      "lab": [
+        63.0334,
+        -13.2719,
+        -41.0828
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C101",
+      "name": "C101",
+      "hex": "#0076CF",
+      "lab": [
+        48.8338,
+        6.2683,
+        -53.5005
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C102",
+      "name": "C102",
+      "hex": "#0057B8",
+      "lab": [
+        38.3323,
+        17.0363,
+        -57.1367
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C103",
+      "name": "C103",
+      "hex": "#007D9B",
+      "lab": [
+        48.3003,
+        -17.9168,
+        -24.2805
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C104",
+      "name": "C104",
+      "hex": "#007D8A",
+      "lab": [
+        47.6245,
+        -23.9766,
+        -15.3242
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C105",
+      "name": "C105",
+      "hex": "#006A8E",
+      "lab": [
+        41.6259,
+        -12.0739,
+        -26.949
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C106",
+      "name": "C106",
+      "hex": "#007096",
+      "lab": [
+        43.9285,
+        -12.4777,
+        -28.1258
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C107",
+      "name": "C107",
+      "hex": "#D5CB9F",
+      "lab": [
+        81.4904,
+        -3.4226,
+        23.2511
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C108",
+      "name": "C108",
+      "hex": "#CFC493",
+      "lab": [
+        78.9565,
+        -3.6896,
+        26.0483
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C109",
+      "name": "C109",
+      "hex": "#C0B561",
+      "lab": [
+        72.9699,
+        -7.4871,
+        43.8617
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C110",
+      "name": "C110",
+      "hex": "#998542",
+      "lab": [
+        56.0295,
+        -1.1287,
+        38.415
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C111",
+      "name": "C111",
+      "hex": "#897630",
+      "lab": [
+        50.0845,
+        -1.327,
+        40.2238
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C112",
+      "name": "C112",
+      "hex": "#CAC7A7",
+      "lab": [
+        79.7241,
+        -4.308,
+        16.4294
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C113",
+      "name": "C113",
+      "hex": "#BFBB98",
+      "lab": [
+        75.3795,
+        -4.4004,
+        18.277
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C114",
+      "name": "C114",
+      "hex": "#B0AA7E",
+      "lab": [
+        69.1023,
+        -4.9052,
+        23.5174
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C115",
+      "name": "C115",
+      "hex": "#899064",
+      "lab": [
+        58.2124,
+        -10.1658,
+        22.5924
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C116",
+      "name": "C116",
+      "hex": "#7A7256",
+      "lab": [
+        48.0635,
+        -1.6599,
+        16.6743
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C117",
+      "name": "C117",
+      "hex": "#5B792F",
+      "lab": [
+        47.1105,
+        -23.5529,
+        36.3301
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C118",
+      "name": "C118",
+      "hex": "#9CDBD9",
+      "lab": [
+        83.3043,
+        -20.2484,
+        -5.4349
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C119",
+      "name": "C119",
+      "hex": "#7AE1BF",
+      "lab": [
+        82.7782,
+        -37.952,
+        7.3828
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C120",
+      "name": "C120",
+      "hex": "#77C19A",
+      "lab": [
+        72.4904,
+        -31.7569,
+        12.4766
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C121",
+      "name": "C121",
+      "hex": "#00B467",
+      "lab": [
+        64.6592,
+        -56.5129,
+        28.6363
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C122",
+      "name": "C122",
+      "hex": "#37C400",
+      "lab": [
+        69.6754,
+        -65.5182,
+        68.9407
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C123",
+      "name": "C123",
+      "hex": "#257226",
+      "lab": [
+        42.1037,
+        -39.5773,
+        34.3457
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C124",
+      "name": "C124",
+      "hex": "#008675",
+      "lab": [
+        49.8975,
+        -35.0732,
+        0.4097
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C125",
+      "name": "C125",
+      "hex": "#007367",
+      "lab": [
+        43.122,
+        -30.5618,
+        -1.2045
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C126",
+      "name": "C126",
+      "hex": "#DFC8E7",
+      "lab": [
+        83.3195,
+        13.5579,
+        -12.3711
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C127",
+      "name": "C127",
+      "hex": "#D48BC8",
+      "lab": [
+        67.0019,
+        37.0839,
+        -20.1645
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C128",
+      "name": "C128",
+      "hex": "#EABEDB",
+      "lab": [
+        81.5304,
+        20.4203,
+        -8.5094
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C129",
+      "name": "C129",
+      "hex": "#DD74A1",
+      "lab": [
+        62.0318,
+        45.9955,
+        -5.4645
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C130",
+      "name": "C130",
+      "hex": "#C1A0DA",
+      "lab": [
+        70.5536,
+        22.9159,
+        -24.8886
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C131",
+      "name": "C131",
+      "hex": "#FB637E",
+      "lab": [
+        62.4613,
+        60.0189,
+        15.8585
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C132",
+      "name": "C132",
+      "hex": "#C800A1",
+      "lab": [
+        45.4362,
+        76.5774,
+        -31.0605
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C133",
+      "name": "C133",
+      "hex": "#87189D",
+      "lab": [
+        34.4765,
+        60.8067,
+        -46.7942
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C134",
+      "name": "C134",
+      "hex": "#AAB7E8",
+      "lab": [
+        74.9747,
+        6.2406,
+        -25.9239
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C135",
+      "name": "C135",
+      "hex": "#B9B7E7",
+      "lab": [
+        76.0386,
+        10.54,
+        -23.6597
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C136",
+      "name": "C136",
+      "hex": "#7BA2E1",
+      "lab": [
+        66.1251,
+        3.2817,
+        -36.0043
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C137",
+      "name": "C137",
+      "hex": "#5F8DDA",
+      "lab": [
+        58.5484,
+        6.9269,
+        -44.1004
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C138",
+      "name": "C138",
+      "hex": "#5576D1",
+      "lab": [
+        51.2554,
+        15.8375,
+        -50.6341
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C139",
+      "name": "C139",
+      "hex": "#485CC7",
+      "lab": [
+        42.9945,
+        26.345,
+        -58.2156
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C140",
+      "name": "C140",
+      "hex": "#476ACD",
+      "lab": [
+        47.0448,
+        19.4148,
+        -55.1386
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C141",
+      "name": "C141",
+      "hex": "#365ABD",
+      "lab": [
+        40.847,
+        21.2699,
+        -55.9265
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C142",
+      "name": "C142",
+      "hex": "#3448AA",
+      "lab": [
+        34.5309,
+        25.759,
+        -54.961
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C143",
+      "name": "C143",
+      "hex": "#002D72",
+      "lab": [
+        20.4052,
+        16.6288,
+        -43.4354
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C144",
+      "name": "C144",
+      "hex": "#E9E186",
+      "lab": [
+        88.3986,
+        -9.8536,
+        45.3772
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C145",
+      "name": "C145",
+      "hex": "#A6192E",
+      "lab": [
+        35.9885,
+        55.2214,
+        26.3515
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C146",
+      "name": "C146",
+      "hex": "#86C8BC",
+      "lab": [
+        76.0726,
+        -23.5501,
+        -0.6652
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C147",
+      "name": "C147",
+      "hex": "#866761",
+      "lab": [
+        46.4888,
+        11.4763,
+        8.165
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C148",
+      "name": "C148",
+      "hex": "#EFDBB2",
+      "lab": [
+        88.0791,
+        0.6787,
+        22.6965
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C149",
+      "name": "C149",
+      "hex": "#8B84D7",
+      "lab": [
+        58.8787,
+        22.0158,
+        -41.7074
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C150",
+      "name": "C150",
+      "hex": "#3E4827",
+      "lab": [
+        28.9159,
+        -10.4696,
+        18.4534
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C151",
+      "name": "C151",
+      "hex": "#C0AEE4",
+      "lab": [
+        74.2408,
+        16.999,
+        -24.7256
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C152",
+      "name": "C152",
+      "hex": "#C2BDE0",
+      "lab": [
+        78.02,
+        8.5948,
+        -16.8082
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C153",
+      "name": "C153",
+      "hex": "#F3CFB3",
+      "lab": [
+        85.4723,
+        8.5189,
+        18.6132
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C154",
+      "name": "C154",
+      "hex": "#C58B68",
+      "lab": [
+        62.7915,
+        17.9389,
+        27.4982
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C155",
+      "name": "C155",
+      "hex": "#63666A",
+      "lab": [
+        43.057,
+        -0.3004,
+        -2.6548
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C156",
+      "name": "C156",
+      "hex": "#4B4F54",
+      "lab": [
+        33.4095,
+        -0.4606,
+        -3.4948
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "C157",
+      "name": "C157",
+      "hex": "#1D252D",
+      "lab": [
+        14.2521,
+        -1.1474,
+        -6.4353
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "C"
+    },
+    {
+      "code": "CE01",
+      "name": "CE01",
+      "hex": "#D1DDE6",
+      "lab": [
+        87.4756,
+        -2.2906,
+        -5.7835
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CE"
+    },
+    {
+      "code": "CE02",
+      "name": "CE02",
+      "hex": "#9BB8D3",
+      "lab": [
+        73.5138,
+        -3.7545,
+        -16.8293
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CE"
+    },
+    {
+      "code": "CE03",
+      "name": "CE03",
+      "hex": "#6AD1E3",
+      "lab": [
+        78.5824,
+        -25.0281,
+        -18.0539
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CE"
+    },
+    {
+      "code": "CE04",
+      "name": "CE04",
+      "hex": "#03C1AA",
+      "lab": [
+        70.2166,
+        -45.5593,
+        0.1632
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CE"
+    },
+    {
+      "code": "CE05",
+      "name": "CE05",
+      "hex": "#2CD5C4",
+      "lab": [
+        77.3437,
+        -44.6728,
+        -3.4287
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CE"
+    },
+    {
+      "code": "CE06",
+      "name": "CE06",
+      "hex": "#147BD1",
+      "lab": [
+        50.5883,
+        4.6958,
+        -51.8191
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CE"
+    },
+    {
+      "code": "CE07",
+      "name": "CE07",
+      "hex": "#BFA5B8",
+      "lab": [
+        70.4888,
+        12.7933,
+        -6.2463
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CE"
+    },
+    {
+      "code": "CE08",
+      "name": "CE08",
+      "hex": "#9B7793",
+      "lab": [
+        54.3119,
+        18.9077,
+        -9.7187
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CE"
+    },
+    {
+      "code": "CE09",
+      "name": "CE09",
+      "hex": "#693C5E",
+      "lab": [
+        31.9061,
+        25.239,
+        -11.8011
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CE"
+    },
+    {
+      "code": "CE10",
+      "name": "CE10",
+      "hex": "#C964CF",
+      "lab": [
+        58.074,
+        55.1167,
+        -38.0063
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CE"
+    },
+    {
+      "code": "CE11",
+      "name": "CE11",
+      "hex": "#AD1AAC",
+      "lab": [
+        42.1597,
+        69.8805,
+        -43.1254
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CE"
+    },
+    {
+      "code": "CE12",
+      "name": "CE12",
+      "hex": "#FFC27B",
+      "lab": [
+        82.5279,
+        13.8071,
+        43.9369
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CE"
+    },
+    {
+      "code": "CE13",
+      "name": "CE13",
+      "hex": "#E6A65D",
+      "lab": [
+        72.819,
+        16.0162,
+        46.5574
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CE"
+    },
+    {
+      "code": "CE14",
+      "name": "CE14",
+      "hex": "#D38235",
+      "lab": [
+        61.7187,
+        25.0598,
+        52.7365
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CE"
+    },
+    {
+      "code": "CE15",
+      "name": "CE15",
+      "hex": "#C16C18",
+      "lab": [
+        54.1664,
+        28.3484,
+        56.2754
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CE"
+    },
+    {
+      "code": "CE16",
+      "name": "CE16",
+      "hex": "#F5B6CD",
+      "lab": [
+        80.3363,
+        26.1837,
+        -2.6126
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CE"
+    },
+    {
+      "code": "CE17",
+      "name": "CE17",
+      "hex": "#5D2A2C",
+      "lab": [
+        24.2114,
+        23.4923,
+        9.7322
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CE"
+    },
+    {
+      "code": "CG01",
+      "name": "CG01",
+      "hex": "#B2B9BF",
+      "lab": [
+        74.777,
+        -1.262,
+        -3.875
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CG"
+    },
+    {
+      "code": "CG02",
+      "name": "CG02",
+      "hex": "#BEA6BA",
+      "lab": [
+        70.7089,
+        12.2611,
+        -7.0353
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CG"
+    },
+    {
+      "code": "CG03",
+      "name": "CG03",
+      "hex": "#62B6D8",
+      "lab": [
+        70.1811,
+        -15.9959,
+        -24.8991
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CG"
+    },
+    {
+      "code": "CG04",
+      "name": "CG04",
+      "hex": "#8985C1",
+      "lab": [
+        57.983,
+        15.0916,
+        -30.7108
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CG"
+    },
+    {
+      "code": "CG05",
+      "name": "CG05",
+      "hex": "#CB9D96",
+      "lab": [
+        68.7617,
+        16.0629,
+        10.2468
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CG"
+    },
+    {
+      "code": "CG06",
+      "name": "CG06",
+      "hex": "#8ABA96",
+      "lab": [
+        71.3658,
+        -23.2361,
+        13.2014
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CG"
+    },
+    {
+      "code": "CG07",
+      "name": "CG07",
+      "hex": "#94637F",
+      "lab": [
+        47.9472,
+        24.2449,
+        -7.5097
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CG"
+    },
+    {
+      "code": "CP01",
+      "name": "CP01",
+      "hex": "#8ECAB2",
+      "lab": [
+        76.8026,
+        -24.354,
+        5.8377
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CP"
+    },
+    {
+      "code": "CP02",
+      "name": "CP02",
+      "hex": "#CD8F75",
+      "lab": [
+        64.8919,
+        20.3535,
+        23.2605
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CP"
+    },
+    {
+      "code": "CP03",
+      "name": "CP03",
+      "hex": "#CBA16C",
+      "lab": [
+        68.9473,
+        8.7976,
+        33.4321
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CP"
+    },
+    {
+      "code": "CP04",
+      "name": "CP04",
+      "hex": "#BC8DA4",
+      "lab": [
+        63.6909,
+        21.471,
+        -5.153
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CP"
+    },
+    {
+      "code": "CP05",
+      "name": "CP05",
+      "hex": "#8A506A",
+      "lab": [
+        41.5044,
+        27.9355,
+        -4.4779
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CP"
+    },
+    {
+      "code": "CP06",
+      "name": "CP06",
+      "hex": "#3063A3",
+      "lab": [
+        41.5245,
+        4.8812,
+        -39.5622
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CP"
+    },
+    {
+      "code": "CP07",
+      "name": "CP07",
+      "hex": "#3E5694",
+      "lab": [
+        37.512,
+        10.4545,
+        -36.925
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CP"
+    },
+    {
+      "code": "CT01",
+      "name": "CT01",
+      "hex": "#C6C6D280",
+      "lab": [
+        80.206,
+        2.2619,
+        -5.972
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CT"
+    },
+    {
+      "code": "CT02",
+      "name": "CT02",
+      "hex": "#E664A680",
+      "lab": [
+        60.5113,
+        57.2194,
+        -10.4668
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CT"
+    },
+    {
+      "code": "CT03",
+      "name": "CT03",
+      "hex": "#F6875C80",
+      "lab": [
+        67.798,
+        38.6418,
+        41.5542
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CT"
+    },
+    {
+      "code": "CT04",
+      "name": "CT04",
+      "hex": "#C4C76480",
+      "lab": [
+        78.1714,
+        -14.8054,
+        48.7035
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CT"
+    },
+    {
+      "code": "CT05",
+      "name": "CT05",
+      "hex": "#32B19580",
+      "lab": [
+        65.1919,
+        -40.8468,
+        4.4823
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CT"
+    },
+    {
+      "code": "CT06",
+      "name": "CT06",
+      "hex": "#757DD180",
+      "lab": [
+        55.1252,
+        18.7271,
+        -44.3613
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CT"
+    },
+    {
+      "code": "CT07",
+      "name": "CT07",
+      "hex": "#4EB1DC80",
+      "lab": [
+        68.1883,
+        -15.8542,
+        -30.2126
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CT"
+    },
+    {
+      "code": "CT08",
+      "name": "CT08",
+      "hex": "#5688A080",
+      "lab": [
+        54.1577,
+        -10.1284,
+        -17.9984
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CT"
+    },
+    {
+      "code": "CT09",
+      "name": "CT09",
+      "hex": "#6B849D80",
+      "lab": [
+        54.0925,
+        -2.7647,
+        -16.2529
+      ],
+      "confidence": "medium",
+      "sources": [
+        "artkal-official"
+      ],
+      "group": "CT"
+    }
+  ],
+  "sets": [
+    {
+      "count": 197,
+      "codes": [],
+      "codesKnown": false,
+      "note": "零售端常见档位。具体色号构成因商家而异，无公开可靠数据，请手动勾选或导入实际色号。"
+    }
+  ],
+  "attribution": {
+    "sources": [
+      "Artkal 官方色卡与 RGB PDF",
+      "HansBug/pindou-color-data (MIT)"
+    ],
+    "license": "MIT",
+    "notice": "Artkal 是目前唯一发布官方机读 RGB 数据的品牌。CG/CP/CT 特殊材质色号的 RGB 由官方色卡图采样补齐。"
+  }
+}

@@ -1,0 +1,119 @@
+---
+import { PALETTE_INDEX } from '@aipindou/registry';
+import SiteFooter from '../../components/SiteFooter.astro';
+import SiteHeader from '../../components/SiteHeader.astro';
+import { useTranslations } from '../../i18n/index.js';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { ROUTES, absolute, localeFromPath, type Locale } from '../../lib/url.js';
+
+const locale: Locale = localeFromPath(Astro.url.pathname);
+const t = useTranslations(locale);
+
+// 按色号数降序：色数多的色卡通常是用户在找的「全套」
+const palettes = [...PALETTE_INDEX].sort((a, b) => b.count - a.count);
+
+const structuredData = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  name: t.palette.title,
+  description: t.palette.description,
+  url: absolute(ROUTES.palettes()),
+  hasPart: palettes.map((p) => ({
+    '@type': 'Dataset',
+    name: `${p.brand} ${p.version}`,
+    url: absolute(ROUTES.palette(p.id)),
+    variableMeasured: `${p.count} 个色号`,
+    license: p.license,
+  })),
+};
+
+// 页面上那段「这些色值有多可信」不是免责套话，而是本页存在的理由之一：
+// 市面上大量色卡页把来源不明的色值排得整整齐齐，看着比我们干净，
+// 但用户没法判断哪一条能信。
+
+/** 把置信度分布折算成一句人话 */
+function qualityLabel(p: (typeof palettes)[number]): string {
+  const { high, medium, low } = p.confidence;
+  if (high === p.count) return '全部色号多源一致';
+  if (high > 0) return `${high} 个多源一致，${medium} 个存在轻微分歧，${low} 个分歧较大`;
+  return `单一数据源，共 ${medium + low} 个色号未经交叉验证`;
+}
+---
+
+<BaseLayout
+  title={t.palette.title}
+  description={t.palette.description}
+  structuredData={structuredData}
+>
+  <SiteHeader />
+
+  <main class="mx-auto max-w-6xl px-4 py-8 sm:py-12">
+    <h1 class="m-0 text-2xl sm:text-3xl">{t.palette.title}</h1>
+    <p class="mt-3 max-w-3xl text-sm leading-relaxed text-[var(--surface-text-muted)] sm:text-base">
+      {t.palette.description}
+    </p>
+
+    <aside
+      class="mt-6 rounded-[var(--radius-card)] border border-[var(--surface-border)] bg-[var(--surface-raised)] p-5 text-sm"
+    >
+      <h2 class="m-0 text-base">这些色值有多可信</h2>
+      <p class="m-0 mt-2 text-[var(--surface-text-muted)]">
+        拼豆厂商基本不发布机器可读的官方色卡（Artkal 是目前唯一的例外）。
+        本站的色值来自多个公开数据源的交叉比对：多个来源一致的标为高可信，
+        来源之间分歧较大的会明确标出，无法确认真实色号的绝不猜测填充。
+        这意味着某些色号我们只能告诉你「不确定」，而不能给你一个好看却可能是错的答案。
+      </p>
+    </aside>
+
+    <ul class="mt-8 grid list-none gap-4 p-0 md:grid-cols-2">
+      {
+        palettes.map((p) => (
+          <li class="rounded-[var(--radius-card)] border border-[var(--surface-border)] bg-[var(--surface-panel)] p-5">
+            <a
+              href={ROUTES.palette(p.id)}
+              class="text-lg font-semibold text-[var(--surface-text)] no-underline hover:underline"
+            >
+              {p.brand} {p.version}
+            </a>
+
+            <dl class="m-0 mt-3 grid grid-cols-2 gap-x-4 gap-y-1 text-sm">
+              <dt class="m-0 text-[var(--surface-text-muted)]">
+                {t.palette.colorCount}
+              </dt>
+              <dd class="tabular m-0 text-[var(--surface-text)]">{p.count}</dd>
+
+              <dt class="m-0 text-[var(--surface-text-muted)]">套装档位</dt>
+              <dd class="tabular m-0 text-[var(--surface-text)]">
+                {p.sets.length > 0 ? p.sets.join(' / ') : '—'}
+              </dd>
+
+              <dt class="m-0 text-[var(--surface-text-muted)]">
+                {t.palette.license}
+              </dt>
+              <dd class="m-0 text-[var(--surface-text)]">{p.license}</dd>
+            </dl>
+
+            <p class="m-0 mt-3 text-sm text-[var(--surface-text-muted)]">
+              {qualityLabel(p)}
+              {p.unidentifiedCount > 0 && (
+                <span class="ml-1 text-[var(--color-warning)]">
+                  · {p.unidentifiedCount} 个色号待确认
+                </span>
+              )}
+            </p>
+            <p class="m-0 mt-2 text-xs">
+              <a
+                href={ROUTES.convert(p.id, p.id === 'mard-221' ? 'coco-291' : 'mard-221')}
+                class="text-[var(--surface-text)] underline"
+              >
+                跨品牌换算
+              </a>
+            </p>
+          </li>
+        ))
+      }
+    </ul>
+  </main>
+
+  <SiteFooter />
+</BaseLayout>

@@ -1,0 +1,53 @@
+---
+import { useTranslations } from '../i18n/index.js';
+import { localeFromPath, type Locale } from '../lib/url.js';
+
+const locale: Locale = localeFromPath(Astro.url.pathname);
+const t = useTranslations(locale);
+const year = new Date().getFullYear();
+
+// 两段说明都必须常驻可见，不能折叠进某个说明页：
+// 用户是照着屏幕上的颜色去实体店买豆的，这里省一句话对方就可能买错一整袋；
+// 而 CC BY 4.0 要求署名并指明出处，是使用 bitbead 色卡数据的许可条件，不是礼节。
+---
+
+<footer
+  class="mt-8 border-t border-[var(--surface-border)] bg-[var(--surface-panel)] px-4 py-6 text-sm text-[var(--surface-text-muted)] md:mt-16 md:py-8"
+>
+  <div class="mx-auto flex max-w-6xl flex-col gap-4">
+    <section>
+      <h2 class="m-0 mb-1 text-sm font-semibold text-[var(--surface-text)]">
+        {t.disclaimer.colorTitle}
+      </h2>
+      <p class="m-0">{t.disclaimer.colorBody}</p>
+    </section>
+
+    <section>
+      <p class="m-0">
+        {t.disclaimer.brandBody}
+      </p>
+      <p class="m-0 mt-1">
+        部分色卡数据来自
+        <a
+          href="https://www.bitbead.app"
+          rel="noopener noreferrer"
+          target="_blank"
+          class="text-[var(--surface-text)] underline">Bitbead</a
+        >（<a
+          href="https://creativecommons.org/licenses/by/4.0/"
+          rel="noopener noreferrer license"
+          target="_blank"
+          class="text-[var(--surface-text)] underline">CC BY 4.0</a
+        >）与
+        <a
+          href="https://github.com/HansBug/pindou-color-data"
+          rel="noopener noreferrer"
+          target="_blank"
+          class="text-[var(--surface-text)] underline">pindou-color-data</a
+        >（MIT）。
+      </p>
+    </section>
+
+    <p class="m-0 text-xs">© {year} {t.site.name}</p>
+  </div>
+</footer>

@@ -1,0 +1,19 @@
+{
+  "name": "爱拼豆",
+  "short_name": "爱拼豆",
+  "description": "把图片变成能照着摆的拼豆图纸",
+  "start_url": "./editor/",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1c1c1c",
+  "theme_color": "#e8623f",
+  "lang": "zh-CN",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

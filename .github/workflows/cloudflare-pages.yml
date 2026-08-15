@@ -1,0 +1,53 @@
+# 通过 GitHub Actions 部署到 Cloudflare Pages。
+#
+# 首次使用前，在 GitHub 仓库 Settings → Secrets 配置：
+#   CLOUDFLARE_API_TOKEN、CLOUDFLARE_ACCOUNT_ID
+# 配置完成后，在 Actions 页手动 Run workflow。
+#
+# 若改用 Cloudflare Dashboard 直连 GitHub，可删除本文件。
+name: Deploy to Cloudflare Pages
+
+on:
+  workflow_dispatch:
+
+concurrency:
+  group: cloudflare-pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      deployments: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check Cloudflare secrets
+        run: |
+          if [ -z "${{ secrets.CLOUDFLARE_API_TOKEN }}" ] || [ -z "${{ secrets.CLOUDFLARE_ACCOUNT_ID }}" ]; then
+            echo "::error::请先在 GitHub → Settings → Secrets and variables → Actions 添加 CLOUDFLARE_API_TOKEN 与 CLOUDFLARE_ACCOUNT_ID"
+            exit 1
+          fi
+
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 9
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: pnpm
+
+      - name: Install and build
+        run: pnpm install --frozen-lockfile && pnpm build
+        env:
+          PUBLIC_SITE_URL: ${{ vars.PUBLIC_SITE_URL || 'https://ai-pindou.pages.dev' }}
+          PUBLIC_BASE_PATH: /
+
+      - name: Publish to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy apps/web/dist --project-name=ai-pindou

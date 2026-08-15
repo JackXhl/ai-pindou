@@ -1,0 +1,3559 @@
+{
+  "id": "artkal-m221",
+  "brand": "Artkal 优肯",
+  "version": "Artkal M 系 221 色（官方，MARD 兼容体系）",
+  "colors": [
+    {
+      "code": "MA1",
+      "name": "淡黄色 / Pale Yellow",
+      "hex": "#FFF6D4",
+      "lab": [
+        96.7901,
+        -2.4127,
+        17.4573
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA2",
+      "name": "浅黄色 / Light Yellow",
+      "hex": "#F6F9E5",
+      "lab": [
+        97.2282,
+        -4.4062,
+        9.2551
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA3",
+      "name": "亮黄色 / Bright Yellow",
+      "hex": "#FFFBAA",
+      "lab": [
+        97.2918,
+        -10.4247,
+        39.3698
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA4",
+      "name": "金黄色 / Golden Yellow",
+      "hex": "#FFDF58",
+      "lab": [
+        89.2727,
+        -3.5384,
+        67.8106
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA5",
+      "name": "深金黄 / Deep Gold",
+      "hex": "#FECF4D",
+      "lab": [
+        85.1168,
+        3.6011,
+        67.9146
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA6",
+      "name": "橙黄色 / Orange Yellow",
+      "hex": "#FFA80C",
+      "lab": [
+        75.6359,
+        22.4649,
+        78.0638
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA7",
+      "name": "橙色 / Orange",
+      "hex": "#FF8837",
+      "lab": [
+        68.8599,
+        39.8295,
+        60.8382
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA8",
+      "name": "柔和橙 / Soft Orange",
+      "hex": "#EAC431",
+      "lab": [
+        80.2904,
+        -0.3444,
+        72.6193
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA9",
+      "name": "浅橙色 / Light Orange",
+      "hex": "#F1AA8F",
+      "lab": [
+        75.7225,
+        22.8369,
+        24.3518
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA10",
+      "name": "深橙色 / Deep Orange",
+      "hex": "#FF8F42",
+      "lab": [
+        70.3885,
+        36.707,
+        57.568
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA11",
+      "name": "浅杏色 / Light Apricot",
+      "hex": "#FFE1A1",
+      "lab": [
+        90.6366,
+        1.5741,
+        35.1278
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA12",
+      "name": "杏色 / Apricot",
+      "hex": "#F4B39C",
+      "lab": [
+        78.3901,
+        20.7041,
+        21.0523
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA13",
+      "name": "浅黄橙 / Light Yellow-Orange",
+      "hex": "#FFB100",
+      "lab": [
+        77.7032,
+        17.6719,
+        80.7793
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA14",
+      "name": "红橙色 / Red-Orange",
+      "hex": "#FF6510",
+      "lab": [
+        62.1782,
+        55.5669,
+        68.4322
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA15",
+      "name": "柠檬黄 / Lemon Yellow",
+      "hex": "#DAF05C",
+      "lab": [
+        90.7794,
+        -26.6093,
+        66.9
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA16",
+      "name": "亮柠檬 / Bright Lemon",
+      "hex": "#F9FBBE",
+      "lab": [
+        97.1678,
+        -10.1506,
+        29.1127
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA17",
+      "name": "蛋黄色 / Yolk",
+      "hex": "#FFD976",
+      "lab": [
+        88.0634,
+        1.5296,
+        53.1211
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA18",
+      "name": "浅橙棕 / Light Orange-Brown",
+      "hex": "#FFCA9A",
+      "lab": [
+        84.9136,
+        12.6471,
+        31.1305
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA19",
+      "name": "浅红橙 / Light Red-Orange",
+      "hex": "#EC7A92",
+      "lab": [
+        64.8288,
+        46.2641,
+        7.4252
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA20",
+      "name": "蜜黄色 / Honey",
+      "hex": "#E5BE55",
+      "lab": [
+        78.5455,
+        2.3797,
+        56.8466
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA21",
+      "name": "浅蜜黄 / Light Honey",
+      "hex": "#FFE596",
+      "lab": [
+        91.4616,
+        -1.6392,
+        41.7345
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA22",
+      "name": "黄绿色 / Yellow-Green",
+      "hex": "#F7E898",
+      "lab": [
+        91.5755,
+        -6.0379,
+        40.7527
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA23",
+      "name": "米黄色 / Beige Yellow",
+      "hex": "#F0CBB1",
+      "lab": [
+        84.1808,
+        9.2159,
+        17.8272
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA24",
+      "name": "浅黄绿 / Light Yellow-Green",
+      "hex": "#F5FCD1",
+      "lab": [
+        97.4856,
+        -9.3856,
+        19.856
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA25",
+      "name": "淡黄绿 / Pale Yellow-Green",
+      "hex": "#F6D487",
+      "lab": [
+        86.222,
+        1.9832,
+        42.3743
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MA26",
+      "name": "金色 / Gold",
+      "hex": "#FFCB4B",
+      "lab": [
+        84.2172,
+        5.9769,
+        67.8278
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MA"
+    },
+    {
+      "code": "MB1",
+      "name": "黄绿 / Yellow-Green",
+      "hex": "#D2E318",
+      "lab": [
+        86.3586,
+        -26.5388,
+        82.5769
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB2",
+      "name": "亮绿 / Bright Green",
+      "hex": "#79CD41",
+      "lab": [
+        74.8927,
+        -48.8313,
+        59.0708
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB3",
+      "name": "浅绿 / Light Green",
+      "hex": "#82D7A1",
+      "lab": [
+        79.5668,
+        -37.4289,
+        18.7213
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB4",
+      "name": "春绿 / Spring Green",
+      "hex": "#65DF4F",
+      "lab": [
+        79.6729,
+        -60.3792,
+        58.3746
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB5",
+      "name": "鲜绿 / Vivid Green",
+      "hex": "#5FC873",
+      "lab": [
+        72.8767,
+        -48.5598,
+        33.4419
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB6",
+      "name": "薄荷绿 / Mint",
+      "hex": "#49D1AE",
+      "lab": [
+        76.1121,
+        -44.9601,
+        6.6501
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB7",
+      "name": "森林绿 / Forest",
+      "hex": "#009696",
+      "lab": [
+        56.1003,
+        -32.3688,
+        -9.512
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB8",
+      "name": "深绿 / Deep Green",
+      "hex": "#08774F",
+      "lab": [
+        43.9574,
+        -38.3387,
+        14.255
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB9",
+      "name": "暗绿 / Dark Green",
+      "hex": "#183823",
+      "lab": [
+        20.6105,
+        -17.6339,
+        9.6039
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB10",
+      "name": "柔和绿 / Soft Green",
+      "hex": "#83CFC3",
+      "lab": [
+        78.1037,
+        -26.2392,
+        -1.4801
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB11",
+      "name": "军绿 / Army Green",
+      "hex": "#5A6A27",
+      "lab": [
+        42.1976,
+        -16.8985,
+        34.7329
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB12",
+      "name": "深森林绿 / Deep Forest",
+      "hex": "#045F45",
+      "lab": [
+        35.2802,
+        -31.0303,
+        8.211
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB13",
+      "name": "淡绿 / Pale Green",
+      "hex": "#E2FFB3",
+      "lab": [
+        96.3866,
+        -21.8542,
+        33.3122
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB14",
+      "name": "青草绿 / Grass Green",
+      "hex": "#9DD12E",
+      "lab": [
+        77.8547,
+        -38.812,
+        69.1018
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB15",
+      "name": "深青绿 / Deep Teal Green",
+      "hex": "#254B3C",
+      "lab": [
+        28.7764,
+        -17.728,
+        4.7853
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB16",
+      "name": "浅青绿 / Light Teal Green",
+      "hex": "#D0FCAD",
+      "lab": [
+        94.3323,
+        -27.5818,
+        33.3641
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB17",
+      "name": "橄榄绿 / Olive",
+      "hex": "#8CA12A",
+      "lab": [
+        62.7034,
+        -23.3038,
+        55.7461
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB18",
+      "name": "黄绿亮 / Bright Yellow-Green",
+      "hex": "#D2D958",
+      "lab": [
+        83.983,
+        -19.0193,
+        61.0353
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB19",
+      "name": "翡翠绿 / Emerald",
+      "hex": "#49BCA9",
+      "lab": [
+        69.6434,
+        -36.9,
+        -0.008
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB20",
+      "name": "薄荷淡绿 / Mint Light",
+      "hex": "#E8FDEC",
+      "lab": [
+        97.4146,
+        -9.9053,
+        5.7968
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB21",
+      "name": "深蓝绿 / Deep Blue-Green",
+      "hex": "#188B81",
+      "lab": [
+        52.1105,
+        -32.2542,
+        -3.3083
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB22",
+      "name": "深青 / Deep Teal",
+      "hex": "#0C5C5B",
+      "lab": [
+        34.9773,
+        -22.1346,
+        -5.8857
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB23",
+      "name": "橄榄棕 / Olive Brown",
+      "hex": "#3D461B",
+      "lab": [
+        27.9844,
+        -11.254,
+        24.3101
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB24",
+      "name": "柔和黄绿 / Soft Yellow-Green",
+      "hex": "#EAFCB6",
+      "lab": [
+        96.2,
+        -17.1387,
+        31.6517
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB25",
+      "name": "墨绿 / Ink Green",
+      "hex": "#538771",
+      "lab": [
+        52.2399,
+        -22.6763,
+        6.3899
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB26",
+      "name": "棕绿 / Brown-Green",
+      "hex": "#8A7A40",
+      "lab": [
+        51.4887,
+        -1.8301,
+        33.7133
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB27",
+      "name": "淡灰绿 / Pale Gray-Green",
+      "hex": "#D2DEB6",
+      "lab": [
+        86.6631,
+        -10.8909,
+        18.2995
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB28",
+      "name": "浅薄荷绿 / Light Mint",
+      "hex": "#9FF4C2",
+      "lab": [
+        89.8427,
+        -36.0992,
+        16.0776
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB29",
+      "name": "黄绿色 / Yellow-Green",
+      "hex": "#BBD747",
+      "lab": [
+        81.6317,
+        -28.456,
+        64.9262
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB30",
+      "name": "淡黄绿 / Pale Yellow-Green",
+      "hex": "#F5FFE6",
+      "lab": [
+        98.6882,
+        -7.5813,
+        10.8216
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB31",
+      "name": "浅草绿 / Light Grass",
+      "hex": "#BFE1C2",
+      "lab": [
+        86.4152,
+        -16.9898,
+        11.4797
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MB32",
+      "name": "灰绿 / Gray-Green",
+      "hex": "#9FBA5C",
+      "lab": [
+        71.732,
+        -23.9553,
+        44.2192
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MB"
+    },
+    {
+      "code": "MC1",
+      "name": "淡白绿 / Pale White-Green",
+      "hex": "#D5E3DE",
+      "lab": [
+        89.0912,
+        -5.5867,
+        0.8278
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC2",
+      "name": "亮青 / Bright Cyan",
+      "hex": "#BBF1F4",
+      "lab": [
+        91.6867,
+        -16.3779,
+        -7.0499
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC3",
+      "name": "浅青 / Light Cyan",
+      "hex": "#73C0DF",
+      "lab": [
+        73.9774,
+        -15.5455,
+        -22.8504
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC4",
+      "name": "天青 / Sky Cyan",
+      "hex": "#33B3E1",
+      "lab": [
+        68.2972,
+        -18.9159,
+        -32.8379
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC5",
+      "name": "深天青 / Deep Sky",
+      "hex": "#00A3CA",
+      "lab": [
+        62.0452,
+        -21.4588,
+        -29.8549
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC6",
+      "name": "浅蓝 / Light Blue",
+      "hex": "#58A0D9",
+      "lab": [
+        63.5271,
+        -5.7374,
+        -35.759
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC7",
+      "name": "中蓝 / Medium Blue",
+      "hex": "#0588CC",
+      "lab": [
+        54.0244,
+        -5.6211,
+        -43.5272
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC8",
+      "name": "深蓝 / Deep Blue",
+      "hex": "#005F9E",
+      "lab": [
+        38.9874,
+        1.0666,
+        -40.689
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC9",
+      "name": "皇蓝 / Royal Blue",
+      "hex": "#086FB9",
+      "lab": [
+        45.5263,
+        2.1998,
+        -46.1387
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC10",
+      "name": "天空蓝 / Sky Blue",
+      "hex": "#52B4E0",
+      "lab": [
+        69.3374,
+        -15.526,
+        -30.619
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC11",
+      "name": "松绿蓝 / Pine Blue",
+      "hex": "#00A9B9",
+      "lab": [
+        63.2399,
+        -30.2406,
+        -18.5318
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC12",
+      "name": "深夜蓝 / Midnight Blue",
+      "hex": "#1C375A",
+      "lab": [
+        22.7132,
+        2.4345,
+        -24.0679
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC13",
+      "name": "浅蓝白 / Light Blue-White",
+      "hex": "#CEE0F0",
+      "lab": [
+        88.3155,
+        -2.8092,
+        -9.8268
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC14",
+      "name": "淡青绿 / Pale Cyan-Green",
+      "hex": "#EBF5F4",
+      "lab": [
+        95.7882,
+        -3.4725,
+        -0.6647
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC15",
+      "name": "青蓝 / Cyan Blue",
+      "hex": "#00AAAD",
+      "lab": [
+        63.147,
+        -34.5566,
+        -11.9644
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC16",
+      "name": "深蓝紫 / Deep Blue-Purple",
+      "hex": "#004C7D",
+      "lab": [
+        30.9934,
+        -0.3717,
+        -33.3259
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC17",
+      "name": "亮青蓝 / Bright Cyan-Blue",
+      "hex": "#5BD4F6",
+      "lab": [
+        79.5912,
+        -23.8235,
+        -26.7182
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC18",
+      "name": "深灰蓝 / Deep Gray-Blue",
+      "hex": "#36515C",
+      "lab": [
+        32.7914,
+        -6.947,
+        -9.6489
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC19",
+      "name": "深青蓝 / Deep Cyan-Blue",
+      "hex": "#0F909D",
+      "lab": [
+        54.5329,
+        -26.4946,
+        -15.8819
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC20",
+      "name": "深海蓝 / Deep Sea Blue",
+      "hex": "#0084B7",
+      "lab": [
+        51.7457,
+        -11.4312,
+        -35.1474
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC21",
+      "name": "淡蓝 / Pale Blue",
+      "hex": "#DDECFA",
+      "lab": [
+        92.6913,
+        -2.2555,
+        -8.4497
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC22",
+      "name": "灰蓝 / Gray Blue",
+      "hex": "#84BAC2",
+      "lab": [
+        72.1726,
+        -15.6009,
+        -9.6986
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC23",
+      "name": "浅蓝 / Light Blue",
+      "hex": "#CBDBDB",
+      "lab": [
+        86.2425,
+        -5.3422,
+        -1.8403
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC24",
+      "name": "空蓝 / Air Blue",
+      "hex": "#88BDE2",
+      "lab": [
+        74.2651,
+        -8.0127,
+        -23.9452
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC25",
+      "name": "浅青蓝 / Light Cyan-Blue",
+      "hex": "#B3ECE0",
+      "lab": [
+        89.3714,
+        -20.4706,
+        -0.0693
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC26",
+      "name": "深青蓝 / Deep Cyan-Blue",
+      "hex": "#3E9EBF",
+      "lab": [
+        60.9901,
+        -17.5294,
+        -25.2539
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC27",
+      "name": "淡紫蓝 / Pale Purple-Blue",
+      "hex": "#E9F0F3",
+      "lab": [
+        94.3612,
+        -1.77,
+        -2.253
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC28",
+      "name": "灰紫蓝 / Gray Purple-Blue",
+      "hex": "#C2CDE3",
+      "lab": [
+        82.2049,
+        0.6585,
+        -12.1372
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MC29",
+      "name": "深紫蓝 / Deep Purple-Blue",
+      "hex": "#586B8F",
+      "lab": [
+        45.0431,
+        2.433,
+        -22.0026
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MC"
+    },
+    {
+      "code": "MD1",
+      "name": "浅紫 / Light Purple",
+      "hex": "#7292E2",
+      "lab": [
+        61.3285,
+        10.6437,
+        -44.1051
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD2",
+      "name": "紫罗兰 / Violet",
+      "hex": "#6E8CCC",
+      "lab": [
+        58.4422,
+        6.6071,
+        -36.3538
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD3",
+      "name": "中紫 / Medium Purple",
+      "hex": "#13419A",
+      "lab": [
+        30.0374,
+        20.5895,
+        -52.6921
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD4",
+      "name": "深紫 / Deep Purple",
+      "hex": "#1E3175",
+      "lab": [
+        22.8495,
+        17.917,
+        -41.3338
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD5",
+      "name": "品红 / Magenta",
+      "hex": "#B850B2",
+      "lab": [
+        50.8553,
+        54.7842,
+        -32.8088
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD6",
+      "name": "浅紫罗兰 / Light Violet",
+      "hex": "#AD92E9",
+      "lab": [
+        66.0008,
+        28.0412,
+        -40.3365
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD7",
+      "name": "葡萄紫 / Grape",
+      "hex": "#5F2D91",
+      "lab": [
+        30.2886,
+        42.4124,
+        -46.5243
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD8",
+      "name": "淡紫 / Pale Purple",
+      "hex": "#D7CDF1",
+      "lab": [
+        84.2049,
+        10.2405,
+        -16.4343
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD9",
+      "name": "浅葡萄紫 / Light Grape",
+      "hex": "#BDB2E6",
+      "lab": [
+        75.0592,
+        14.2984,
+        -24.5839
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD10",
+      "name": "深葡萄 / Deep Grape",
+      "hex": "#251B58",
+      "lab": [
+        14.8532,
+        23.5344,
+        -35.3238
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD11",
+      "name": "灰紫 / Gray Purple",
+      "hex": "#A2BBE7",
+      "lab": [
+        75.445,
+        1.4812,
+        -24.7122
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD12",
+      "name": "玫瑰紫 / Rose Purple",
+      "hex": "#CF8BBE",
+      "lab": [
+        66.0978,
+        33.6762,
+        -15.9925
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD13",
+      "name": "深品红 / Deep Magenta",
+      "hex": "#B80096",
+      "lab": [
+        41.8373,
+        72.2224,
+        -30.2918
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD14",
+      "name": "紫红 / Purple-Red",
+      "hex": "#A137A7",
+      "lab": [
+        42.9149,
+        57.8088,
+        -39.0695
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD15",
+      "name": "深蓝紫 / Deep Blue-Purple",
+      "hex": "#4A388A",
+      "lab": [
+        29.7103,
+        29.3771,
+        -43.2574
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD16",
+      "name": "淡紫白 / Pale Purple-White",
+      "hex": "#DCE8F6",
+      "lab": [
+        91.4969,
+        -1.3051,
+        -8.1423
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD17",
+      "name": "淡蓝紫 / Pale Blue-Purple",
+      "hex": "#AECEF0",
+      "lab": [
+        81.5277,
+        -3.0898,
+        -20.2256
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD18",
+      "name": "深紫罗兰 / Deep Violet",
+      "hex": "#B38EDB",
+      "lab": [
+        64.9978,
+        28.8072,
+        -34.1162
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD19",
+      "name": "淡玫瑰紫 / Pale Rose Purple",
+      "hex": "#E8D2EA",
+      "lab": [
+        86.5982,
+        11.8112,
+        -9.0008
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD20",
+      "name": "兰紫 / Orchid Purple",
+      "hex": "#B460C3",
+      "lab": [
+        54.0382,
+        49.0154,
+        -37.6881
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD21",
+      "name": "深兰紫 / Deep Orchid",
+      "hex": "#842A94",
+      "lab": [
+        35.401,
+        52.7172,
+        -39.856
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD22",
+      "name": "深紫蓝 / Deep Purple-Blue",
+      "hex": "#4B5E9E",
+      "lab": [
+        41.1668,
+        11.6938,
+        -37.0729
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD23",
+      "name": "浅紫白 / Light Purple-White",
+      "hex": "#D6D2E2",
+      "lab": [
+        84.9353,
+        4.3247,
+        -7.3829
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD24",
+      "name": "紫蓝 / Purple-Blue",
+      "hex": "#7776D1",
+      "lab": [
+        53.4721,
+        23.4171,
+        -46.9719
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD25",
+      "name": "深紫蓝 / Deep Purple-Blue",
+      "hex": "#3837A8",
+      "lab": [
+        30.3986,
+        36.5407,
+        -60.4958
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "MD26",
+      "name": "淡紫粉 / Pale Purple-Pink",
+      "hex": "#DDC8DD",
+      "lab": [
+        82.8612,
+        11.0265,
+        -7.7314
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MD"
+    },
+    {
+      "code": "ME1",
+      "name": "浅肉色 / Light Skin",
+      "hex": "#FDD6C9",
+      "lab": [
+        88.5408,
+        11.6312,
+        11.4792
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME2",
+      "name": "淡粉红 / Pale Pink",
+      "hex": "#FFD8F4",
+      "lab": [
+        90.2779,
+        18.1311,
+        -8.5998
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME3",
+      "name": "浅粉紫 / Light Pink-Purple",
+      "hex": "#FFA0C3",
+      "lab": [
+        76.2811,
+        39.71,
+        -3.0055
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME4",
+      "name": "粉红 / Pink",
+      "hex": "#F67AAB",
+      "lab": [
+        66.8676,
+        52.584,
+        -3.6336
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME5",
+      "name": "亮粉红 / Bright Pink",
+      "hex": "#DA5B95",
+      "lab": [
+        56.6455,
+        55.4772,
+        -6.5517
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME6",
+      "name": "深粉红 / Deep Pink",
+      "hex": "#FF4B78",
+      "lab": [
+        59.5755,
+        70.0529,
+        15.449
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME7",
+      "name": "暗粉红 / Dark Pink",
+      "hex": "#9E156B",
+      "lab": [
+        35.731,
+        58.8647,
+        -13.4614
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME8",
+      "name": "浅粉 / Light Pink",
+      "hex": "#FFE1E6",
+      "lab": [
+        92.0539,
+        11.1009,
+        1.3503
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME9",
+      "name": "兰粉 / Orchid Pink",
+      "hex": "#F378CA",
+      "lab": [
+        67.0936,
+        56.8215,
+        -20.7931
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME10",
+      "name": "深兰粉 / Deep Orchid Pink",
+      "hex": "#BE316D",
+      "lab": [
+        44.5909,
+        59.5996,
+        -0.8397
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME11",
+      "name": "浅肤色 / Light Skin",
+      "hex": "#FFE8DA",
+      "lab": [
+        93.4665,
+        5.597,
+        9.6456
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME12",
+      "name": "淡肤色 / Pale Skin",
+      "hex": "#FFA5C6",
+      "lab": [
+        77.431,
+        37.546,
+        -2.956
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME13",
+      "name": "深品红 / Deep Magenta",
+      "hex": "#B53883",
+      "lab": [
+        44.6508,
+        57.0775,
+        -14.4257
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME14",
+      "name": "浅杏粉 / Light Apricot Pink",
+      "hex": "#FFDDC7",
+      "lab": [
+        90.3671,
+        8.4471,
+        15.1399
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME15",
+      "name": "浅粉肤 / Light Pink Skin",
+      "hex": "#E5C6D0",
+      "lab": [
+        82.7011,
+        12.5614,
+        -0.9362
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME16",
+      "name": "淡米白 / Pale Cream",
+      "hex": "#F9F2EB",
+      "lab": [
+        95.8484,
+        1.1473,
+        4.202
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME17",
+      "name": "淡粉白 / Pale Pink-White",
+      "hex": "#E7DCE6",
+      "lab": [
+        88.87,
+        5.5103,
+        -3.5413
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME18",
+      "name": "浅粉白 / Light Pink-White",
+      "hex": "#FFD3E6",
+      "lab": [
+        88.716,
+        18.3835,
+        -3.5341
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME19",
+      "name": "淡粉 / Pale Pink",
+      "hex": "#FFD5EC",
+      "lab": [
+        89.3492,
+        18.3346,
+        -5.765
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME20",
+      "name": "灰粉 / Gray Pink",
+      "hex": "#F3DCE8",
+      "lab": [
+        89.8911,
+        9.9222,
+        -2.9804
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME21",
+      "name": "棕粉 / Brown Pink",
+      "hex": "#BD9CA3",
+      "lab": [
+        67.4577,
+        13.3492,
+        0.95
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME22",
+      "name": "灰棕粉 / Gray Brown Pink",
+      "hex": "#C578A5",
+      "lab": [
+        59.9087,
+        36.3518,
+        -11.2492
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME23",
+      "name": "深灰粉 / Deep Gray Pink",
+      "hex": "#A37A9B",
+      "lab": [
+        56.1609,
+        21.5741,
+        -11.5057
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "ME24",
+      "name": "浅紫粉 / Light Purple Pink",
+      "hex": "#F4E8FF",
+      "lab": [
+        93.5228,
+        8.1477,
+        -9.6342
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "ME"
+    },
+    {
+      "code": "MF1",
+      "name": "浅红 / Light Red",
+      "hex": "#FF7F67",
+      "lab": [
+        67.5939,
+        46.729,
+        35.6942
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF2",
+      "name": "深红 / Deep Red",
+      "hex": "#FF5D46",
+      "lab": [
+        61.2531,
+        60.3278,
+        45.886
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF3",
+      "name": "砖红 / Brick Red",
+      "hex": "#E3564A",
+      "lab": [
+        55.5693,
+        54.0974,
+        35.9468
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF4",
+      "name": "亮红 / Bright Red",
+      "hex": "#C7270D",
+      "lab": [
+        43.6921,
+        60.2843,
+        52.6523
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF5",
+      "name": "正红 / True Red",
+      "hex": "#BE0A27",
+      "lab": [
+        40.105,
+        63.8209,
+        36.5977
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF6",
+      "name": "深棕红 / Deep Brown Red",
+      "hex": "#83411E",
+      "lab": [
+        35.4021,
+        25.6367,
+        33.3166
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF7",
+      "name": "暗棕红 / Dark Brown Red",
+      "hex": "#730037",
+      "lab": [
+        23.4113,
+        47.0379,
+        1.6756
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF8",
+      "name": "深红 / Dark Red",
+      "hex": "#AB0022",
+      "lab": [
+        35.5501,
+        59.986,
+        33.533
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF9",
+      "name": "浅红 / Light Red",
+      "hex": "#DE7995",
+      "lab": [
+        62.8254,
+        42.2431,
+        2.5857
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF10",
+      "name": "棕红 / Brown Red",
+      "hex": "#AB613C",
+      "lab": [
+        48.9282,
+        26.6038,
+        33.7549
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF11",
+      "name": "深棕 / Deep Brown",
+      "hex": "#5C2929",
+      "lab": [
+        23.7437,
+        23.3343,
+        11.0908
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF12",
+      "name": "玫瑰红 / Rose Red",
+      "hex": "#F34461",
+      "lab": [
+        56.1458,
+        67.4041,
+        23.9716
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF13",
+      "name": "番茄红 / Tomato Red",
+      "hex": "#C64239",
+      "lab": [
+        47.2376,
+        51.9086,
+        34.5234
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF14",
+      "name": "浅粉红 / Light Pink-Red",
+      "hex": "#FFA5BB",
+      "lab": [
+        77.1385,
+        36.0233,
+        2.6246
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF15",
+      "name": "深绯红 / Deep Crimson",
+      "hex": "#BC0018",
+      "lab": [
+        39.1749,
+        64.0001,
+        43.803
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF16",
+      "name": "浅肉红 / Light Flesh Red",
+      "hex": "#FFD7CB",
+      "lab": [
+        89.0052,
+        12.1245,
+        11.1134
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF17",
+      "name": "浅棕红 / Light Brown Red",
+      "hex": "#F19D8A",
+      "lab": [
+        72.6634,
+        29.1734,
+        22.912
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF18",
+      "name": "棕红 / Brown Red",
+      "hex": "#DC7B45",
+      "lab": [
+        61.4946,
+        33.2627,
+        45.2183
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF19",
+      "name": "深棕红 / Deep Brown Red",
+      "hex": "#C74651",
+      "lab": [
+        48.4111,
+        51.985,
+        21.8726
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF20",
+      "name": "灰棕红 / Gray Brown Red",
+      "hex": "#D8A89E",
+      "lab": [
+        72.9413,
+        16.1655,
+        11.9365
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF21",
+      "name": "浅粉棕 / Light Pink-Brown",
+      "hex": "#EB9DB9",
+      "lab": [
+        73.0773,
+        32.8938,
+        -2.4771
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF22",
+      "name": "淡粉棕 / Pale Pink-Brown",
+      "hex": "#FFD4D4",
+      "lab": [
+        88.4968,
+        15.0191,
+        5.6454
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF23",
+      "name": "珊瑚红 / Coral Red",
+      "hex": "#EA8474",
+      "lab": [
+        65.9509,
+        37.4356,
+        25.8553
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF24",
+      "name": "玫瑰红 / Rose Red",
+      "hex": "#F7C1C5",
+      "lab": [
+        82.8858,
+        19.8745,
+        5.426
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MF25",
+      "name": "砖红 / Brick Red",
+      "hex": "#FC5768",
+      "lab": [
+        60.3535,
+        63.6131,
+        25.7245
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MF"
+    },
+    {
+      "code": "MG1",
+      "name": "淡肤色 / Pale Skin",
+      "hex": "#FFE7C8",
+      "lab": [
+        92.832,
+        3.4562,
+        18.0849
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG2",
+      "name": "浅肤色 / Light Skin",
+      "hex": "#FFD6C3",
+      "lab": [
+        88.5887,
+        11.5068,
+        14.7254
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG3",
+      "name": "肤色 / Skin",
+      "hex": "#EEB694",
+      "lab": [
+        78.33,
+        15.8763,
+        25.152
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG4",
+      "name": "深肤色 / Deep Skin",
+      "hex": "#D9A58C",
+      "lab": [
+        71.9321,
+        15.8236,
+        20.3923
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG5",
+      "name": "棕金 / Brown Gold",
+      "hex": "#F49630",
+      "lab": [
+        70.3607,
+        27.9973,
+        64.4621
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG6",
+      "name": "深棕金 / Deep Brown Gold",
+      "hex": "#F19937",
+      "lab": [
+        70.7078,
+        25.4257,
+        61.9637
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG7",
+      "name": "深棕 / Deep Brown",
+      "hex": "#AC745B",
+      "lab": [
+        54.0468,
+        19.0652,
+        22.7422
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG8",
+      "name": "深棕色 / Dark Brown",
+      "hex": "#694A42",
+      "lab": [
+        34.5893,
+        11.9977,
+        10.0046
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG9",
+      "name": "浅棕 / Light Brown",
+      "hex": "#F7CC9D",
+      "lab": [
+        84.688,
+        8.8487,
+        29.134
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG10",
+      "name": "棕色 / Brown",
+      "hex": "#C7832F",
+      "lab": [
+        60.4118,
+        19.1436,
+        53.5358
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG11",
+      "name": "浅棕金 / Light Brown Gold",
+      "hex": "#D3C391",
+      "lab": [
+        78.998,
+        -1.8752,
+        27.2154
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG12",
+      "name": "浅橙棕 / Light Orange Brown",
+      "hex": "#E6B986",
+      "lab": [
+        78.0194,
+        9.5919,
+        32.0076
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG13",
+      "name": "棕红 / Brown Red",
+      "hex": "#C67B4F",
+      "lab": [
+        58.7321,
+        24.9341,
+        36.0323
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG14",
+      "name": "深棕 / Deep Brown",
+      "hex": "#8D6242",
+      "lab": [
+        45.3489,
+        13.5639,
+        25.0927
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG15",
+      "name": "淡米黄 / Pale Cream Yellow",
+      "hex": "#F6F7E2",
+      "lab": [
+        96.6589,
+        -3.8905,
+        9.983
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG16",
+      "name": "浅米肤 / Light Cream Skin",
+      "hex": "#F2E7D7",
+      "lab": [
+        92.1033,
+        1.0695,
+        9.1151
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG17",
+      "name": "深棕灰 / Deep Brown Gray",
+      "hex": "#786562",
+      "lab": [
+        44.4938,
+        7.0531,
+        4.5187
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG18",
+      "name": "浅肤米 / Light Skin Cream",
+      "hex": "#FEF5EB",
+      "lab": [
+        96.9732,
+        1.3271,
+        5.877
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG19",
+      "name": "橙棕 / Orange Brown",
+      "hex": "#F0AB47",
+      "lab": [
+        74.8944,
+        16.2039,
+        59.4427
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG20",
+      "name": "深橙棕 / Deep Orange Brown",
+      "hex": "#AE6949",
+      "lab": [
+        51.3648,
+        24.3918,
+        29.5654
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MG21",
+      "name": "棕灰 / Brown Gray",
+      "hex": "#BF8C6E",
+      "lab": [
+        62.4743,
+        15.5671,
+        23.6348
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MG"
+    },
+    {
+      "code": "MH1",
+      "name": "透明 / Transparent",
+      "hex": "#FFFFFF00",
+      "lab": [
+        100,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH2",
+      "name": "极白 / Pure White",
+      "hex": "#FFFFFF",
+      "lab": [
+        100,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH3",
+      "name": "浅灰 / Light Gray",
+      "hex": "#9B9B9B",
+      "lab": [
+        63.9806,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH4",
+      "name": "中灰 / Medium Gray",
+      "hex": "#6D6D6D",
+      "lab": [
+        46.0324,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH5",
+      "name": "深灰 / Deep Gray",
+      "hex": "#4D4D4D",
+      "lab": [
+        32.7475,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH6",
+      "name": "深深灰 / Very Dark Gray",
+      "hex": "#3A3A3A",
+      "lab": [
+        24.4213,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH7",
+      "name": "黑色 / Black",
+      "hex": "#000000",
+      "lab": [
+        0,
+        0,
+        0
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH8",
+      "name": "淡棕灰 / Pale Brown Gray",
+      "hex": "#FFF0F1",
+      "lab": [
+        95.9685,
+        5.209,
+        1.3303
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH9",
+      "name": "淡灰紫 / Pale Gray Purple",
+      "hex": "#E3E6DF",
+      "lab": [
+        90.8949,
+        -2.2492,
+        3.0516
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH10",
+      "name": "浅灰 / Light Gray",
+      "hex": "#E2E0E7",
+      "lab": [
+        89.5098,
+        1.9386,
+        -3.1712
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH11",
+      "name": "灰色 / Gray",
+      "hex": "#BCB8B5",
+      "lab": [
+        75.0193,
+        0.8605,
+        2.0181
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH12",
+      "name": "淡米白 / Pale Cream White",
+      "hex": "#F7F3E1",
+      "lab": [
+        95.7107,
+        -1.691,
+        9.1506
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH13",
+      "name": "淡紫灰 / Pale Purple Gray",
+      "hex": "#EADDC8",
+      "lab": [
+        88.627,
+        1.012,
+        11.9057
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH14",
+      "name": "灰绿 / Gray Green",
+      "hex": "#B8C8C5",
+      "lab": [
+        79.3453,
+        -6.0099,
+        -0.3691
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH15",
+      "name": "淡灰绿 / Pale Gray Green",
+      "hex": "#99ABAC",
+      "lab": [
+        68.6614,
+        -6.0451,
+        -2.6467
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH16",
+      "name": "深灰 / Dark Gray",
+      "hex": "#444236",
+      "lab": [
+        27.823,
+        -1.5709,
+        7.6247
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH17",
+      "name": "淡灰 / Pale Gray",
+      "hex": "#FAFBF5",
+      "lab": [
+        98.3969,
+        -1.3745,
+        2.753
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH18",
+      "name": "淡白 / Pale White",
+      "hex": "#FEFEEE",
+      "lab": [
+        99.2715,
+        -2.7179,
+        7.6472
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH19",
+      "name": "淡米灰 / Pale Cream Gray",
+      "hex": "#FBF2E4",
+      "lab": [
+        95.8372,
+        0.6796,
+        7.8232
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH20",
+      "name": "中灰 / Medium Gray",
+      "hex": "#9EAEAD",
+      "lab": [
+        69.865,
+        -5.7575,
+        -1.3919
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH21",
+      "name": "淡黄白 / Pale Yellow White",
+      "hex": "#FDFFF2",
+      "lab": [
+        99.5394,
+        -2.8921,
+        5.9746
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH22",
+      "name": "浅灰 / Light Gray",
+      "hex": "#EDEDE7",
+      "lab": [
+        93.5991,
+        -1.0518,
+        2.9005
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MH23",
+      "name": "灰绿 / Gray Green",
+      "hex": "#B4B8A7",
+      "lab": [
+        74.0452,
+        -4.4768,
+        8.1548
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MH"
+    },
+    {
+      "code": "MM1",
+      "name": "灰绿 / Gray Green",
+      "hex": "#AEBBA8",
+      "lab": [
+        74.4234,
+        -8.0359,
+        8.092
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MM"
+    },
+    {
+      "code": "MM2",
+      "name": "深灰绿 / Deep Gray Green",
+      "hex": "#729376",
+      "lab": [
+        57.8011,
+        -17.5631,
+        11.6548
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MM"
+    },
+    {
+      "code": "MM3",
+      "name": "蓝灰绿 / Blue Gray Green",
+      "hex": "#6A8890",
+      "lab": [
+        54.7467,
+        -8.6392,
+        -7.7538
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MM"
+    },
+    {
+      "code": "MM4",
+      "name": "淡棕灰 / Pale Brown Gray",
+      "hex": "#BEB39D",
+      "lab": [
+        73.2999,
+        0.2309,
+        12.6501
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MM"
+    },
+    {
+      "code": "MM5",
+      "name": "灰棕 / Gray Brown",
+      "hex": "#B8B78C",
+      "lab": [
+        73.514,
+        -6.7158,
+        22.069
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MM"
+    },
+    {
+      "code": "MM6",
+      "name": "深灰棕 / Deep Gray Brown",
+      "hex": "#B2AC93",
+      "lab": [
+        70.2299,
+        -2.1185,
+        13.6476
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MM"
+    },
+    {
+      "code": "MM7",
+      "name": "灰棕 / Gray Brown",
+      "hex": "#BC9F94",
+      "lab": [
+        67.7448,
+        8.9262,
+        9.7106
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MM"
+    },
+    {
+      "code": "MM8",
+      "name": "棕灰 / Brown Gray",
+      "hex": "#968381",
+      "lab": [
+        56.3891,
+        6.862,
+        3.7336
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MM"
+    },
+    {
+      "code": "MM9",
+      "name": "深棕 / Deep Brown",
+      "hex": "#B39D88",
+      "lab": [
+        66.1178,
+        4.7383,
+        13.9665
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MM"
+    },
+    {
+      "code": "MM10",
+      "name": "紫灰 / Purple Gray",
+      "hex": "#B796A3",
+      "lab": [
+        65.3775,
+        14.4665,
+        -2.1606
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MM"
+    },
+    {
+      "code": "MM11",
+      "name": "深紫灰 / Deep Purple Gray",
+      "hex": "#B096B9",
+      "lab": [
+        65.3937,
+        16.1013,
+        -14.5592
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MM"
+    },
+    {
+      "code": "MM12",
+      "name": "深棕灰 / Deep Brown Gray",
+      "hex": "#685951",
+      "lab": [
+        39.04,
+        4.6845,
+        6.8883
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MM"
+    },
+    {
+      "code": "MM13",
+      "name": "棕色 / Brown",
+      "hex": "#C79582",
+      "lab": [
+        65.9435,
+        16.204,
+        17.3616
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MM"
+    },
+    {
+      "code": "MM14",
+      "name": "深棕 / Deep Brown",
+      "hex": "#CA694F",
+      "lab": [
+        55.3061,
+        36.1618,
+        31.9431
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MM"
+    },
+    {
+      "code": "MM15",
+      "name": "深灰 / Deep Gray",
+      "hex": "#929FA9",
+      "lab": [
+        64.7806,
+        -2.5008,
+        -6.7629
+      ],
+      "confidence": "high",
+      "sources": [
+        "artkal-official",
+        "bitbead"
+      ],
+      "group": "MM"
+    }
+  ],
+  "sets": [
+    {
+      "count": 221,
+      "codes": [],
+      "codesKnown": false,
+      "note": "零售端常见档位。具体色号构成因商家而异，无公开可靠数据，请手动勾选或导入实际色号。"
+    }
+  ],
+  "attribution": {
+    "sources": [
+      "Artkal 官方 RGB PDF",
+      "pomodiary/bitbead.app (CC BY 4.0)"
+    ],
+    "license": "MIT + CC BY 4.0",
+    "notice": "Artkal M 系是官方对 MARD 的兼容体系（MA1 对应 MARD A1），但它是 Artkal 官方口径，不是 MARD 原厂色卡。色号可对应不等于颜色相同，仅可作交叉校验参考。"
+  }
+}
