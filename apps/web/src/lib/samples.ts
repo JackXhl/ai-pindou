@@ -16,6 +16,45 @@ export interface SampleMeta {
   totalColors: number;
 }
 
+export const SAMPLE_TAGS = [
+  '入门',
+  '可爱',
+  '风景',
+  '静物',
+  '人像感',
+  '节日',
+  '几何',
+] as const;
+export type SampleTag = (typeof SAMPLE_TAGS)[number];
+
+export function filterSamplesByTag(
+  items: SampleMeta[],
+  tag: SampleTag | '全部',
+): SampleMeta[] {
+  if (tag === '全部') return items.slice();
+  return items.filter((s) => s.tag === tag);
+}
+
+export function paginateSamples(
+  items: SampleMeta[],
+  page: number,
+  pageSize: number,
+): { pageItems: SampleMeta[]; totalPages: number } {
+  const size = Math.max(1, pageSize);
+  const totalPages = Math.max(1, Math.ceil(items.length / size));
+  const p = Math.min(Math.max(1, page), totalPages);
+  const start = (p - 1) * size;
+  return { pageItems: items.slice(start, start + size), totalPages };
+}
+
+export function takeSampleBatch(
+  items: SampleMeta[],
+  offset: number,
+  batchSize: number,
+): SampleMeta[] {
+  return items.slice(offset, offset + Math.max(1, batchSize));
+}
+
 export interface SamplePattern extends SampleMeta {
   paletteId: string;
   colors: PaletteColor[];
